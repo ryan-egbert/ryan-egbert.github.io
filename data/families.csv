@@ -1,0 +1,4518 @@
+name,identifier,parent
+Muskogean,genus/muskogean,tree
+Alabaman-Koasati,None,musk1252
+Western Muskogean,None,musk1252
+Maban,genus/maban,tree
+Mabang,None,maba1274
+Runga-Kibet,None,maba1275
+Maba-Masalit,None,maba1275
+Macro-Masalit,None,maba1276
+Macro-Maba,None,maba1276
+Boran,genus/boran,tree
+Rashad,None,tree
+Mirndi,None,tree
+Yirram,None,mirn1241
+Ngurlun,None,mirn1241
+Kuliak,genus/kuliak,tree
+Ngangea-So,None,kuli1252
+Sentanic,genus/sentani,tree
+Nuclear Sentanic,None,sent1261
+Sentani-Nafri,None,nucl1631
+Hatam-Mansim,None,tree
+Arafundi,None,tree
+Unclassified Arafundi,None,araf1243
+Bunaban,None,tree
+Temeinic,genus/temein,tree
+South-Eastern Tasmanian,None,tree
+Chiquitano,None,tree
+Uru-Chipaya,genus/uruchipaya,tree
+West Bomberai,genus/westbomberai,tree
+Nuclear West Bomberai,None,west2604
+Ndu,None,tree
+Nuclear Ndu,None,nduu1242
+Ambulas-Hanga-Hundi,None,nucl1642
+Manambu-Yalaku,None,nucl1642
+Sawosic,None,nucl1642
+Burui-Gaikundi,None,sawo1235
+Iatmulic,None,sawo1235
+Angan,genus/angan,tree
+Nuclear Angan,None,anga1289
+Ankave-Tainae-Akoye,None,nucl1763
+Tainae-Akoye,None,sout3130
+Kapau-Menya,None,nucl1763
+Wojokesic,None,nucl1763
+Kamasa-Susuami,None,nort3145
+Baruya-Simbari,None,nucl1763
+Pomoan,genus/pomoan,tree
+Russian River and Eastern,None,pomo1273
+Russian River,None,russ1265
+Northern-Central Pomoan,None,russ1266
+Southern Pomoan-Kashaya,None,russ1266
+Mixed Language,None,tree
+Warlpiri-Kriol,None,mixe1287
+German-Yiddish-Romani-Rotwelsch,None,mixe1287
+Quechua-Puquina,None,mixe1287
+Cakchiquel-Quiche,None,mixe1287
+Miao-Dong,None,mixe1287
+Serbian-Romani,None,mixe1287
+Persian-Indic,None,mixe1287
+Spanish-Quechua,None,mixe1287
+Gurindji-Kriol,None,mixe1287
+Austronesian,None,tree
+Western Plains Austronesian,None,aust1307
+Central Western Plains,None,west2572
+Tsouic,None,aust1307
+Kanakanavu-Saaroa,None,tsou1250
+Atayalic,genus/atayalic,aust1307
+Malayo-Polynesian,None,aust1307
+Javanesic,None,mala1545
+Modern Javanese,None,java1253
+Northwest Sumatra-Barrier Islands,None,mala1545
+Batakic,None,nort2829
+Southern Batak,None,toba1265
+Tobaic,None,sout3166
+Angkola-Mandailing,None,sout2849
+Northern Batak,None,toba1265
+Nuclear Barrier Islands,None,nort2829
+Mentawai-Nias-Sikule,None,nucl1463
+Nias-Sikule,None,ment1248
+Batanic,None,mala1545
+Yami-Itbayat,None,bata1315
+Central-Eastern Malayo-Polynesian,None,mala1545
+Eastern Malayo-Polynesian,None,cent2237
+Oceanic,None,east2712
+North and Central Vanuatu,None,ocea1241
+Northern Vanuatu,None,nort3195
+Torres-Banks linkage,None,nort3205
+Hiw-Lo-Toga,None,torr1262
+Koto-Olrat-Lakon,None,torr1262
+Lemerig-Veraa,None,torr1262
+Maewo,None,nort3205
+Espiritu Santo,None,nort3205
+Nuclear Santo,None,espi1234
+East Santo,None,nucl1793
+Mafea-Tutuba,None,east2754
+Southeast Santo,None,east2754
+Shark Bayic,None,nucl1793
+South Santo,None,nucl1793
+Araki-Tangoa,None,sout3339
+West Santo,None,espi1234
+Cape Cumberland,None,west2956
+Southwest Santo,None,west2956
+South-Central Santo,None,west2956
+Central Santo,None,west2956
+Ambae,None,nort3205
+Central Vanuatu,None,nort3195
+Epi-Efate,None,cent2269
+Efate,None,epie1239
+South Efatic,None,efat1236
+North Efatic,None,efat1236
+Epi,None,epie1239
+Lamenu-Lewo,None,epii1237
+Bieria-Maii,None,epii1237
+Baki-Bierebo,None,epii1237
+Ambrym,None,cent2269
+Orkon-Port Vato-Dakaka,None,ambr1240
+Port Vato-Dakaka,None,port1292
+Malakula,None,cent2269
+Eastern Malakula linkage,None,mala1539
+Central-Southeast Malakula,None,east2753
+Southeastern Malakula linkage,None,cent2315
+Nasvang-Nisvai,None,sout3239
+Port Sandwich-Axamb-Avok,None,sout3239
+Unua-Pangkumu,None,cent2315
+Northern Malakula,None,mala1539
+North Coast Malakula,None,nort3223
+Botovro-Vovo-Vao,None,nort3230
+Western Malakula linkage,None,mala1539
+Central-Western Malakula,None,west2871
+Peripheral Western Malakula,None,west2871
+Southwestern Malakula,None,peri1262
+Southwest Coastal Malekula,None,sout3240
+Unclassified Southwestern Malakula,None,sout3240
+Nititi-Vivti,None,uncl1500
+Northwestern Malakula,None,peri1262
+Ninde-Nati,None,peri1262
+South Pentecost,None,cent2269
+Seke-Sowa,None,sout3188
+Central Pacific linkage,None,ocea1241
+West Fijian,None,cent2060
+Tokelau-Fijian,None,cent2060
+East Fijian,None,east2445
+Polynesian,None,east2445
+Tongic,None,poly1242
+Nuclear Polynesian,None,poly1242
+Ellicean,None,nucl1485
+Samoan-Tokelauan,None,elli1239
+Northern Outlier Polynesian-East Polynesian,None,nucl1485
+Carolinean Outlier Polynesian,None,nort3246
+Solomons Northern Outlier Polynesian-East Polynesian,None,nort3246
+Central Northern Outlier Polynesian-East Polynesian,None,solo1260
+East Polynesian,None,cent2298
+Central Eastern Polynesian,None,east2449
+Tahitian-Austral,None,cent2062
+Marquesan,None,cent2062
+Mangaia-Old Rapa,None,cent2062
+Central Northern Outlier Polynesian,None,cent2298
+Takuuic,None,cent2299
+Vanuatu-Loyalty Outliers,None,nucl1485
+Mele-Futuna,None,vanu1245
+East Uvean-Niuafo'ou,None,nucl1485
+Yapesic,None,ocea1241
+Western Oceanic linkage,None,ocea1241
+Papuan Tip linkage,None,west2818
+Nuclear Papuan Tip linkage,None,papu1253
+Suauic,None,nucl1744
+Suau chain,None,suau1243
+North Papuan Mainland-D'Entrecasteaux linkage,None,nucl1744
+Are-Taupota linkage,None,nort2848
+Are linkage,None,aret1241
+Boanaki-Paiwa,None,arei1235
+Are-Doga,None,arei1235
+Taupota linkage,None,aret1241
+Nuclear Taupota linkage,None,taup1241
+Eastern Taupota,None,nucl1794
+Taupota-Waiema,None,east2762
+Wedauic,None,nucl1794
+Kakabai linkage,None,nort2848
+Dobu-Duau linkage,None,nort2848
+Boselewa-Galeya,None,dobu1240
+Bunama-Mwatebu,None,dobu1240
+Bwaidoga linkage,None,nort2848
+Bwaidoka-Iduna,None,bwai1241
+Iamalelic,None,bwai1241
+Peripheral Papuan Tip linkage,None,papu1253
+Kilivila-Misima,None,peri1258
+Kilivilic,None,kili1270
+Kilivila-Muyuw,None,kili1266
+Nimoa-Sudest,None,peri1258
+Central Papuan Oceanic,None,peri1258
+West Central Papuan linkage,None,cent2070
+Nuclear West Central Papuan linkage,None,west2850
+Oumic,None,cent2070
+Magoric,None,oumi1237
+Sinagoro-Keapara,None,cent2070
+Hula-Keapara,None,sina1272
+Meso Melanesian linkage,None,west2818
+New Ireland-Northwest Solomonic linkage,None,meso1253
+Tabar linkage,None,newi1242
+St George linkage,None,newi1242
+Label-Bilur,None,stge1234
+Patpatar-Minigir-Tolai,None,stge1234
+Minigir-Tolai,None,patp1244
+Kandas-Duke of York,None,stge1234
+Northwest Solomonic,None,stge1234
+Mono-Uruavan,None,nort3225
+New Georgia,None,nort3225
+West New Georgia,None,newg1239
+Simboic,None,west2857
+Ghanongga-Lungga,None,simb1260
+East New Georgia,None,newg1239
+Rovianic,None,east2761
+Hoava-Kusaghe,None,rovi1239
+Marovo-Vangunu,None,east2761
+Choiseul,None,nort3225
+West Choiseul,None,choi1242
+East Choiseul,None,choi1242
+Southeast Choiseul,None,east2760
+North Bougainville Oceanic,None,nort3225
+Nuclear North Bougainville Oceanic,None,neha1246
+Buka,None,nucl1750
+Saposa-Tinputz,None,buka1262
+Tinputzic,None,sapo1252
+Haliaic,None,buka1262
+Santa Isabel,None,nort3225
+East Santa Isabel,None,sant1458
+Central Santa Isabel,None,sant1458
+Zazao-Blanga,None,cent2063
+West Santa Isabel,None,nort3225
+Banoni-Piva,None,nort3225
+Tungak-Nalik,None,newi1242
+Madak linkage,None,newi1242
+Bali-Vitu,bvi,meso1253
+Willaumez linkage,None,meso1253
+Nakanai-Meramera,None,will1243
+Bola-Bulu,None,will1243
+North New Guinea linkage,None,west2818
+Ngero-Vitiaz linkage,None,nort3206
+Ngero,None,nger1241
+Western Ngero,None,nger1240
+Tuam,None,west2862
+Eastern Ngero,None,nger1240
+Kaliai-Kove,None,east2772
+Vitiaz linkage,None,nger1241
+Bel-Roinji-Nenaya,None,viti1243
+Bel,None,belr1234
+Western Bel,None,bell1262
+Eastern Bel,None,bell1262
+Mengenic,None,viti1243
+Mamusa-Mengen,None,meng1266
+Southwest New Britain linkage,None,viti1243
+Arawe-Pasismanua,None,sout2874
+Pasismanua,None,araw1269
+Bebeli-Mangseng,None,araw1269
+Arawe,None,araw1269
+East Arawe,None,araw1283
+West Arawe,None,araw1283
+Bibling,None,sout2874
+Korap linkage,None,viti1243
+Sarmi-Jayapura Bay,None,nort3206
+Jayapura Bay,None,sarm1241
+Sarmi,None,sarm1241
+Sobei-Liki-Wakde,None,sarm1242
+Sobei-Liki,None,sobe1239
+Anus-Podena,None,sarm1242
+Huon Gulf,None,nort3206
+Markham,None,huon1245
+Watut,None,mark1257
+Upper Markham,None,mark1257
+Mountain Upper Markham,None,uppe1423
+Lower Markham,None,mark1257
+Busu,None,lowe1411
+Musom-Sirak,None,busu1245
+South Huon Gulf linkage,None,huon1245
+Buang linkage,None,sout2878
+Mapos-Mangga-Wagau,None,buan1245
+Mumeng,None,buan1245
+Zenag-Patep,None,mume1239
+Dambi-Kumaru,None,mume1239
+Misim-Yamap,None,sout2878
+North Huon Gulf linkage,None,huon1245
+Schouten linkage,None,nort3206
+Siau,None,scho1242
+Sissano-Tumleo,None,siau1243
+Sera-Sissano,None,siss1244
+Sissanoic,None,sera1271
+Ali-Tumleo,None,siss1244
+Kairiru-Manam,None,scho1242
+Manamic linkage,None,kair1261
+Bam-Manam,None,mana1294
+Manam-Sepa,None,bamm1241
+Kis-Wogeo,None,mana1294
+Kairiruic linkage,None,kair1261
+Kaiep-Terebu,None,kair1262
+Southeast Solomonic,None,ocea1241
+Guadalcanal-Nggelic,None,sout2853
+Southeast Guadalcanal,None,guad1241
+Nuclear Guadalcanal-Nggelic,None,guad1241
+North and West Guadalcanal,None,nucl1470
+Nggelic,None,nucl1470
+Longgu-Malaita-Makira,None,sout2853
+Malaita-Makira,None,mala1485
+Makira,None,mala1540
+Malaita,None,mala1540
+Southern Malaita,None,mala1542
+Central-Northern Malaita,None,mala1542
+North Malaitan,None,nort2833
+Temotu,None,ocea1241
+Reefs-Santa Cruz,None,temo1244
+Natugu-Nalogo,None,reef1242
+Utupua-Vanikoro,None,temo1244
+Utupua,None,utup1237
+Admiralty Islands,None,ocea1241
+Western Admiralty Islands,None,admi1239
+Anchorite,None,west2532
+Eastern Admiralty Islands,None,admi1239
+South-East Admiralty,None,east2459
+Lou-Paluai,None,sout2879
+Manus,None,east2459
+West Manus,None,manu1262
+West Manus I,None,west2533
+West Manus II,None,west2533
+Mokoreng-Loniu,None,manu1262
+East Manus,None,manu1262
+Kurti-Kele-Ere,None,east2460
+Kurti-Elu,None,kurt1251
+Koro-Lele-Nali-Titan,None,east2460
+Manus Koro,None,koro1314
+St. Matthias,None,ocea1241
+Micronesian,None,ocea1241
+Nuclear Micronesian,None,micr1243
+Central Micronesian,None,micr1244
+Western Micronesian,None,cent2276
+Chuukic-Ponapeic,None,west2844
+Trukic,None,pona1247
+Western Trukic,None,truk1243
+Sonsorol-Tobi,None,west2855
+Nuclear Trukic,None,truk1243
+Central Trukic,None,nucl1749
+Eastern Trukic,None,cent2290
+Puluwatese-Pollapese,None,east2764
+Mortlockese-Trukese,None,east2764
+Satawalese-Carolinian,None,cent2290
+Macro-Carolinian,None,sata1238
+Murilo-Fanapanges,None,macr1274
+Ponapeic,None,pona1247
+Southern Melanesian,None,ocea1241
+New Caledonian,None,sout3173
+Loyalty Islands,None,newc1243
+Mainland New Caledonian,None,newc1243
+Northern New Caledonian,None,main1286
+Mid-Northern New Caledonian,None,nort3325
+Voh-Kone-Cem-Pac,None,nort3211
+Voh-Kone,None,vohk1236
+Bwatooic,None,vohk1234
+Haeke-Bwatoo,None,bwat1242
+Cem-Pac,None,vohk1236
+Nmi-Pij-Fwa-Pam-Pap,None,nort3211
+Nmi-Fij-Fwa,None,nmip1235
+Hyenghene,None,nmif1235
+Extreme Northern New Caledonian,None,nort3325
+Kum-Nel-Yua-Cac,None,extr1244
+Kum-Nel-Yua,None,kumn1236
+Nyalayu,None,extr1244
+Southern New Caledonian,None,main1286
+Mid-Southern New Caledonian,None,sout3313
+Houailou,None,mids1246
+Extreme Southern New Caledonian,None,sout3313
+Southern Vanuatu,None,sout3173
+Erromanga,None,sout2868
+Tanna,None,sout2868
+Northern Tanna linkage,None,tann1242
+Whitesands-North Tanna linkage,None,nort3218
+Southern Tanna,None,tann1242
+Greater SHWNG,None,east2712
+Nabi-Irarutu,None,sout2850
+South Halmahera-West New Guinea,None,sout2850
+Lower Mamberamo,None,sout3229
+Yoke-Pauwi,None,lowe1409
+Bomberai,None,sout3229
+Raja Ampat-South Halmahera,None,sout3229
+Salawati-Batta,None,raja1255
+South Halmahera,None,raja1255
+Central-Eastern South Halmahera,None,sout3231
+East Makian-Gane,None,sout3231
+Ambel-Biga,None,raja1255
+Maya-Matbat,None,raja1255
+Raja Ampat Maya,None,maya1288
+Cenderawasih Bay,None,sout3229
+Southwest Cenderawasih Bay,None,cend1238
+Yaur-Yerisiam,None,sout3230
+Yapen,None,cend1238
+Central-Western Yapen,None,yape1249
+Ansus-Ambai,None,cent2277
+Central Yapen,None,cent2277
+Serui-Busami,None,cent2308
+Eastern Yapen,None,yape1249
+Biakic,None,cend1238
+Biak-Roon,None,biak1249
+Central Malayo-Polynesian,None,cent2237
+Bima-Lembata,None,cent2245
+Flores-Lembata,None,bima1248
+Lamaholot Barat,None,flor1239
+North Lembata-Adonara,None,lama1293
+Flores Lamaholot,None,lama1293
+Lamaholot Tengah,None,flor1239
+Southeast Lembata,None,lama1294
+Lamaholot Timur,None,flor1239
+Flores-Sumba-Hawu,None,bima1248
+Sumba-Hawu,None,flor1240
+Sumba,None,sumb1242
+Central-East Sumbanese,None,sumb1243
+Central Sumbanese,None,kamb1320
+Wewewa-Laboya,None,sumb1243
+Hawu-Dhao,None,sumb1242
+Flores Barat,None,flor1240
+Manggaraiic,None,flor1241
+Manggarai Khusus,None,mang1430
+Waerana-Razong,None,mang1430
+Central Flores-Paluqe,None,flor1241
+Central Flores,None,ngad1265
+Ngada,None,ngad1266
+Eastern Central Flores,None,ngad1266
+Ende-Lio,None,ende1245
+Nage-Keo,None,ende1245
+Central Maluku,None,cent2245
+Teor-Kur,None,cent2254
+West Central Maluku,None,cent2254
+Buru-Sula-Taliabo,None,west2817
+Sula-Buru,None,buru1321
+Buruic,None,sula1247
+Taliaboic,None,buru1321
+East Central Maluku,None,cent2254
+East Seram,None,east2466
+East Rivers Seram,None,east2741
+Setic,None,east2741
+Banda-Geser,None,east2466
+Seran Laut,None,band1354
+Geser-Gorom-Bati,None,gese1239
+Nunusaku,None,east2466
+Three Rivers,None,nunu1252
+Amalumute,None,thre1238
+Northwest Seram,None,amal1243
+Ulat Inai,None,nort3221
+Piru Bay,None,nunu1252
+East Piru Bay,None,piru1243
+Solehua,None,east2752
+Seram Straits,None,sole1243
+Uliase,None,sera1270
+Hatuhaha,None,ulia1238
+Saparuan,None,hatu1247
+Elpaputi,None,hatu1244
+Saparua-Latu,None,hatu1244
+Ambonic,None,sera1270
+Northeast Ambon,None,ambo1254
+Central Ambon,None,ambo1254
+Eastern Littoral Piru Bay,None,east2752
+West Piru Bay,None,piru1243
+Hoamoal,None,west2843
+West Hoamoal,None,hoam1238
+East Hoamoal,None,hoam1238
+Patakai-Manusela,None,nunu1252
+Patakai,nua,pata1263
+Manusela-Huaulu,None,pata1263
+Timoric B,None,cent2245
+Eastern Timoric B,None,timo1260
+Western Timoric B,None,timo1260
+Kemak-Tukudede,None,west2945
+Timoric A,None,cent2245
+Northern Timoric A,None,timo1259
+Teun-Nila-Serua,None,nort3194
+Nila-Serua,None,teun1242
+Wetar,None,nort3194
+Perai-Tugun-Aputai,None,weta1245
+Perai-Aputai,None,pera1258
+Western Timoric A,None,timo1259
+Rote-Meto,None,west2545
+West Rote,None,rote1234
+East Rote-Meto,None,rote1234
+Central-Eastern Rote-Meto,None,east2858
+Eastern-East-Central Rote-Meto,None,cent2375
+Eastern Rote-Meto,None,east2859
+Uab Metoic,None,east2860
+Northeast Meto,None,uabm1238
+Tii-Lole,None,east2858
+Eastern Timoric A,None,timo1259
+Kawaimina,None,east2732
+Luangic-Kisaric,None,east2732
+Luangic,None,luan1261
+Kisaric,None,luan1261
+Central Timoric A,None,timo1259
+Tetunic,None,cent2079
+South Tanimbar,None,cent2245
+Aru,None,cent2245
+Ujir-Kola-Kompane,None,aruu1241
+Kola-Kompane,None,ujir1238
+Karey-Barakai,None,aruu1241
+Batuley-Mariri,None,aruu1241
+Central Aru,None,aruu1241
+Dobel-Koba,None,cent2309
+Babar,None,cent2245
+North Babaric,None,baba1274
+South Babar,None,baba1274
+Southwest Babar,None,sout2881
+Masela-South Babar,None,sout2881
+Kei-Tanimbar,None,cent2245
+Yamdena-Onin,None,keit1238
+Oninic,None,yamd1241
+Kei-Fordata,None,keit1238
+North Mangyan,None,mala1545
+Kalamian,None,mala1545
+Malayo-Sumbawan,None,mala1545
+Sundanese-Badui,None,mala1536
+Maduresic,None,mala1536
+North and East Malayo-Sumbawan,None,mala1536
+Bali-Sasak-Sumbawa,None,nort3170
+Sasak-Sumbawa,None,bali1277
+Malayic,None,nort3170
+Vehicular Malay,None,mala1538
+Eastern Indonesia Trade Malay,None,vehi1234
+Manadoic Malay,None,east2743
+Ambonic Malay,None,east2743
+Western Malayic Dayak,None,mala1538
+Nuclear Malayic,None,mala1538
+Betawic,None,nucl1733
+Singapore Archipelago Malay,None,nucl1733
+Unclassified Malayic,None,nucl1733
+Indonesian Archipelago Malay,None,nucl1733
+Bangka-Belitung Malay,None,indo1326
+Ibanic,None,nucl1733
+Minangkabauic,None,nucl1733
+Middle Sumatra Malay,None,nucl1733
+Borneo Malay,None,nucl1733
+Southeast Borneo Malay,None,born1255
+East Borneo Malay,None,sout3190
+Banjar-Berau-Brunei Malay,None,east2755
+Berau-Brunei Malay,None,banj1240
+Banjar-Bukit Malay,None,banj1240
+Brunei-Bacan Malay,None,born1255
+Aceh-Chamic,None,nort3170
+Chamic,None,cham1327
+Highlands Chamic,None,cham1330
+Rade-Jarai,None,high1280
+Chru-Northern Cham,None,high1280
+Northern Cham,None,chru1238
+Chruic,None,chru1238
+Coastal Chamic,None,cham1330
+Cham,None,coas1305
+Central Luzon,None,mala1545
+Sambalic,None,cent2080
+Mag-Ayta,None,samb1319
+Abellen-Botolan,None,samb1319
+Tina-Bolinao,None,samb1319
+Greater Central Philippine,None,mala1545
+Danaw,None,grea1284
+Palawanic,None,grea1284
+Southern Palawanic,None,pala1354
+Molbog-Palawan,None,sout3165
+Nuclear Palawan,None,molb1238
+Brooke-Canipaan Palawan,None,nucl1738
+Northern Palawanic,None,pala1354
+Batak-Central Tagbanwa,None,nort3185
+Subanen,None,grea1284
+Nuclear Subanen,None,suba1253
+East Nuclear Subanen,None,nucl1726
+Western Subanen,None,suba1253
+Manobo,None,grea1284
+Central and Southern Manobo,None,mano1276
+East-West-Central Manobo,None,cent2255
+West Manobo,None,east2778
+WBM-Livunganen-Ilianen,None,west2829
+East and Central Manobo,None,east2778
+East Manobo,None,east2742
+Central Manobo,None,east2742
+South Manobo,None,cent2255
+Sarangani-Tasaday-Cotabato,None,sout2913
+North Manobo,None,mano1276
+Kinamiguin-Bukidnon,None,nort2884
+Bukidnon,None,kina1254
+Central Philippine,None,grea1284
+Tagalogic,None,cent2246
+Tagalog-Filipino,None,taga1280
+Mansakan,None,cent2246
+Eastern Mansakan,None,mans1261
+Western Mansakan,None,mans1261
+Kagan-Kalagan,None,west2552
+Bisayan,None,cent2246
+Central Bisayan,None,bisa1268
+Warayan,None,cent2263
+Samar-Waray,None,wara1304
+Peripheral Central Bisayan,None,cent2263
+Capiznon-Ilonggo-Kawayan,None,peri1261
+Masbate-Sorsogon,None,peri1261
+Unclassified Bisayan,None,bisa1268
+West Bisayan,None,bisa1268
+Kuyan,None,west2820
+Datagnon-Santa Teresa-Semirara,None,kuya1251
+Kinarayan,None,west2820
+Aklan,None,west2820
+Negrosanon,None,bisa1268
+South Bisayan,None,bisa1268
+Surigao,None,sout3175
+Butuan-Tausug,None,sout3175
+Bikol,None,cent2246
+Coastal Bikol,None,biko1240
+Inland Bikol,None,biko1240
+Inagta Bikol,None,biko1240
+Alabat-Manide Agta,None,cent2246
+Gorontalo-Mongondow,None,grea1284
+Mongondowic,None,goro1257
+Gorontalic,None,goro1257
+South Mangyan,None,grea1284
+Buhid-Taubuid,None,sout2915
+Batangan,None,buhi1244
+Bilic,None,mala1545
+Tboli-Blaan,None,bili1253
+Blaan,None,tbol1241
+Sangiric,None,mala1545
+Southern Sangiric,None,sang1335
+Northern Sangiric,None,sang1335
+Sangil-Sangir,None,nort3174
+Northern Luzon,None,mala1545
+Cagayan Valley,None,nort3238
+Ibanagic,None,caga1241
+Atta,None,iban1268
+Gaddangic,None,iban1268
+Cagayan-Baliwon Gaddang,None,gadd1245
+Northeastern Luzon,None,nort3238
+Nuclear Northeastern Luzon,None,nort3187
+Paranan-Pahanan,None,nucl1755
+Unclassified Northern Luzon,None,nort3238
+Meso-Cordilleran,None,nort3238
+South-Central Cordilleran,None,meso1254
+Central Cordilleran,None,sout3211
+North Central Cordilleran,None,cent2296
+Kalinga-Itneg,None,nort3240
+Itneg,None,kali1310
+Kalinga,None,kali1310
+Northern Kalinga,None,kali1311
+Northwest Kalinga,None,nort3226
+Central and South Kalinga,None,kali1311
+South Kalinga,None,cent2282
+Southeastern Kalinga,None,sout3203
+Masadiit,None,kali1311
+Nuclear Cordilleran,None,nort3240
+Ifugaw,None,nucl1754
+Batad-Mayoyao,None,ifug1247
+Bontok-Kankanay,None,nucl1754
+Kankanay,None,bont1246
+Maeng-Northern Kankanay,None,kank1245
+Bontok,None,bont1246
+Southern Cordilleran,None,sout3211
+West Southern Cordilleran,None,sout2907
+Nuclear Southern Cordilleran,None,west2550
+Kalanguya,None,nucl1542
+Minahasan,None,mala1545
+North Minahasan,None,mina1272
+Northeast Minahasan,None,nort2886
+South Sulawesi,None,mala1545
+Tamanic-Bugis,None,sout2923
+Bugis,None,bugi1243
+Tamanic,None,bugi1243
+Northern South Sulawesi,None,sout2923
+Pitu Ulunna Salu,None,nort2894
+Matangnga-Aralle-Tabulahan,None,pitu1237
+Torajic,None,nort2894
+Masenrempulu,None,nort2894
+Makassaric,None,sout2923
+Nuclear Makassaric,None,maka1310
+Konjo,None,maka1310
+Seko,None,sout2923
+Panasuanic,None,seko1241
+North Borneo Malayo-Polynesian,None,mala1545
+Southwest Sabahan,None,nort3253
+Greater Dusunic,None,sout3154
+Paitanic,None,grea1293
+Upper Kinabatangan-Lobu,None,pait1248
+Dusunic,None,grea1293
+Rungus-Mangkaak-Labuk,None,dusu1277
+Dumpas-Sukang,None,rung1260
+Kadazan-Dusun,None,dusu1277
+Sugut Kadazan,None,kada1292
+Bisaya-Lotud,None,grea1293
+Greater Murutic,None,sout3154
+Murutic,None,grea1294
+Eastern Murutic,None,muru1275
+Selungai-Sembakung Murut,None,east2724
+Northern Murutic,None,muru1275
+Sumambu-Tagal,None,nort3186
+Tidung-Bulusu,None,suma1273
+Tidung,None,tidu1238
+Kayan-Murik-Modang,None,nort3253
+Modang-Segai,None,kaya1335
+Kayan-Murik,None,kaya1335
+Kayanic,None,kaya1336
+Rejang-Makaham Kayan,None,kaya1333
+Sarawak-Melanau-Kajang,None,nort3253
+Melanau,None,sara1342
+Sibu-Kanowit-Tanjong,None,mela1255
+Kajang,None,sara1342
+Kajaman-Lahanan,None,kaja1255
+Punan-Muller-Schwaner,None,sara1342
+Muller-Schwaner,None,puna1279
+Punan,None,puna1279
+Punan Tubu-Bah,None,puna1280
+Bukat-Ukit-Beketan-Lugat-Lisum,None,puna1280
+Aput-Busang-Merah-Kohi,None,puna1280
+Northeast Sabahan,None,nort3253
+Unclassified North Borneo Malayo-Polynesian,None,nort3253
+North Sarawakan,None,nort3253
+Kenyahic,None,nort3171
+Lowland Kenyah,None,keny1280
+Western Lowland Kenyah-Penan,None,lowl1270
+Penan,None,west2875
+Western Penan-Sebop,None,pena1271
+Highland Kenyah,None,keny1280
+Upper Pujungan,None,high1288
+Berawan-Lower Baram,None,nort3171
+Lower Baram,None,bera1263
+Central Lower Baram B,None,cent2094
+Central Lower Baram A,None,cent2094
+Berawan,None,bera1263
+Central-East Berawan,None,bera1264
+Dayic,None,nort3171
+Kelabitic,None,kela1257
+Land Dayak,None,mala1545
+Benyadu-Bekati,None,land1261
+Bakati',None,beny1238
+Rara-Sara Bakati',None,baka1275
+Bidayuh-Southern Land Dayak,None,land1261
+Bidayuh-Rejang,None,bida1239
+Sadong-Rejang,None,bida1237
+Southern Land Dayak,None,bida1239
+Lampungic,None,mala1545
+Basap-Greater Barito,None,mala1545
+Greater Barito linkage,None,basa1291
+Sama-Bajaw,genus/samabajaw,grea1283
+Sulu-Borneo,None,sama1302
+Borneo Coast Bajaw,None,sulu1242
+Inner Sulu Sama,None,sulu1242
+North East Greater Barito,None,grea1283
+South West Greater Barito,None,grea1283
+Southeast Barito,None,grea1283
+Malagasic,None,sout2919
+North-Central Malagasic,None,mala1537
+Central-Eastern Malagasic,None,nort3196
+Northern Malagasic,None,nort3196
+Tsimihety-Betsimisaraka,None,nort3207
+Southwestern Malagasic,None,mala1537
+South West-Central Malagasic,None,sout3174
+Nuclear South West-Central Malagasic,None,sout3346
+Inland-Western Malagasic,None,nucl1799
+Western Malagasic,None,inla1273
+Bara-Tanosy,None,inla1273
+Maanyan-Paku,None,sout2919
+Barito-Mahakam,None,grea1283
+North West Greater Barito,None,grea1283
+Moken-Moklen,None,mala1545
+Celebic,None,mala1545
+Kaili-Pamona-Wotu-Wolio,None,cele1242
+Kaili-Pamona,None,kail1255
+Southern Kaili-Pamona,None,kail1253
+Badaic,None,sout2926
+Northern Kaili-Pamona,None,kail1253
+Kaili,None,nort2898
+Kulawi,None,kail1254
+Pamona-Tombelala,None,nort2898
+Wotu-Wolio,None,kail1255
+Kalao-Laiyolo,None,wotu1239
+Wolio-Kamaru,None,wotu1239
+Eastern Celebic,None,cele1242
+Southeastern Celebic,None,east2488
+Muna-Buton,None,sout2928
+Tukangbesi-Bonerate,None,muna1246
+Tukang Besi,tuk,tuka1246
+Nuclear Muna-Buton,None,muna1246
+Munan,None,nucl1573
+Munic,None,muni1256
+Western Munic,None,muni1259
+Butonic,None,nucl1573
+East Buton,None,buto1237
+Bungku-Tolaki,None,sout2928
+Western Bungku-Tolaki,None,bung1268
+West Coast Bungku-Tolaki,None,west2566
+Interior Bungku-Tolaki,None,west2566
+Eastern Bungku-Tolaki,None,bung1268
+East Coast Bungku-Tolaki,None,east2489
+Saluan-Banggai,None,east2488
+Eastern Saluan-Banggai,None,salu1251
+Western Saluan-Banggai,None,salu1251
+Saluanic,None,west2571
+Batui-Saluan,None,salu1252
+Tomini-Tolitoli,None,cele1242
+Tominic,None,tomi1241
+Southern Tomini,None,tomi1242
+Northern Tomini,None,tomi1242
+Tolitoli,None,tomi1241
+Northwest Formosan,None,aust1307
+East Formosan,None,aust1307
+Northern East Formosan,None,east2493
+Central East Formosan,None,east2493
+East Bird's Head,genus/eastbirdshead,tree
+Meax,None,east1459
+Yeniseian,genus/yeniseian,tree
+Southern Yeniseian,None,yeni1252
+Arin-Pumpokol,None,sout2751
+Northern Yeniseian,None,yeni1252
+Totonacan,genus/totonacan,tree
+Totonac,None,toto1251
+Central Totonacan,None,toto1252
+Lowland-Sierra Totonacan,None,cent1397
+Sierra Totonacan,None,lowl1271
+Northern Totonacan,None,cent1397
+Necaxan,None,nort3265
+Tepehua,None,toto1251
+Artificial Language,None,tree
+Esperantic,None,arti1236
+Efate-group-based Artificial Language,None,arti1236
+Mailuan,None,tree
+Binaharic,None,mail1249
+Bauwakic,None,mail1249
+Nuclear-Macro-Je,None,tree
+Aimore,None,nucl1710
+Je,None,nucl1710
+Je Setentrional,None,jeee1236
+Core Northern Je,None,jese1235
+Eastern Timbira,None,core1264
+Southeastern Timbira,None,timb1253
+Je Central,None,jeee1236
+Je Meridional,None,jeee1236
+Kaingang-Xokleng,None,jeme1246
+Kaingangic,None,kain1270
+Ingain-Kimda,None,jeme1246
+Jabuti,None,nucl1710
+Maxakalian,None,nucl1710
+Western Maxakali,None,maxa1246
+Unclassified Maxakalian,None,maxa1246
+Bororoan,None,tree
+Bororo-Otuke,None,boro1281
+Harakmbut,None,tree
+Miwok-Costanoan,None,tree
+Miwokan,None,miwo1274
+Western Miwokan,None,miwo1275
+Eastern Miwokan,None,miwo1275
+Sierra Miwokan,None,east2546
+Costanoan,genus/costanoan,miwo1274
+Northern Costanoan,None,cost1250
+Pauwasi,None,tree
+Western Pauwasi,None,pauw1244
+Eastern Pauwasi,None,pauw1244
+Left May,None,tree
+Western Left May,None,left1242
+Iteri-Bo,None,nucl1244
+Lower Sepik-Ramu,None,tree
+Ramu,None,lowe1437
+Lower Ramu,None,ramu1234
+Ottilien,None,lowe1439
+Watam-Kaian,None,wagg1235
+Bosngun-Awar,None,wagg1235
+Ruboni,None,lowe1439
+Mikarewan,None,kire1239
+Aian,None,ramu1234
+Agoan,None,ramu1234
+Goam,None,ramu1234
+Ataitan,None,goam1234
+Tangu-Igom,None,tang1354
+Tamolan,None,goam1234
+Unclassified Tamolan,None,tamo1242
+Breri-Romkun,None,tamo1242
+Lower Sepik,genus/lowersepik,lowe1437
+Karawarian,None,lowe1423
+Nor,None,lowe1423
+Mangarrayi-Maran,None,tree
+Maran,None,mang1423
+Hurro-Urartian,None,tree
+Arawakan,None,tree
+Southern Maipuran,None,araw1281
+Bolivian Arawakan,None,sout3131
+Unclassified Bolivian Arawakan,None,boli1260
+Mojeno-Paunaca,None,boli1260
+Mojeño,None,moxo1235
+Kampa-Amuesha,None,sout3131
+Pre-Andine Maipuran,None,kamp1244
+Asha-Ashe-Kak-Matsi-Nan,None,prea1240
+Asha-Ashe-Kak,None,asha1244
+Ashe-Asha,None,asha1241
+Ashe-Asha Norte,None,asha1242
+Asheninka,None,asha1242
+Matsi-Nan,None,asha1244
+Purus-Chamicuro,None,sout3131
+Purus,None,puru1269
+Yineic,None,puru1265
+Western Yineic,None,yine1239
+Unclassified Purus,None,puru1265
+Chamicuro-Morike,None,puru1269
+Alto Orinoco,None,araw1281
+Parenic,None,alto1249
+Caribbean Arawakan,None,araw1281
+Antillean Arawakan,None,cari1281
+Ineric,None,anti1247
+Island Carib-Garifuna,None,iner1234
+Unclassified Caribbean Arawakan,None,cari1281
+Guajiro-Paraujano,None,cari1281
+Japura-Colombia,None,araw1281
+Japura-Ica,None,japu1236
+Nuclear Japura-Colombia,None,japu1236
+Northeast Japura-Colombia,None,nucl1764
+Baniwa-Curripaco-Tariano,None,nort3362
+Baniwa-Curripaco,None,bani1258
+Piapoco-Achagua,None,nort3362
+Cassiquiare,None,nort3362
+Caqueta,None,nucl1764
+Medio Rio Negro,None,araw1281
+Marauia-Castana,None,alto1250
+Bareic,None,alto1250
+Negro-Roraima,None,araw1281
+Bahuanaic,None,negr1239
+Cariai-Manao,None,bahu1238
+Mapidianic,None,negr1239
+Wapishanan,None,mapi1253
+Wapishana-Atorai,None,wapi1252
+Unclassified Wapishanan,None,wapi1252
+Central Maipuran,None,araw1281
+Xaray,None,cent2226
+Xinguan Arawak,None,cent2226
+Waura-Mehinaku-Kustenau,None,xing1249
+Waura-Mehinaku,None,waur1246
+Piawi,None,tree
+Chukotko-Kamchatkan,family/chukotkokamchatkan,tree
+Chukotian,None,chuk1271
+Koryakic,None,chuk1272
+Kamchatkan,None,chuk1271
+Konda-Yahadian,None,tree
+Guahiboan,None,tree
+Guahibo-Cuiva,None,guah1252
+Guahibo-Playero,None,guah1253
+Timor-Alor-Pantar,None,tree
+Alor-Pantar,None,timo1261
+Teiwa-Sar,None,alor1249
+Alor,None,alor1249
+East Alor,None,alor1250
+East Alor Montane,None,kola1286
+West Alor,None,alor1250
+Straits West Alor,None,west2787
+Blagaric,None,stra1245
+Adang-Hamap-Kabola,None,stra1245
+Klon-Kafoa,None,west2787
+East Timor-Bunaq,None,timo1261
+East Timor,None,east2519
+Fataluku-Oirata,None,east2520
+Iroquoian,family/iroquoian,tree
+Northern Iroquoian,genus/northerniroquoian,iroq1247
+Mohawk-Oneida,None,nort2947
+Tuscarora-Nottoway,None,nort2947
+Chicham,genus/jivaroan,tree
+Shuaric,None,jiva1245
+Jarrakan,None,tree
+Haida,genus/haida,tree
+Northern Daly,genus/northerndaly,tree
+Eastern Trans-Fly,None,tree
+South Bird's Head Family,None,tree
+East South Bird's Head,None,sout1516
+Kemberanic,None,east1439
+Pidgin,None,tree
+French-based pidgin,None,pidg1258
+Slavey-French-based pidgin,None,fren1279
+Hindustani-based pidgin,None,pidg1258
+Tahitian-based pidgin,None,pidg1258
+Ewondo-based pidgin,None,pidg1258
+Choctaw-based pidgin,None,pidg1258
+Malay-based pidgin,None,pidg1258
+Arabic-based pidgin,None,pidg1258
+Iha-based pidgin,None,pidg1258
+Galibi-based pidgin,None,pidg1258
+Tobi-based pidgin,None,pidg1258
+Bobangi-based pidgin,None,pidg1258
+Ottawa-based pidgin,None,pidg1258
+Trio-based pidgin,None,pidg1258
+Swahili-based pidgin,None,pidg1258
+German-based pidgin,None,pidg1258
+Ngarluma-based pidgin,None,pidg1258
+Fijian-based pidgin,None,pidg1258
+Minigir-based pidgin,None,pidg1258
+Romance-based pidgin,None,pidg1258
+Delware-based pidgin,None,pidg1258
+Hawaiian-based pidgin,None,pidg1258
+Icelandic-based pidgin,None,pidg1258
+Hausa-based pidgin,None,pidg1258
+Basque-based pidgin,None,pidg1258
+English-based pidgin,None,pidg1258
+Motu-based pidgin,None,pidg1258
+Enga-based pidgin,None,pidg1258
+Onin-based pidgin,None,pidg1258
+Duvle-based pidgin,None,pidg1258
+Assamese-based pidgin,None,pidg1258
+Russian-based pidgin,None,pidg1258
+Kaurna-based pidgin,None,pidg1258
+Manambu-based pidgin,None,pidg1258
+Mekeo-based pidgin,None,pidg1258
+Sepik Iwam-based pidgin,None,pidg1258
+Yimas-based pidgin,None,pidg1258
+Zulu-based pidgin,None,pidg1258
+Chinook-based pidgin,None,pidg1258
+Japanese-based pidgin,None,pidg1258
+Portuguese-based pidgin,None,pidg1258
+Dutch-based pidgin,None,pidg1258
+Swedish-based pidgin,None,pidg1258
+Spanish-based pidgin,None,pidg1258
+Tukang Besi-based pidgin,None,pidg1258
+Eskimo-based pidgin,None,pidg1258
+Ainu,None,tree
+Hokkaido-Kuril Ainu,None,ainu1252
+Yangmanic,genus/yangmanic,tree
+Abkhaz-Adyge,None,tree
+Abkhaz-Abaza,None,abkh1242
+Circassian,None,abkh1242
+Goilalan,genus/goilalan,tree
+Weric,None,goil1242
+Jicaquean,None,tree
+Sign Language,None,tree
+Rural Sign Language,None,sign1238
+Providencia-Cayman Sign,None,vill1244
+Family Sign Language,None,sign1238
+Pidgin Sign Language,None,sign1238
+Deaf Sign Language,None,sign1238
+Arab Sign,None,deaf1237
+Levantine-Iraqi Sign,None,arab1398
+LSFic,None,deaf1237
+Yugoslav Sign,None,lsfi1234
+Danish Sign,None,lsfi1234
+Norwegian Sign,None,lsfi1234
+Italian Sign,None,lsfi1234
+ASLic,None,lsfi1234
+Malaysian Sign,None,asli1244
+Indonesian Sign,None,mala1548
+Costa Rica-Honduras-Panama Sign,None,asli1244
+West-Central South American Sign,None,asli1244
+Peruvian-Inmaculada Sign,None,west2886
+Nigerian Sign,None,asli1244
+American Sign,None,asli1244
+Dutch-Belgian Sign,None,lsfi1234
+Belgian Sign,None,dutc1259
+Catalan Sign,None,lsfi1234
+Central European Sign,None,lsfi1234
+JSLic,None,deaf1237
+Indo-Pakistani-Nepalese Sign,None,deaf1237
+Indo-Pakistani Sign,None,indo1331
+Old Chiangmai-Bangkok-Haiphong Sign,None,deaf1237
+Old Chiangmai-Bangkok Sign,None,oldc1249
+Russian Sign,None,deaf1237
+BSLic,None,deaf1237
+BANZL,None,bsli1234
+Auslan-PNG Sign,None,banz1243
+South African Sign,None,bsli1234
+Chile-Paraguay-Uruguay Sign,None,deaf1237
+Paraguay-Uruguay Sign,None,chil1284
+CSLic,None,deaf1237
+Nuclear CSLic,None,csli1234
+Ha-Hoic,None,csli1234
+Swedish Sign,None,deaf1237
+Finnish Sign,None,swed1257
+Unclassified Deaf Sign Language,None,deaf1237
+Spanish Sign,None,deaf1237
+DGSic,None,deaf1237
+Auxiliary Sign Systems,None,sign1238
+Khoe-Kwadi,None,tree
+Khoe,None,khoe1240
+Non-Khoekhoe,None,khoe1241
+West-Kxoe,None,nonk1236
+Kxoe-Ani,None,west2506
+Naro-Ana,None,west2506
+Ana,None,naro1248
+Ost-Kxoe,None,nonk1236
+Tshwa Khoe,None,ostk1235
+Khoekhoe,None,khoe1241
+North Khoekhoe,None,khoe1242
+South Khoekhoe,None,khoe1242
+Misumalpan,None,tree
+Sumalpan,None,misu1242
+Sumuic,None,suma1272
+Matagalpan,None,suma1272
+Puri-Coroado,None,tree
+Kayagaric,genus/kayagar,tree
+Kaygir-Tamagario,None,kaya1327
+Southern Daly,None,tree
+Coosan,genus/coosan,tree
+Tai-Kadai,None,tree
+Kam-Tai,None,taik1256
+Kam-Sui,None,kamt1241
+Mulam-Kam,None,kams1241
+Kamic,None,mula1252
+Northern Kam,None,kami1255
+Then-MMS,None,kams1241
+Maonan-Mak-Sui,None,then1235
+Maonan-Chadong,None,maon1239
+Mak-Ai-Cham,None,maon1239
+Lakkia-Biao,None,kamt1241
+Biaoic,None,lakk1237
+Daic-Beic,None,kamt1241
+Beic,None,daic1238
+Lingao,None,beic1239
+Daic,None,daic1238
+Central-Southwestern Tai,None,daic1237
+Wenma-Southwestern Tai,None,cent2251
+Sapa-Southwestern Tai,None,wenm1239
+Southwestern Tai,None,sapa1255
+Southwestern Thai PH,None,sout3184
+Siamese,None,sput1235
+Lao-Thai,None,sput1235
+Sakon Nakhon,None,laot1235
+Southwestern Tai P,None,sout3184
+White Tai,None,sout2743
+Shan Tai,None,sout2743
+Northern Shan,None,shan1276
+Southern Shan,None,shan1276
+Unclassified Shan,None,shan1276
+Assam Tai,None,shan1276
+Phakeic,None,assa1264
+Black Tai,None,sout2743
+Lue-Yong,None,sout2743
+Red Tai,None,sout2743
+Tai Muong,None,redt1235
+Debao-Jingxi-Nung,None,cent2251
+Northern Daic-Sek,None,daic1237
+Northern Daic,None,nort3326
+Northern Tai,None,nort3180
+Unclassified Northern Tai,None,nort3189
+Yongnan-Yongbei,None,nort3180
+Hlaic,None,taik1256
+Nuclear Hlaic,None,hlai1238
+Kadaic,None,taik1256
+Eastern Kra,None,kada1291
+Buyang,None,east2365
+Northern Buyang,None,buya1244
+Southwestern Kra,None,kada1291
+Western Kra,None,sout3143
+Gelaoic,None,west2798
+Northern Gelao,None,gela1265
+Ahouic,None,nort3188
+Southwestern Gelao,None,gela1265
+Lachic,None,west2798
+Southern Kra,None,sout3143
+Zamucoan,genus/zamucoan,tree
+Zamuco-Ayoreo,None,zamu1243
+Algic,None,tree
+Algonquian-Blackfoot,None,algi1248
+Algonquian,None,algo1256
+Arapahoic,None,algo1257
+Arapaho-Gros Ventre-Besawunena,None,arap1273
+Eastern Algonquian,None,algo1257
+Nanticoke-Conoy,None,east2700
+Southern New England Algonquian,None,east2700
+Abenaki,None,east2700
+Delawaran,None,east2700
+Common Delaware,None,dela1253
+Cree-Montagnais-Naskapi,None,algo1257
+Cree,None,cree1271
+Plains Creeic,None,cree1272
+Eastern Great Lakes Algonquian,None,algo1257
+Fox,None,east2765
+Ojibwa-Potawatomi,None,east2765
+Ojibwa,None,ojib1240
+Severn-Algonquin,None,ojib1241
+Nuclear Ojibwe,None,ojib1241
+Central-Eastern-Southwestern Ojibwa,None,nucl1723
+Northwestern-Saulteaux Ojibwa,None,nucl1723
+Sko,family/skou,tree
+Skou-Serra-Piore,None,skoo1245
+Serra Hills,None,skou1238
+Rawo-Main Serra,None,serr1253
+Nuclear Skou-Serra-Piore,None,skou1238
+Barupu Lagoon,None,skou1238
+Namla-Tofanma,None,tree
+Guaicuruan,None,tree
+Guaicuru del Sur,None,guai1249
+Qom,None,guai1250
+Pilaga-Toba,None,qomm1235
+Tor-Orya,None,tree
+Tor,None,toro1256
+Coastal Tor,None,tora1268
+Betaf-Vitou,None,coas1312
+Peba-Yagua,None,tree
+Peba-Yameo,None,peba1241
+Border,genus/border,tree
+Bewani,None,bord1247
+Pagi-Kilmeri,None,bewa1242
+Warisic,None,bord1247
+Nuclear Warisic,None,wari1265
+Waina-Punda,None,nucl1773
+Taikat-Awyi,None,bord1247
+Aymaran,None,tree
+Tupe,None,ayma1253
+Central-Southern Aymara,aym,ayma1253
+Somahai,None,tree
+Dagan,genus/dagan,tree
+Chibchan,family/chibchan,tree
+Core Chibchan,None,chib1249
+Magdalenic,None,core1252
+Northern Magdalenic,None,magd1236
+Arhuacic,None,nort3000
+Eastern-Southern Arhuacic,None,arhu1241
+Eastern Arhuacic,None,east2571
+Southern Magdalenic,None,magd1236
+Tunebo,None,sout3015
+Chibcha-Duit,None,sout3015
+Isthmic Chibchan,None,core1252
+Eastern Isthmic Chibchan,None,isth1243
+Guaymiic,None,east2569
+Kuna,genus/kuna,east2569
+Doracic,None,isth1243
+Western Isthmic Chibchan,None,isth1243
+Viceitic,None,west2641
+Unclassified Chibchan,None,core1252
+Votic Chibchan,None,core1252
+Nyulnyulan,None,tree
+Western Nyulnyulan,None,nyul1248
+Nyulnyulic,None,west2872
+Bardic,None,west2872
+Eastern Nyulnyulan,None,nyul1248
+Yawuric,None,east2381
+Nyikinic,None,east2381
+Unclassified Eastern Nyulnyulan,None,east2381
+Lencan,None,tree
+Siouan,genus/siouan,tree
+Catawban,None,siou1252
+Core Siouan,None,siou1252
+Ohio Valley Siouan,None,core1249
+Southeastern Siouan,None,ohio1234
+Mississippi Valley,None,core1249
+Winnebago-Chiwere,None,miss1254
+Dhegiha,None,miss1254
+Osage-Kansa,None,dheg1241
+Dakotan,None,miss1254
+Sioux,None,dako1257
+Missouri River Siouan,None,core1249
+North Halmahera,None,tree
+Northern North Halmahera,None,nort2923
+Mainland North Halmaheran,None,nort2924
+Tobelo-Tugutil,None,main1282
+Kao River,None,main1282
+Paguic,None,kaor1242
+Galela-Loloda,None,main1282
+Sahuan,None,nort2924
+Nuclear Sahuan,None,sahu1244
+Sahu-Waioli,None,nucl1759
+Ternatean,None,nort2924
+Kiowa-Tanoan,genus/kiowatanoan,tree
+Tiwa-Piro,None,kiow1265
+Tiwa,None,tiwa1254
+Taos-Picuris,None,tiwa1255
+Tewa,None,kiow1265
+Kresh-Aja,None,tree
+Kreshic,None,kres1240
+Kamula-Elevala,None,tree
+Elevala,None,kamu1264
+Chinookan,None,tree
+Lower Chinookan,None,chin1490
+Huitotoan,family/huitotoan,tree
+Unclassified Huitotoan,None,huit1251
+Nuclear Witotoan,None,huit1251
+Minica-Murui,None,nucl1659
+Nonuya-Ocaina,None,huit1251
+Kxa,None,tree
+Ju-Kung,None,kxaa1236
+Quechuan,None,tree
+Quechua II,None,quec1387
+Cajamarca-Lambayeque Quechua,None,quec1388
+Quechua IIC,None,quec1388
+Ayacuchan Quechua,None,quec1389
+Cuscan Quechua,None,quec1389
+Colombia-Ecuador Quechua,None,quec1389
+Ecuadorian Quechua B,None,colo1257
+Imbabura-Colombia-Oriente Quechua,None,ecua1249
+Colombia-Oriente Quechua,None,imba1241
+Oriente Quechua,None,colo1258
+Pastaza Quechua,None,orie1242
+Ecuadorian Quechua A,None,colo1257
+Bolivian-Argentinian Quechua,qbo,quec1389
+Quechua IIB,None,quec1388
+San Martin-Amazonas Quechua,None,quec1384
+Quechua I,None,quec1387
+Central Quechua I,None,quec1386
+Jauja-Huanca,None,cent2141
+AP-AM-AH,None,cent2141
+Huangascar-Topara,None,cent2141
+Huaylay,None,cent2141
+Conchucos,None,huay1239
+Yaru Quechua,None,cent2141
+Yukaghir,genus/yukaghir,tree
+Kolymic,None,yuka1259
+Kartvelian,None,tree
+Georgian-Zan,None,kart1248
+Zan,None,geor1252
+Georgic,None,geor1252
+East Kutubu,None,tree
+West Bird's Head,genus/westbirdshead,tree
+South West Bird's Head,None,west1493
+Seget-Moi,None,west1493
+Kadugli-Krongo,None,tree
+Central-Western Kadugli-Krongo,None,kadu1256
+Krongo-Tumtum,None,cent2229
+Katcha-Kadugli-Miri-Kanga,None,cent2229
+Kalapuyan,None,tree
+Saharan,None,tree
+Western Saharan,None,saha1256
+Tebu,tbu,west2505
+Kanuri-Kanembu,None,west2505
+Kanuric,None,kanu1279
+East Kanuri,None,kanu1281
+Kanembuic,None,kanu1279
+Eastern Saharan,None,saha1256
+Pano-Tacanan,None,tree
+Tacanan,genus/tacanan,pano1259
+Unclassified Tacanan,None,taca1255
+Takanik-Chamik,None,taca1255
+Takanik,None,taka1267
+Araona-Toromono,None,taka1268
+Panoan,None,pano1259
+Mainline Pano,None,pano1256
+Pano Nawa,None,main1279
+Bolivian Nawa,None,pano1257
+Unclassified Bolivian Nawa,None,boli1261
+Poyanawa Subgroup,None,pano1257
+Madre de Dios Pano,None,pano1257
+Marubo Subgroup,None,pano1257
+Chama subgroup,None,pano1257
+Shipibo-Konibo-Kapanawa,None,cham1314
+Headwaters Pano,None,pano1257
+Yaminawa Complex,None,head1239
+Mayoruna Branch,None,pano1256
+Mayo Group,None,mayo1277
+Matis subgroup,None,mayo1269
+Matses subgroup,None,mayo1269
+North-Eastern Tasmanian,None,tree
+Yawa-Saweru,genus/yawa,tree
+Sino-Tibetan,None,tree
+Macro-Bai,None,sino1245
+Caijia-Baic,None,macr1275
+Baic,None,caij1235
+South-Central Bai,None,baic1239
+Digarish,None,sino1245
+Brahmaputran,None,sino1245
+Jingpho-Luish,None,brah1260
+Jingpho,None,jing1259
+Luish,None,jing1259
+Unclassified Luish,None,sakk1239
+Chakpa,None,sakk1239
+Bodo-Garo,None,brah1260
+Boroic,None,bodo1279
+Tiwa-Boro,None,boro1284
+Bodo-Mech-Kachari,None,tiwa1256
+Dimasa-Kokborok,None,boro1284
+Tipperic,None,dima1253
+Kochic,None,bodo1279
+Unclassified Brahmaputran,None,brah1260
+Konyak,None,brah1260
+Konyak I,None,kony1246
+Khiamniungic,None,kony1247
+Leinong-Makyan,None,khia1235
+Tangsa-Nocte,None,kony1246
+Tangsa,None,kony1249
+Sinitic,None,sino1245
+Classical-Middle-Modern Sinitic,None,sini1245
+Middle-Modern Sinitic,None,clas1255
+Yue-Pinghua,None,midd1354
+Pinghua,None,yuep1234
+Northern Chinese,None,midd1354
+Mandarinic,None,nort3155
+Zhongyuan,None,mand1471
+Wu-Hui Chinese,None,midd1354
+Min,None,sini1245
+Inland Min,None,minn1248
+Coastal Min,None,minn1248
+Himalayish,None,sino1245
+Mahakiranti,None,hima1249
+Kham-Magar-Chepang,None,maha1306
+Magar,None,kham1285
+Kham,None,kham1285
+Parbate Kham,None,kham1286
+Chepangic,None,kham1285
+Newaric,None,maha1306
+Newar,None,newa1245
+Thangmi-Baram,None,newa1245
+Kiranti,None,maha1306
+Western Kiranti,None,kira1253
+Chaurasiya,None,west2424
+Northwestern Kiranti,None,west2424
+Upper Dudhkosi,None,west2424
+Central Kiranti,None,kira1253
+Southern Central Kiranti,None,cent2250
+Bantawic,None,sout2736
+Khambu,None,cent2250
+Kulungic,None,kham1300
+Eastern Kiranti,None,kira1253
+Greater Yakkha,None,east2719
+Athpariyic,None,grea1285
+Upper Arun,None,east2719
+Lohorung-Yamphu,None,uppe1412
+Yamphuic,None,loho1238
+Mewahang,None,uppe1412
+Nungish,None,sino1245
+Gunong,None,nung1293
+Macro-Tani,None,sino1245
+Koro-Holon,None,macr1268
+Tani,None,macr1268
+Pre-Western Tani,None,tani1259
+Western Tani,None,prew1234
+Subansiri,None,west2797
+Bangni-Tagin,None,suba1255
+Damu-Tangam,None,prew1234
+Eastern Tani,None,tani1259
+Tujia,None,sino1245
+Raji-Raute,None,sino1245
+Raute-Rawat,None,raji1239
+Miji,None,sino1245
+Kho-Bwa,None,sino1245
+Western Kho-Bwa,None,khob1235
+Chug-Lish,None,meyi1234
+Sartang-Sherdukpen,None,meyi1234
+Puroikic,None,khob1235
+Kuki-Chin-Naga,None,sino1245
+Tangkhul-Maring,None,kuki1245
+Maringic,None,tang1335
+Tangkhulic,None,tang1335
+Unclassified Tangkhulic,None,sino1246
+Kuki-Chin,None,kuki1245
+Peripheral Kuki-Chin,None,kuki1246
+South Peripheral Kuki-Chin,None,peri1260
+Ashoic,None,sout3160
+Choic,None,sout3160
+Daai-Muun,None,choi1241
+Khomic,None,peri1260
+Northeastern Kuki-Chin,None,peri1260
+Thadoic,None,nort3179
+Sizangic,None,nort3179
+Gangte-Vaiphei,None,siza1239
+Central Kuki-Chin,None,kuki1246
+Core Central Kuki-Chin,None,cent2330
+Lai Chin,None,cent2005
+Falamic,None,laic1236
+Mizoic,None,cent2005
+Hmaric,None,mizo1244
+Maraic,None,cent2330
+Nuclear Maraic,None,mara1381
+Northwestern Kuki-Chin,None,kuki1246
+Moyon-Monsang Naga,None,oldk1252
+Aimol-Syriem,None,oldk1252
+Angami-Ao,None,kuki1245
+Angami-Pochuri,None,anga1312
+Angami-Mao,None,anga1286
+Angami-Chokri,agm,anga1244
+Naga Maoic,None,anga1244
+Rengma-Simi,None,anga1286
+Pochuri-Northern Rengma,None,anga1286
+Central Naga,None,anga1312
+Yimchingric,None,aoic1235
+Makuric,None,yimc1239
+Karbic,None,kuki1245
+Zemeic,None,kuki1245
+Nuclear Zemeic,None,zeme1241
+Burmo-Qiangic,None,sino1245
+Lolo-Burmese,None,burm1265
+Unclassified Lolo-Burmese,None,lolo1265
+Burmish,None,lolo1265
+Southern Burmish,None,burm1266
+Nuclear Southern Burmish,None,sout3159
+Arakanese-Marma,None,nucl1730
+Old-Modern Burmese,None,nucl1730
+Northern Burmish,None,burm1266
+High Northern Burmish,None,nort2720
+Leqic,None,high1273
+Achangic,None,high1273
+Mid Northern Burmish,None,nort2720
+Loloish,None,lolo1265
+Nusoish,None,lolo1267
+Ni-Li-Kazhouish,None,lolo1267
+Lawoish,None,nili1235
+Southeastern Ngwi,None,nili1235
+Highland Phula,None,sout3212
+Phowa,None,high1272
+Ani-Labo,None,phow1235
+Hlepho-Phukha,None,phow1235
+Khlula-Zokhuo,None,hlep1235
+Muji,None,high1272
+Laghuu-Core Muji,None,muji1235
+Thopho-Core Muji,None,lagh1244
+Core Muji,None,thop1235
+Nuclear Core Muji,None,core1246
+Northern-Southern Muji,None,nucl1309
+Bokha-Phuma,None,nucl1309
+Nisoid,None,sout3212
+Nisu-Nyisu,None,niso1234
+Nisu,None,nisu1237
+North Nisu,None,nisu1238
+Unclassified Nisoid,None,niso1234
+Nuclear Nisoid,None,niso1234
+Unclassified Nuclear Nisoid,None,nucl1739
+Nasu-Nosu,None,nucl1739
+Nesu-Nasu,None,nasu1236
+Nesu,None,nesu1234
+Nasu-Gepu,None,nesu1234
+Unclassified Nasu-Gepu,None,nasu1237
+Riverine Phula,None,sout3212
+Downriver Riverine Phula,None,rive1256
+Phupha-Alugu,None,down1239
+Phupa-Phuza,None,down1239
+Upriver Riverine Phula,None,rive1256
+Pholic,None,upri1239
+Unclassified Southeastern Ngwi,None,sout3212
+Axioid,None,sout3212
+Sani-Axi-Azhe,None,sani1266
+Sani-Axi,None,sani1267
+Lisoid,None,nili1235
+Nuclear Lisoid,None,liso1234
+Lisu-Laluba-Lavu,None,nucl1734
+Laluba-Lavu,None,lisu1252
+Lalo,None,lalu1234
+Greater Lalo,None,lalo1240
+Core Lalo,None,grea1292
+Central-Western Lalo,None,core1258
+Unclassified Core Lalu,None,core1258
+Kuansi-Kuamasi-Sonaga,None,lalu1234
+Kuansi-Kuamasi,None,kuan1251
+Unclassified Lisoid,None,liso1234
+Lipo-Lolopo,None,liso1234
+Unclassified Lipo-Lolopo,None,lipo1243
+Lipo-Micha,None,lipo1243
+Kazhouish,None,nili1235
+Lahoid,None,lolo1267
+Hani-Jino,None,lolo1267
+Bisoid-Hanic,None,hani1249
+Sila-Wanya-Cosao,None,biso1244
+Hanic,None,biso1244
+Bi-Ka,None,hani1250
+Ha-Ya,None,hani1250
+Akhaic,None,haya1251
+Bisoid,None,biso1244
+Phunoi-Coong,None,biso1241
+Unclassified Bisoid,None,biso1241
+Bisu-Pyen-Laomian,biu,biso1241
+Jino,jin,hani1249
+Mondzish,None,lolo1265
+Nuclear Mondzish,None,mond1269
+Munji-Mantsi,None,mond1268
+Na-Qiangic,None,burm1265
+Ersuic,None,naqi1236
+Qiangic,genus/qiangic,naqi1236
+Unclassified Qiangic,None,qian1263
+Chamdoic,None,uncl1511
+Qiang,qia,qian1263
+Upstream-Nu Qiang,None,qian1264
+Pumi,pum,qian1263
+Gyalrongic,None,qian1263
+Horpa-Khroskyabs,None,rgya1241
+Horpa,None,horp1241
+Core Gyalrong,None,rgya1241
+Northern Gyalrong,rgc;jia;gyc,core1262
+Naic,None,naqi1236
+Naish,None,naic1235
+Mruic,None,sino1245
+Bodic,None,sino1245
+West Himalayish,None,bodi1256
+Western West Himalayish,None,tibe1275
+Kinnauric,None,west2868
+Thebor,None,kinn1250
+Lahaulic,None,west2868
+Eastern West Himalayish,None,tibe1275
+Central-Eastern West Himalayish,None,east2777
+Unclassified Central-Eastern West Himalayish,None,cent2311
+Pithauragarh,None,east2777
+Darma-Byangsi-Chaudangsi,None,pith1234
+Darma-Byangsi,None,darm1241
+Kaike-Ghale-Tamangic,None,bodi1256
+Ghale-Tamangic,None,kaik1248
+Ghale,None,ghal1247
+Tamangic,None,ghal1247
+Nuclear Tamang,None,tama1367
+Gurungic,None,tama1367
+Manangba-Nar-Phu,None,guru1260
+Thakali-Chantyal,None,guru1260
+Bodish,None,bodi1256
+Unclassified Bodish,None,bodi1257
+Early Old Tibetan,None,bodi1257
+Western Archaic Tibetan,None,oldm1245
+Shamskatic,None,lada1242
+Kenhatic,None,lada1242
+Middle Old Tibetan,None,oldm1245
+Late Old Tibetan,None,tibe1276
+Lahauli-Spiti,None,late1253
+Spiti-Jad,None,laha1255
+Kham-Hor,None,late1253
+Eastern Tibetic,None,late1253
+Southern Tibetic,None,late1253
+Unclassified Southern Tibetic,None,sout3217
+Dzongkhic,None,sout3217
+Nuclear Dzongkhic,None,dzon1238
+Central Tibetan,None,late1253
+South-Western Tibetic,None,cent2346
+Dolpo-Tichurong,None,sout3216
+Kyirong-Kagate,None,sout3216
+Gyalsumdo-Nubri-Kyirong,None,kyir1235
+Yolmo-Kagate,None,kyir1235
+Sherpa-Jirel,None,sout3216
+Sherpaic,None,sher1254
+Tshangla-East Bodish,None,bodi1257
+East Bodish,None,tsha1246
+Mainstream East Bodish,None,east1469
+Phobjib-Chali-Bumthangic,None,main1269
+Chali-Bumthangic,None,phob1238
+Bumthangic,None,chal1266
+Dakpa-Dzala,None,main1269
+Tshanglic,None,tsha1246
+Unclassified Sino-Tibetan,None,sino1245
+Dhimalish,None,sino1245
+Kman-Meyor,None,sino1245
+Karenic,None,sino1245
+Central Karen,None,kare1337
+Kayaw-Manu,None,cent1999
+Geba-Bwe,None,cent1999
+Kayah-Yintale,None,cent1999
+Kayah,None,kaya1337
+Peripheral Karen,None,kare1337
+Pwo,None,peri1254
+Eastern-Western Pwo Karen,kpw,pwoo1239
+Northern Pwo Karen,None,pwoo1239
+Northern Karen,None,kare1337
+Southern Karen,None,kare1337
+Sgaw,None,sout1554
+Ticuna-Yuri,None,tree
+Geelvink Bay,None,tree
+Barapasi-Sauri-Kofei,None,geel1240
+Sauri-Kofei,None,bara1399
+Burate-Wate,None,geel1240
+Manubaran,None,tree
+Pama-Nyungan,None,tree
+Desert Nyungic,None,pama1250
+Marrngu,None,dese1234
+Wati,None,dese1234
+Unclassified Wati,None,wati1241
+Pintupic,None,wati1241
+Nuclear Pintupic,None,pint1254
+Wangkatja-Tjarra,None,nucl1724
+Tjarra,None,wang1300
+Martuwangkic,None,wati1241
+Warnman-Wangka,None,mart1257
+Ngumpin-Yapa,None,dese1234
+Yapa,None,ngum1251
+Ngumpin,None,ngum1251
+Jaru-Ngardi,None,ngum1256
+Gurindjic,None,ngum1256
+Macleay-New England,None,pama1250
+Unclassified Pama-Nyungan,None,pama1250
+Kalkatungic,None,pama1250
+East Queensland Border Pama Nyungan,None,pama1250
+Yugambalic,None,east2770
+Yugambal-Bigambal,None,yuga1242
+Paman,None,pama1250
+Mayabic,None,pama1251
+Nuclear Mayabic,None,maya1279
+Lamalamic,None,pama1251
+Coastal Lamalamic,None,lama1273
+Southwest Pama,None,pama1251
+Coastal Southwest Paman,None,sout3141
+Dhawa-Kaber,None,coas1313
+Upper Southwest Paman,None,sout3141
+Norman Pama,None,pama1251
+Kuthant-Gurdjar,None,norm1247
+Rib-Gurdjar,None,kuth1239
+Finasleigh Pama,None,pama1251
+Northern Pama,None,pama1251
+Gudang-Northeast Paman,None,nort2758
+Northeast Paman,None,guda1246
+Uradhic,None,nort3278
+Yadhaykenu-Angkamuthi,None,urad1238
+Linngithigh-Alngith,None,nort2758
+Albatross Bay,None,nort2758
+Anguthimri-Yangathimri-Yuputhimri,None,alba1272
+Anguthimri-Yangathimri,None,angu1243
+Alaya-Athima,None,pama1251
+Thaypanic,None,alay1234
+Southwestern Alaya-Athima,None,alay1234
+Central Alaya-Athima,None,alay1234
+Compromise Middle Pama,None,pama1251
+Northeastern Pama,None,comp1236
+Umbindhamuic,None,nort3256
+Umpilaic,None,nort3256
+Wik,None,comp1236
+Flinders-Barrow,None,wika1239
+Kuku-Wik-Ep,None,wika1239
+Kuku-Wik,None,kuku1276
+Paman Kuku,None,kuku1277
+Ngatharra-Ngathana-Iinychanya,None,wika1239
+Greater Maric,None,pama1250
+Unclassified Greater Maric,None,grea1282
+Bindalic,None,unun9965
+Guwa-Maric,None,grea1282
+Guwa-Yanda,None,guwa1245
+Maric,None,guwa1245
+Northern Maric,None,mari1445
+Warungu-Gugu Badhun,None,nort2757
+Southern Maric,None,mari1445
+Margany-Gunya,None,sout2765
+Bidyaric,None,sout2765
+Eastern Maric,None,mari1445
+Yuulngu,None,pama1250
+Western-Inland Yolngu,None,yuul1239
+Southern Yolngu,None,yuul1239
+Southern-Eastern Yolngu,None,sout3142
+Dhuwal-Dhuwala,None,sout3149
+Western Dhuwal-Dhuwala,None,dhuw1248
+Eastern Dhuwal-Dhuwala,None,dhuw1248
+South-West Pama-Nyungan,None,pama1250
+Kartu-Nhanda,None,sout3134
+Kartu,None,kart1249
+Pilbara,None,sout3134
+Ngayarda,None,pilb1234
+Central Ngayarda,None,ngay1241
+Ngarluma-Kariyarra,None,cent2248
+Yindjibarndi-Kurrama,None,cent2248
+Panytyima-Yinhawangka,None,cent2248
+Northern Ngayarda,None,ngay1241
+Kanyara,None,pilb1234
+Thalanyji-Burduna,None,kany1246
+Mantharta,None,pilb1234
+Djiwarli-Thiin,None,mant1266
+Wariyangga-Dhargari,None,mant1266
+Mirning,None,sout3134
+Nyawaygic,None,pama1250
+Southeastern Pama-Nyungan,None,pama1250
+Victorian Pama-Nyungan,None,sout3135
+Lower Murray,None,vict1234
+Yaraldi-Keramin-Yitha,None,lowe1401
+Eastern Victoria,None,vict1234
+Dhudhuroa-Pallanganmiddang,None,east2706
+Kulin-Bunganditj,None,vict1234
+Kulin,None,kuli1256
+Nuclear Kulin,None,kuli1251
+Warrnambool-Bunganditj,None,kuli1256
+Wiradhuric,None,sout3135
+North Coast Pama-Nyungan,None,sout3135
+Waka-Kabic,None,nort3154
+Western Waka-Kabic,None,waka1283
+Eastern Waka-Kabic,None,waka1283
+Gumbaynggiric,None,nort3154
+New South Wales Pama-Nyungan,None,sout3135
+Greater Bandjalangic,None,news1235
+Bandjalangic,bnj;gid;bca;byu;bwa,band1357
+Inland Bandjalang,None,band1339
+Coastal Bandjalang,None,band1339
+Yuin-Kuri,None,news1235
+Kuri,None,yuin1243
+Hunter-Hastings,None,kuri1270
+Sydney-Hawkesbury,None,kuri1270
+Yuin,None,yuin1243
+Northern Costal Yuin,None,yuin1242
+Muruwaric,None,news1235
+Yimidhirr-Yalanji-Yidinic,None,pama1250
+Yalandyic,None,yimi1234
+Yidinic,None,yimi1234
+Yarli-Baagandji,None,pama1250
+Rockhampton-Gladstone,None,pama1250
+Ngarna,None,pama1250
+Southern Ngarna,None,ngar1290
+Thawa,None,sout2766
+Ngarru,None,sout2766
+Arandic-Thura-Yura,None,pama1250
+Thura-Yura,None,aran1266
+Core Thura Yura,None,thur1253
+Southern Thura-Yura,None,core1260
+Northern Thura-Yura,None,core1260
+Unclassified Core Thura-Yura,None,core1260
+Arandic,None,aran1266
+Aranda,None,aran1267
+Ganaic,None,pama1250
+Karnic,None,pama1250
+Palku,None,karn1253
+Arabana-Wangganguru,None,palk1239
+Pitta-Pitta,None,palk1239
+Pirriya-Kungkari,None,karn1253
+Central Karnic,None,karn1253
+Western Central Karnic,None,cent2016
+Pirlatapa-Dieric,None,west2438
+Dieric,None,pirl1239
+Yandruwandhic,None,west2438
+Mithaka-Karuwali,None,cent2016
+Gumuz,None,tree
+Daats'iin-Southern Gumuz,None,gumu1250
+Amto-Musan,None,tree
+Limilngan-Wulna,genus/limilngan,tree
+Central Sudanic,None,tree
+Lenduic,None,cent2225
+Bale,None,lend1246
+Membi-Mangbutu-Efe,None,cent2225
+Mangbutu-Efe,None,memb1239
+Leseic,None,mang1425
+Unclassified Membi-Mangbutu-Efe,None,memb1239
+Mangbetu-Asua,None,cent2225
+Mangbetuic,None,mang1393
+Moru-Madi,None,cent2225
+Central Moru-Madi,None,moru1252
+Kalikoic,None,cent2043
+Southern Moru-Madi,None,moru1252
+Sara-Bongo-Bagirmi,None,cent2225
+SBB Occidental,None,sara1341
+Nuclear SBB Occidental,None,sbbo1237
+Nduga-Luto,None,nucl1719
+Fer-Gula-Koto,None,nucl1719
+Saraic,None,nucl1719
+Sara Peripherique,None,sara1349
+Koulfaic,None,sara1318
+Barh Keita,None,sara1318
+Sara-Kaba,None,barh1234
+Bagirmic,None,sara1349
+Morom-Jaya-Naba,None,bagi1248
+Naba-Berakou,None,moro1296
+Bayo-Morom,None,moro1296
+Sara Central,None,sara1349
+Sara Central Chari,None,cent2044
+Sara Central Logone,None,cent2044
+Gore,None,sara1345
+Sara Central Logone-Chari,None,cent2044
+Sido,None,sara1346
+Bediondo,None,sara1346
+Baka-Beli,None,sara1341
+Morokodo-Beli,None,moro1282
+Gberi-Morokodo-Mittu,None,moro1293
+Lori,None,moro1293
+Iwaidjan Proper,None,tree
+Central Iwaidjic,None,iwai1246
+Eskimo-Aleut,genus/eskimo,tree
+Eskimo,None,eski1264
+Inuit,None,eski1265
+Alaskan Inupiaq,None,inui1246
+Greenlandic Inuit,None,inui1246
+Yupik,None,eski1265
+Aleutic,None,eski1264
+Chumashan,None,tree
+Southern Chumashan,None,chum1262
+Central Chumashan,None,sout3132
+Ta-Ne-Omotic,None,tree
+Ometo,None,gong1255
+North-West Ometo,None,omet1238
+Central Ometo,None,nort3161
+Dawro-Gofa-Gamo,None,cent2046
+East Ometo,None,omet1238
+Kefoid,None,gong1255
+South Gonga,None,gong1256
+Tarascan,genus/tarascan,tree
+Nyimang,genus/nyimang,tree
+Great Andamanese,genus/greatandamanese,tree
+South Great Andamanese,None,grea1241
+North Andamanese-Akakede,None,grea1241
+Northern Great Andamanese,None,nort3276
+Bo-Cari,None,nort2678
+Jeru-Kora,None,nort2678
+Middle Great Andamanese,None,grea1241
+Okol-Opucikwar,None,midd1323
+Tuu,None,tree
+Hua,None,tuuu1241
+Taa,None,huaa1247
+!Ui,None,tuuu1241
+Eastern !Ui,None,kwii1241
+Turama-Kikori,None,tree
+Turama-Omatian,None,tura1263
+Bogia,genus/monumbo,tree
+Jarawa-Onge,None,tree
+Chonan,None,tree
+Insular Chonan,None,chon1288
+Continental Chonan,None,chon1288
+Charruan,None,tree
+Doso-Turumsa,None,tree
+Cahuapanan,genus/cahuapanan,tree
+Yam,None,tree
+Morehead-Maro,None,more1255
+Nambu,None,more1256
+Namo-Len,None,namb1292
+Nama-Dre,None,namb1292
+Tonda,None,more1256
+Eastern Tonda,None,tond1250
+Kanum,None,more1255
+Ngkrn-Ngkantr,None,kanu1280
+Ngkantr,None,ngkr1234
+Western Daly,None,tree
+Bringen,None,west2434
+Maringarr-Matige,None,brin1245
+Marithielic,None,brin1245
+Maranunggu-Ame-Manda,None,west2434
+Ame-Manda,None,waga1259
+Wintuan,genus/wintuan,tree
+Palaihnihan,genus/palaihnihan,tree
+Mongolic-Khitan,None,tree
+Mongolic,genus/mongolic,mong1349
+Southern Periphery Mongolic,None,mong1329
+Shirongol,None,sout2705
+Baoanic,None,shir1260
+Eastern Mongolic,None,mong1329
+Khalkha-Buriat,None,oira1260
+Buriat,None,khal1273
+Mongolian,None,khal1273
+Wakashan,family/wakashan,tree
+Northern Wakashan,genus/northernwakashan,waka1280
+Kwakiutlan,None,nort2964
+Southern Wakashan,genus/southernwakashan,waka1280
+Makah-Nitinat,None,sout2981
+South Omotic,None,tree
+AHK,None,sout2845
+Aari-Gayil,None,ahkk1235
+Hamer-Karo,None,ahkk1235
+Austroasiatic,None,tree
+Khasi-Palaung,None,aust1305
+Palaungic,None,khas1273
+East Palaungic,None,pala1352
+Angkuic,None,east2331
+Southern Angkuic,None,angk1246
+Waic,None,east2331
+Wa-Lawa,None,waic1245
+Nuclear Waic,None,wala1271
+Lawa,None,wala1271
+Bulangic,None,waic1245
+Khao-Bit,None,east2331
+West Palaungic,None,pala1352
+Palaung,None,west2791
+Riang,None,west2791
+Khasian,genus/khasian,khas1273
+Khasi-Pnar-Lyngngam,None,khas1268
+Khasi-Pnar,None,khas1274
+Lyngngamic,None,khas1274
+Katuic,genus/katuic,aust1305
+West Katuic,None,katu1271
+Kuy-Souei,None,west1492
+Brou-So,None,west1492
+Eastern Bru-Katang,None,brou1236
+Katang,None,east2783
+Western Bru-So,None,brou1236
+Katu,None,katu1271
+Nuclear Katu,ktu,katu1272
+Ta'oihic,None,katu1271
+Ong-Ta'oih,None,taoi1247
+Mundaic,None,aust1305
+North Munda,None,mund1335
+Kherwarian,None,nort3151
+Santalic,None,kher1245
+Mundaric,None,kher1245
+Ho-Mundari,None,mund1336
+Kodaku-Korwa,None,mund1336
+Asuric,None,mund1336
+Gutob-Remo,None,mund1335
+Sora-Juray-Gorum,None,mund1335
+Sora-Juray,None,sora1255
+Monic,genus/monic,aust1305
+Nicobaric,None,aust1305
+Nuclear Nicobaric,None,nico1262
+Chowra-Teressa,None,nucl1758
+Central Nicobar,None,nucl1758
+Mangic,None,aust1305
+Pakanic,None,mang1377
+Vietic,None,aust1305
+Cuoi,None,viet1250
+Viet-Muong,genus/vietmuong,viet1250
+Muongic,None,viet1251
+Chutic,None,viet1250
+East Chutic,None,chut1252
+Pearic,None,aust1305
+Western Pearic,None,pear1246
+Southern Chong,None,west2394
+Aslian,genus/aslian,aust1305
+South Aslian,None,asli1243
+Semelai-Semaq,None,sout2686
+Central-Northern Aslian,None,asli1243
+Senoic,None,cent1987
+Lanoh-Semnam-Temiar,None,seno1278
+Lanoh-Semnam,None,lano1244
+Lanohic,None,lano1246
+North Aslian,None,cent1987
+Maniq-Menraq-Batek,None,nort2682
+Maniqic,None,mani1290
+Menraq-Batek,None,mani1290
+Batekic,None,menr1235
+Khmuic,None,aust1305
+Phay-Pram,None,khmu1236
+Tin,None,phay1242
+Pramic,None,phay1242
+Khmu',None,khmu1236
+Khmeric,None,aust1305
+Bahnaric,None,aust1305
+North Bahnaric,None,bahn1264
+Kayong-Jeh-Halang,None,nort3150
+Unclassified Kayong-Jeh-Halang,None,jehh1244
+Jeh-Halang,None,jehh1244
+Hre-Sedang-Todrah-Monam,None,nort3150
+Bonam-Monam,None,hres1236
+Hre-Sedang,None,hres1236
+Lamamic,None,nort3150
+West Bahnaric,None,bahn1264
+Nuclear West Bahnaric,None,west2399
+Loven-Suq,None,nucl1299
+Unclassified West Bahnaric,None,west2399
+South Bahnaric,None,bahn1264
+Mnong-Stieng-Chrau,None,sout2690
+Mnong,None,mnon1258
+Southern-Central Mnong,None,mnon1259
+Stieng,sti,mnon1258
+Koho-Maa,None,sout2690
+Eleman,None,tree
+Western Eleman,None,nucl1580
+Eastern Eleman,None,nucl1580
+Senagi,genus/senagi,tree
+Suki-Gogodala,None,tree
+Gogodalic,None,suki1244
+Ari-Waruna,None,gogo1264
+Tungusic,genus/tungusic,tree
+Manchu-Jurchen,None,tung1282
+Manchu-Xibe,None,manc1250
+Central Tungusic,None,tung1282
+Central-Eastern Tungusic,None,east2366
+Central-Western Tungusic,None,east2366
+Ulchaic,None,orok1264
+Northern Tungusic,None,tung1282
+Northwestern Tungusic,None,nort3147
+Chocoan,None,tree
+Unclassified Chocoan,None,choc1280
+Embera,None,choc1280
+San Juan,None,embe1258
+Upper San Juan,None,sanj1278
+Atrato,None,embe1258
+Panama-Baudo-Atrato,None,atra1235
+Unclassifiable,None,tree
+Turkic,None,tree
+Bolgar,None,turk1311
+Common Turkic,None,turk1311
+North Siberian Turkic,None,comm1245
+Turkestan Turkic,None,comm1245
+Uyghur-Uzbek,None,karl1243
+Modern Uyghur-Uzbek,None,uygh1241
+Uzbek,uzb,uygh1240
+Uighur-Ili,None,uygh1240
+Kipchak,None,comm1245
+West Kipchak,None,kipc1239
+Crimean Tatar-Urum,None,west1472
+Crimeaic,None,crim1256
+East Kipchak,None,kipc1239
+South Kipchak,None,kipc1239
+Unclassified Kipchak,None,kipc1239
+North Kipchak,None,kipc1239
+Central Siberian Turkic,None,comm1245
+South Siberian Turkic,None,cent2326
+Yenisei-East Siberian Turkic,None,sout2693
+Yenisey Turkic,None,yeni1256
+East Siberian Turkic,None,yeni1256
+Sayan,None,sout2693
+Oghuz,None,comm1245
+Nuclear Oghuz,None,oghu1243
+West Oghuz,None,nucl1769
+Central Oghuz,None,nucl1769
+Modern Azeric,None,azer1255
+East Oghuz,None,nucl1769
+Kawesqar,None,tree
+North Central Alacufan,None,kawe1237
+Kwalean,None,tree
+Humene-Kwale,None,kwal1257
+Otomaco-Taparita,None,tree
+Tupian,None,tree
+Tuparic,None,tupi1275
+Nuclear Tuparic,None,tupa1251
+Akuntsu-Mekens,None,nucl1716
+Mundurukuic,None,tupi1275
+Purubora-Ramarama,None,tupi1275
+Ramarama,genus/ramarama,puru1268
+Arikemic,None,tupi1275
+Monde,genus/monde,tupi1275
+Gavianic,None,mond1266
+Nuclear Gavianic,None,gavi1250
+Maweti-Guarani,None,tupi1275
+Aweti-Guarani,None,mawe1252
+Tupi-Guarani,None,awet1245
+Tupi-Guarani Subgroup IV,None,tupi1276
+Tupi-Guarani Subgroup IV.A,None,tupi1279
+Tupi-Guarani Subgroup IV.B,None,tupi1279
+Southern Tupi-Guarani,None,tupi1276
+Tupi-Guarani Subgroup I,None,sout3271
+Tupi-Guarani Subgroup I.B,None,tupi1277
+Chiriguanic,None,tupi1283
+Tupi-Guarani Subgroup I.A,None,tupi1277
+Paraguay-Brazil Guarani,None,tupi1282
+Tupi-Guarani Subgroup II,None,sout3271
+Warazu-Sirionoid,None,tupi1278
+Sirionoid,None,wara1305
+Tupi-Guarani Subgroup III,None,sout3271
+Omagua-Kokama,None,tupi1287
+Tupi-Guarani Subgroup V,None,tupi1276
+Arawetic,None,subg1264
+Tupi-Guarani Subgroup VI,None,tupi1276
+Kawahiwa Meridionais,None,tupi1280
+Amondava-Uru-Eu-Wau-Wau,None,kawa1293
+Kawahiwa Setentrionais,None,tupi1280
+Tupi-Guarani Subgroup VIII,None,tupi1276
+Wayampi-Zoe-Emerillon,None,tupi1281
+Zoe-Emerillon,None,waya1271
+Guaja-Kaapor-Ava,None,tupi1281
+Unclassified Guaja-Kaapor-Ava,None,guaj1258
+Guaja-Aure-Aura,None,guaj1258
+Yuruna,None,tupi1275
+Unclassified Yuruna,None,yuru1262
+Dizoid,None,tree
+Gunwinyguan,None,tree
+Gunwinyguan Bak,None,gunw1250
+Eastern Gunwinyguan,None,gunw1253
+Jala,None,east2701
+Wubuy-Anindilyakwa,None,gunw1253
+Marne,None,gunw1250
+Central Gunwinyguan,None,marn1242
+Western Gunwinyguan,None,gunw1250
+Warrayic,None,west2432
+Unclassified Warrayic,None,warr1259
+Mixe-Zoque,None,tree
+Mixe,None,mixe1284
+Oaxaca Mixe,None,mixe1286
+Lowland-Midland-South Highland Mixe,None,oaxa1241
+Lowland-Midland Mixe,None,lowl1268
+Lowland Mixe,None,lowl1269
+Midland Mixe,None,lowl1269
+Zoque,None,mixe1284
+Chiapas Zoque,None,zoqu1261
+Gulf Zoque,None,zoqu1261
+Yanomamic,None,tree
+Unclassified Yanomamic,None,yano1268
+Ninam-Yanomam-Yaroame,None,yano1268
+Yanomam-Yaroame,None,nina1239
+Yanomam-Yanimamo,None,yano1266
+Naduhup,None,tree
+Eastern Naduhup,None,nada1235
+Hup-Yuhup,None,east2549
+Mairasic,None,tree
+Athabaskan-Eyak-Tlingit,None,tree
+Athabaskan-Eyak,None,atha1245
+Athabaskan,genus/athapaskan,atha1246
+Northwestern Canada Athabaskan,None,atha1247
+Cordillera Athabaskan,None,nort3354
+Beaver-Sekani,None,cord1235
+Nahanni,None,cord1235
+Slaveyic,None,nort3354
+Slave,sla,hare1243
+Pacific Coast Athabaskan,None,atha1247
+California Athabaskan,None,paci1277
+Oregon Athabaskan,None,paci1277
+Rogue River,None,oreg1242
+Southern Alaskan Athabaskan,None,atha1247
+Central British Columbia Athabaskan,None,atha1247
+Carrieric,None,cent2370
+Dakelh,None,carr1250
+Central Alaska-Yukon Athabaskan,None,atha1247
+Tanana-Tutchone,None,cent2371
+Tutchone,None,tana1299
+Tananaic,None,tana1299
+Upper Tananaic,None,tana1298
+Gwichin-Han,None,cent2371
+Koyukonic,None,cent2371
+Apachean,None,atha1247
+Southwestern Apachean,None,apac1239
+Eastern Southwestern Apachean,None,sout3151
+Western Southwestern Apachean,None,sout3151
+Koreanic,None,tree
+Arawan,None,tree
+Madi-Madiha,None,araw1282
+Madiha,None,madi1262
+Atlantic-Congo,None,tree
+Volta-Congo,None,atla1278
+Benue-Congo,None,volt1241
+Benue-Congo Plateau,None,benu1247
+Alumic,None,benu1248
+Jilic-Eggonic,None,alum1249
+Jilic,None,jili1242
+Eggon-Ake,None,jili1242
+Alumu-Toro,None,alum1249
+Hasha-Sambe,None,alum1250
+Alumu-Akpondu,None,alum1250
+Yukubenic,None,benu1248
+Akum-Beezen,None,yuku1244
+Beezen-Baazem,None,akum1239
+Bete-Lufu,None,yuku1244
+Unclassified Yukubenic,None,yuku1244
+Benue-Congo Central Plateau,None,benu1248
+South-Central Benue-Congo Plateau,None,benu1249
+Nuclear Zaric,None,sout3163
+Izeric,None,nucl1795
+Katabic,None,nucl1795
+Northern Benue-Congo Plateau,None,benu1248
+Tarokoid,None,benu1248
+Yangkam-Tarok-Pe,None,taro1265
+Tarok-Pe,None,yang1302
+Kwanka-Sur,None,taro1265
+Unclassified Benue-Congo Plateau,None,benu1248
+Beromic,None,benu1248
+Iten-Cara-Berom,None,bero1241
+Southeastern Benue-Congo Plateau,None,benu1248
+Horom-Fyem,None,sout2800
+Western Benue-Congo Plateau,None,benu1248
+Ninzic,None,west2801
+Kanufi-Ninkyob-Angan,None,ninz1247
+Northwestern Benue-Congo Plateau,None,west2801
+Hyamic,None,nort3184
+Gyong-Kamantan,None,nort3184
+Koroic,None,nort3184
+Akpes-Edoid,None,benu1247
+Edoid,genus/edoid,akpe1249
+Northwestern Edoid,None,edoi1239
+Osse,None,nort3183
+Ukue-Ehueun,None,osse1244
+Southern Northwestern Edoid,None,nort3183
+Okpe-Akuku-Idesa,None,sout3171
+Igwic,None,nort3183
+Sasaru-Igwe,None,igwi1234
+Ikpeshic,None,igwi1234
+North-Central Edoid,None,edoi1239
+Central Plains Edoid,None,nort3182
+Emaic,None,cent2259
+Afenmai-Bendel,None,nort3182
+Uneme-Yekhee,None,afen1234
+Southwestern Edoid,None,edoi1239
+Delta Edoid,None,edoi1239
+Degema-Engenni,None,delt1252
+Idomoid,None,benu1247
+Akweya,None,idom1262
+Etulo-Idoma,None,etul1244
+Nuclear Idoma,None,etul1246
+Yatye-Akpa,None,idom1262
+Defoid,genus/defoid,benu1247
+Ayere-Ahan,None,defo1239
+Yoruboid,None,defo1239
+Edekiri,None,yoru1244
+Ede,None,edek1238
+Eastern Ede,None,edea1234
+Southeastern Ede,None,east2738
+Nuclear Yoruba,None,sout3186
+Lucumi-Yoruba,None,nucl1747
+Western Ede,None,edea1234
+Southwestern Ede,None,west2827
+Ebira-Nupoid,None,benu1247
+Macro-Nupoid,None,ebir1244
+Nupoid,genus/nupoid,nupe1252
+Dibo-Kupa,None,nupo1239
+Dibo-Kami,None,dibo1249
+Kami-Abawa,None,dibo1250
+Gbagyi-Gbari,None,nupe1252
+Delta Cross,None,benu1247
+Upper Cross,None,delt1251
+Central Upper Cross,None,uppe1418
+North-South Central Delta Cross,None,cent2027
+Ubaghara-Kohumono,None,nort2790
+Kohumonoic,None,ubag1244
+Koring-Kukele,None,nort2790
+Kukele-Uzekwe,None,kori1259
+East-West Central Delta Cross,None,cent2027
+Mbembe-Legbo,None,east2400
+Legboic,None,mbem1251
+Lenyima-Leyigha,None,legb1241
+Lokoic,None,east2400
+Lubila-Lokaa,None,loko1252
+Agoi-Doko-Iyoniyong,None,uppe1418
+Kiong-Korop,None,uppe1418
+Ogonoid,None,delt1251
+East Ogonoid,None,ogon1240
+Tai-Kana,None,east2401
+West Ogonoid,None,ogon1240
+Central Delta,None,delt1251
+Kugboic,None,cent2028
+Obulomic,None,kugb1242
+Abua-Odual,None,cent2028
+Lower Cross,None,delt1251
+Central Lower Cross,None,obol1242
+Ibuoro-Nkari,None,cent2253
+Efik-Ibibio,None,cent2253
+Ekit-Etebi,None,cent2253
+Oboloic,None,obol1242
+Enwang-Uda,None,obol1242
+Jukunoid,None,benu1247
+Central Jukunoid,None,juku1257
+Kpan-Icen,None,cent2241
+Jukun-Mbembe-Wurbo,None,cent2241
+Wurbo-Wannu,None,juku1258
+Wurbo,None,wurb1240
+Jukun,None,juku1258
+Jibu-Wase,None,juku1259
+Jibuic,None,jibu1240
+Kororofa,None,juku1259
+Kona,None,koro1322
+Unclassified Benue-Congo,None,benu1247
+Kainji,None,benu1247
+Kainji Lake,None,kain1275
+Upper Niger Kainji,None,kain1276
+Oleran,None,uppe1457
+Central Kainji,None,kain1275
+Basa-Eastern Kainji,None,cent2242
+Basa,None,basa1288
+Kontagora-Gumna-Koromba,None,basa1279
+Gumna-Kontagora,None,kont1247
+Eastern Kainji,None,basa1288
+Piti-Atsam,None,east2404
+Jos,None,east2404
+Northern Jos,None,josa1234
+Shenic,None,nort3210
+Lameic,None,nort3210
+North-Central Jos,None,nort3210
+Boze-Loro,None,nort3215
+Chokobo-Lemoro-Sanga,None,nort3215
+Lemoro-Sanga,None,chok1248
+Ningic,None,nort3210
+Kauru,None,josa1234
+Northwestern Kainji,None,cent2242
+Dukaic,None,duka1247
+Main-Gwamhi,None,duka1250
+Clela-Damakawa,None,duka1247
+Kambari-Cicipu,None,cent2242
+Kambaric,None,kamb1317
+East Kambaric,None,kamb1319
+West Kambaric,None,kamb1319
+Shiroro-Kamuku,None,cent2242
+Shiroro,None,shir1273
+Kamuku-Hungwarya,None,shir1273
+Kamuku,None,kamu1261
+Rogo-Sagamuk-Sama-Sambuga,None,kamu1262
+Sagamuk-Sama-Sambuga,None,rogo1239
+Bantoid,None,benu1247
+Southern Bantoid,None,bant1294
+Mamfe,None,sout3152
+Kendem-Denya,None,mamf1238
+Narrow Bantu,None,sout3152
+East Bantu,None,narr1281
+Sabi,None,east2731
+Malungu-Central Sabi,None,sabi1248
+Central Sabi,None,malu1252
+Bisa-Lamba (M.50),None,cent2321
+Bemba (M.40),None,cent2321
+Nyanga-Mituku-Lega,None,east2731
+Mituku-Lega,None,nyan1317
+Mitukuic,None,mitu1241
+Lega Complex,None,mitu1241
+Bembe-Buyu-Binja,None,lega1252
+Buyu-Holoholo,None,bemb1260
+Lega,None,lega1252
+Western Lega,None,lega1253
+Unclassified Nyanga-Mituku-Lega,None,nyan1317
+Tumbuka-Sena-Nyanja,None,east2731
+Tumbukic,None,tumb1253
+Sena-Nyanja,None,tumb1253
+Nyanjaic,None,sena1271
+Senaic,None,sena1271
+Corridor Bantu,None,east2731
+Nyakyusa-Ndali,None,corr1234
+Mbozi,None,corr1234
+Nyika-Lambya,None,mboz1235
+Nyika,None,nyik1250
+Central and Southern Nyika,None,nyik1249
+Mbozi-Malawi Nyika,None,cent2285
+Mwika,None,mboz1235
+Fipaic,None,mwik1240
+Maluwawaru,None,fipa1240
+Mbeya,None,mboz1235
+Northeast Savanna Bantu,None,east2731
+Unclassified Northeast Savanna Bantu,None,nort3203
+Bende-Tongwe,None,uncl1498
+Sukuma-Nyamwezi (F.20),None,nort3203
+Nyamwezic,None,suku1274
+Southern Tanzania Highlands Bantu,None,nort3203
+Bena-Hehe,None,sout3185
+Manda-Ngoni,None,sout3185
+Kisi-Pangwa,None,sout3185
+Kinga-Magoma,None,sout3185
+Wanji-Sangu,None,sout3185
+Northeast Coastal Bantu,None,nort3203
+Ruvu,None,nort3209
+East Ruvu,None,ruvu1235
+Central East Ruvu,None,east2756
+Kutu-Zaramo,None,cent2287
+West Ruvu,None,ruvu1235
+Seuta,None,west2846
+Zigua-Nguu,None,seut1234
+Bondei-Shambala,None,seut1234
+Vidunda-Sagala,None,west2846
+Pare-Taveta,None,nort3209
+Pareic,None,pare1274
+Coastal NEC Bantu,None,nort3209
+Mijikenda-Pokomo-Comorian,None,coas1317
+Mijikenda,None,miji1240
+Northern Mijikenda,None,miji1238
+Southern Mijikenda,None,miji1238
+Comorian Bantu,None,miji1240
+Shindzwani-Shimaore,None,como1260
+Sabaki-Swahili,None,coas1317
+Swahili (G.40),None,saba1282
+Mombasa-Lamu-Inland Swahili,None,swah1254
+Central Kenya Bantu,None,nort3203
+Eastern Central Kenya Bantu,None,cent2274
+Northern Central Kenya Bantu,None,cent2274
+Western Central Kenya Bantu,None,cent2274
+Kikuyu-Embu,None,west2840
+Great Lakes Bantu,None,nort3203
+Greater Luyia,None,grea1289
+Luyia,None,grea1291
+Saamia-Wanga-Bukusu,None,luyi1234
+Bukusuic,None,saam1284
+Saamia-Wanga,None,saam1284
+Western Luyia,None,saam1285
+Central Luyia,None,saam1285
+Unclassified Greater Luyia,None,grea1291
+Western Lakes Bantu,None,grea1289
+Kivu,None,west2842
+Forest Kivu,None,kivu1239
+Fuliiric,None,fore1272
+Fuliiru-Vira,None,fuli1241
+Hunde-Havu,None,fore1272
+West Highlands Kivu,None,kivu1239
+Hangaza-Shubi,None,rwan1241
+Rwenzori,None,west2842
+East Nyanza,None,grea1289
+Nyanza Mara,None,east2750
+North Mara,None,nyan1318
+South Mara,None,nyan1318
+Ikoma-Nata-Isenye,None,sout3201
+Unclassified Mara,None,nyan1318
+Suguti,None,east2750
+West Nyanza,None,grea1289
+North Nyanza,None,west2841
+Soga-Kenyi,None,nort3220
+Rutara,None,west2841
+North Rutara,None,ruta1242
+Nkore-Kiga-Nyoro-Tooro,None,nort3228
+Nyoro-Tooro,None,nkor1240
+Nkore-Kiga,None,nkor1240
+South Rutara,None,ruta1242
+Kilimanjaro-Taita,None,nort3203
+Taita-Sagalla,None,kili1269
+Kilimanjaro Bantu,None,kili1269
+Chaga,None,chag1248
+West Kilimanjaro,None,chag1250
+Central Kilimanjaro,None,chag1250
+Rufiji-Ruvuma,None,east2731
+Ruvuma,None,rufi1235
+Yaoic,None,ruvu1234
+Makonde-Makwe,None,ruvu1234
+Unclassified Ruvuma,None,ruvu1234
+Rufijic,None,rufi1235
+Matumbic,None,rufi1236
+Matengic,None,rufi1236
+Ndendeule-Ngindo,None,mate1261
+Unclassified Rufijic,None,rufi1236
+Botatwe,None,east2731
+Western Botatwe,None,bota1239
+Zambezi Hook,None,west2834
+Machili,None,west2834
+Greater Eastern Botatwe,None,bota1239
+Central Eastern Botatwe,None,lenj1247
+Kafue,None,cent2279
+Kilombero,None,east2731
+Shona (S.10),None,east2731
+Unclassified Shona (S. 10),None,shon1250
+Kalanga-Nambya,None,shon1250
+Core Shona,None,shon1250
+Plateau Shona,None,core1255
+Central Shona,None,plat1259
+Enya (D.10),None,east2731
+Nyaturu-Nilamba,None,east2731
+Mbugwe-Langi,None,east2731
+Southern Bantu-Makua,None,east2731
+Chopi (S.60),None,sout3180
+Nguni-Tsonga,None,sout3180
+Nguni (S.40),None,ngun1275
+Southern Ndebele-Lowland,None,ngun1276
+Zulu-Xhosa,None,ngun1267
+Tswa-Ronga (S.50),None,ngun1275
+Sotho-Makua-Venda,None,sout3180
+Sotho-Makua,None,soth1250
+Sotho-Tswana (S.30),None,soth1251
+Tswanaic,None,soth1248
+Sotho,None,soth1248
+Northern Sotho,None,soth1252
+Sepedic,None,nort3233
+Sesotho-Lozi,None,soth1252
+North Mozambique Bantu,None,soth1251
+Makua-Lomwe,None,maku1247
+Lomweic,None,maku1279
+Chuwaboic,None,maku1247
+Ababuan,None,narr1281
+Old Bomokandian,None,abab1240
+Ngbele-Ngenda,None,oldb1234
+Extreme North Vestigial Suffixes Bantu,None,ngbe1239
+Ngendan,None,ngbe1239
+Ngbinda-Mayeka,None,ngen1255
+Unclassified Ngendan,None,ngen1255
+Komoic,None,oldb1234
+Bilaic,None,komo1265
+Bila-Kaiku,None,bila1258
+Middle Bomokandian,None,oldb1234
+Late Bomokandian,None,midd1348
+Pagabeteic,None,late1250
+Bali-Beeke,None,abab1240
+Central-Western Bantu,None,narr1281
+Njebe-Mbete-Teke,None,cent2260
+Sigu-Njebi,None,njeb1243
+Njebi (B.50),None,sigu1234
+Ndjavi B,None,njeb1244
+Ndjavi A,None,njeb1244
+Teke (B.70),None,njeb1243
+Ngungwel-Eboo,None,teke1283
+West Teke,None,teke1283
+Laali-Tsaayi-Yaka,None,west2839
+Laali-Yaa,None,laal1243
+South Teke,None,teke1283
+Mbere (B.60),None,njeb1243
+Tsitsege-Ombamba,None,mber1262
+Ombambaic,None,tsit1234
+Ndumu-Bakanike,None,mber1262
+Likouala-Sangha,None,cent2260
+Mokiba-Ngando,None,liko1251
+Bwamba-Ngondi-Pande-Mbati-Aka,None,liko1251
+Koyo-Mboshi,None,cent2260
+Likwala-Likuba,None,koyo1244
+Luban,None,cent2260
+Mbagani-Lwalwa,None,luba1253
+Luba-Kaonde,None,luba1253
+Kaonde-Shaba-Sanga,None,luba1254
+Lubaic,None,luba1254
+Bangubangu-Kasai,None,luba1255
+Njila,None,cent2260
+Northern Njila,None,njil1234
+Mbala-Holu-Sondi (K.10),None,nort3257
+Mbala-Sondi,None,mbal1259
+Holu (K.10),None,mbal1259
+Pheende-Kwezo,None,holu1246
+Mbundu (H.20),None,nort3257
+Southern Njila,None,njil1234
+Kunene,None,sout3233
+Unclassified Kunene,None,kune1234
+Kwangali-Diriku,None,kune1234
+Cimbebasia,None,kune1234
+Nyaneka-Nkhumbi,None,cimb1239
+Herero (R.30),None,cimb1239
+Ndonga (R.20),None,cimb1239
+Unclassified Ndonga (R.20),None,ndon1253
+Kwambi-Ndonga,None,ndon1253
+Chokwe-Lunda,None,sout3233
+Chokwe-Ngangela-Nyemba (K.20),None,chok1246
+Ngangela-Nyemba,None,chok1244
+Mbwela-Mbunda,None,ngan1306
+Chokwe-Lwena,None,chok1244
+Ruund-Salampasu,None,chok1246
+Lunda-Ruund-Kete,None,ruun1239
+Ruund-Kete,None,lund1275
+Greater Bangi-Ntomba,None,cent2260
+Ngiri,None,grea1286
+Ngiri Riverain,None,ngir1248
+Ngiri Riverain Ubangi,None,ngir1249
+Ngiri Riverain Ubangi-Ripuaire,None,ngir1252
+Bobangic,None,ngir1254
+Bobangic Riverain,None,boba1248
+Bobangi-Bangala-Lingala,None,boba1249
+Lingala-Bangala,None,boba1250
+Libinzic,None,ngir1254
+Libinza Ngiri,None,libi1251
+Libinza Fleuve,None,libi1251
+Ngiri Riverain Ubangi-Interieur,None,ngir1252
+Likoka,None,ngir1253
+Ngiri Riverain Mongala,None,ngir1249
+Ngiri Terrien,None,ngir1248
+Ngombe-Genja,None,ngir1250
+Bamweic,None,ngir1250
+Unclassified Ngiri,None,ngir1248
+Saw,None,unun9926
+Budja (C.37),None,unun9926
+Unclassified Greater Bangi-Ntomba,None,grea1286
+Kela-Ntomba,None,grea1286
+Vieux Mongo,None,kela1261
+Nkutsuic,None,vieu1234
+Boshongo,None,nkut1239
+Bushoong-Wongo-Lele,None,bosh1243
+Tetelaic,None,nkut1239
+Lomongo,None,vieu1234
+Bolia-Ntomba,None,kela1261
+Kongo-Yaka-Suku-Hungan,None,cent2260
+Kongo-Yaka-Suku,None,kong1295
+Yaka-Suku,None,kong1296
+Kikongoic,None,kong1296
+Core Kikongo,None,kiko1234
+South-Central-East Kikongo,None,core1256
+Koongo-Kituba,None,sout3249
+West Kikongo,None,core1256
+Yombe-Vili,None,west2874
+Lumbuic,None,west2874
+Lumbu-Bwisi,None,lumb1251
+Ngubi-Sangu-Sira-Punu,None,lumb1251
+Sangu-Sira-Punu,None,ngub1240
+Sangu-Sira,None,sang1341
+Sira-Barama,None,sang1345
+Punu-Vungu,None,sang1341
+Northern Kikongo,None,kiko1234
+Kunyi-Beembe,None,nort3267
+Kele (C.60),None,cent2260
+Kele-Poke,None,kele1261
+Kele-Lombo,None,kele1263
+So-Poke,None,kele1263
+Basoo,None,sopo1239
+Greater Luyana,None,cent2260
+Western Greater Luyana,None,grea1287
+Simaaic,None,west2833
+Mashi-Mbukushi,None,west2833
+Eastern Greater Luyana,None,grea1287
+Yanzi (B.80),None,cent2260
+Kwilu-Umlaut,None,yanz1243
+Yans-Mpur-Ntsambaan,None,kwil1235
+Boma-Tiene-Mpe,None,yanz1243
+Boma-Tiene,None,boma1248
+Kwilu-Nsong,None,yanz1243
+Nsong-Mpiin-Ngong,None,kwil1237
+Mbam,None,narr1281
+West Mbam (A.40),None,mbam1252
+Mandi-Nyokon,None,west2826
+Yambasa (A.60),None,mbam1252
+Baca-Nuclear Yambasa,None,yamb1256
+Baca,None,baca1247
+Nuclear Yambasa,None,baca1247
+Elip-Maala,None,nucl1746
+Sanaga (A.60),None,mbam1252
+Lebonya,None,narr1281
+Nyali-Ndaka-Mbo-Budu-Vanuma,None,lebo1246
+Vanuma-Nyali,None,nyal1255
+Ndaka-Mbo,None,nyal1255
+Bantu A-B10-B20-B30,None,narr1281
+Lundu-Balong (A.10),None,bant1295
+Lekongo-Manenguba,None,lund1274
+Bafaw-Balong-Manenguba,None,leko1248
+Manenguba,None,ngoe1239
+Central Manenguba,None,mane1268
+Sawabantu,None,bant1295
+Dualaic,None,sawa1251
+Duala-Malimba,None,dual1244
+Kole-Isubu,None,dual1244
+Bengaic,None,sawa1251
+Yasa-Kombe,None,beng1289
+Kpwe,None,sawa1251
+Basaa (A.40),None,bant1295
+Abo-Barombi,None,basa1283
+Basaa-Bakoko,None,basa1283
+Basaa-Hijuk,None,basa1289
+B10-B30,None,bant1295
+Okani (B.30),None,b10b1234
+Southern Okani,None,tsog1242
+Northern Okani,None,tsog1242
+Yaunde-Fang (A.70),None,bant1295
+Ewondo-Bebele,None,yaun1239
+Sheke,None,bant1295
+Bafia (A.50),None,bant1295
+Nuclear Bafia (A.50),None,bafi1244
+Lefa-Bafia,None,nucl1740
+Makaa-Njem (A.80),None,bant1295
+Pomo-Bomwali,None,maka1323
+Kako (A.90),None,pomo1274
+Ndzem-Bomwali,None,pomo1274
+Bekwilic,None,ndze1234
+Mpiemo-Ukhwejo,None,bekw1243
+Njemic,None,ndze1234
+Makaaic,None,ndze1234
+Mvumboic,None,maka1323
+Keleic,None,bant1295
+Kele-Sake,None,kele1260
+Greater Sake,None,kele1262
+Sake-Ndambomo,None,grea1290
+Ngom-Mwesa-Mbangwe,None,grea1290
+Ngom-Mwesa,None,ngom1273
+Kele-Tombidi,None,kele1262
+Greater Kota,None,kele1260
+Kota-Mahongwe,None,grea1288
+Ndasa-Wumbvu-Samay,None,grea1288
+Ndasa-Wumbvu,None,ndas1239
+Wide Grassfields,None,sout3152
+Narrow Grassfields,None,wide1239
+Ring,None,narr1282
+West Ring,None,ring1243
+South Ring,None,ring1243
+Babungoic,None,sout2822
+Center Ring,None,ring1243
+Unclassified Narrow Grassfields,None,narr1282
+Mbam-Nkam,None,narr1282
+Bamileke,None,mbam1249
+West Bamileke,None,bami1239
+Bamboutos,None,west2958
+East Bamileke,None,bami1239
+Nka,None,mbam1249
+Nkambe,None,nkaa1239
+Mfumteic,None,nkam1238
+Central-Southern Mfumte,None,mfum1239
+Mbam-Nkam Nun,None,nkaa1239
+Bamoun,None,mbam1253
+Mungakaic,None,mbam1253
+Ngembaic,None,nkaa1239
+Bafut-Beba,None,ngem1254
+Southwest Grassfields,None,narr1282
+Menka-Atong,None,sout3181
+Momo,None,narr1282
+Widikum-Tadkon,None,momo1242
+Mundani-Njen,None,momo1242
+Ngie-Oshie,None,momo1242
+Beboid,None,sout3152
+Eastern Beboid,None,bebo1243
+Nsari-Nooni-Ncane,None,east2730
+Nooni-Ncane,None,nsar1239
+Ncane-Cung,None,noon1245
+Cung-Mbuk,None,ncan1246
+Unclassified Eastern Beboid,None,east2730
+Bebe-Kemezung,None,east2730
+Naki-Kemezung,None,bebe1253
+Nakic,None,naki1239
+Tivoid,None,sout3152
+North Tivoid,None,tivo1239
+Central Tivoid,None,tivo1239
+Central Tivoid B,None,cent2261
+Central Tivoid A,None,cent2261
+Tiv-Evand,None,cent2267
+Tiv-Iyive-Otanga,None,tive1237
+Jarawan,None,sout3152
+Nigerian Jarawan,None,jara1262
+Jaku-Gubi,None,nige1254
+Jarawaic,None,nige1254
+Numan,None,nige1254
+Unclassified Nigerian Jarawan,None,nige1254
+Ekoid-Mbe,None,sout3152
+Ekoid,None,ekoi1237
+Bakor-Ejagham,None,ekoi1236
+Bakor,None,ejag1240
+Nde-Efutop,None,bako1254
+Abanyom-Ekajuk,None,bako1254
+Bendic,None,sout3152
+Northern Bantoid,None,bant1294
+Dakoid,None,nort3168
+Tiba-Dong,None,dako1256
+Taram-Dirim-Nnakenyare,None,dako1256
+Dirim-Nnakenyare,None,tara1325
+Mambiloid,None,nort3168
+Nizaa-Mambila-Vute,None,mamb1309
+Konja-Mambila-Vute,None,niza1234
+Mambila-Vute,None,konj1251
+Mambila-Mbongno,None,mamb1310
+Mbongno-Mvano,None,mamb1311
+Mvano-Ndunda,None,mbon1254
+Mambila,None,mamb1311
+Eastern Mambila,None,mamb1312
+Njerup,None,mamb1312
+Vutic,None,mamb1310
+Vute-Wawa,None,vuti1235
+Konja,None,konj1251
+Unclassified Bantoid,None,bant1294
+Igboid,genus/igboid,benu1247
+Nuclear Igboid,None,igbo1258
+Kru,None,volt1241
+Eastern Kru,None,krua1234
+Bakwe-Wane,None,east2415
+Unclassified Eastern Kru,None,east2415
+Neyo-Dida,None,east2415
+Dida,None,dida1244
+Guebie-Lakota Dida,None,dida1245
+Beteic,None,east2415
+Eastern Bete,None,bete1265
+Western Bete,None,bete1265
+Western Kru,None,krua1234
+Wee,None,west2485
+Guere-Krahn,None,weea1234
+Guere,gue,guer1244
+Grebo,None,west2485
+Ivorian Grebo,None,greb1257
+Tepo-Plapo,None,ivor1240
+Liberian Grebo,None,greb1257
+North-Central Liberian Grebo,None,greb1256
+Barclayville-Gboloo-Central Liberian Grebo,None,nort3193
+Gboloo-Central Grebo,None,barc1236
+Klao-Tajuasohn,None,west2485
+Bassaic,None,west2485
+Aizi,None,krua1234
+Unclassified Volta-Congo,None,volt1241
+Adamawa Fali,None,unun9902
+Kwa Volta-Congo,None,volt1241
+Ka-Togo,None,kwav1236
+Avatime-Nyangbo,None,kato1245
+Nyangbo-Tafi,None,avat1243
+Kposo-Ahlo-Bowili,None,kato1245
+Kebu-Animere,None,kato1245
+Ga-Dangme,None,kwav1236
+Nyo,None,kwav1236
+Avikam-Alladian,None,nyoa1234
+Agneby,None,nyoa1234
+Potou-Tano,None,nyoa1234
+Potou,None,poto1254
+Tano,None,poto1254
+Central Tano,None,tano1248
+Bia,None,cent2262
+Northern Bia,None,biaa1238
+Anyinic,None,nort2767
+Southern Bia,None,biaa1238
+Jwira-Nzima,None,sout2779
+Akanic,None,cent2262
+Guang,None,tano1248
+South Guang,None,guan1278
+Hill South Guang,None,sout2781
+Gua-Cherepon,None,hill1256
+North Guang,None,guan1278
+Oti North Guang,None,nort3204
+Mountain Oti North Guang,None,otin1234
+Gikyode-Ginyanga,None,moun1254
+Gikyode-Foodo,None,giky1239
+River Oti North Guang,None,otin1234
+Nchumbulu-Dwang,None,rive1262
+Chumbuli,None,rive1262
+Gonja-Dompo,None,nort3204
+Nkonya-Nkami,nkn,nort3204
+Western Tano,None,tano1248
+Na-Togo,None,kwav1236
+Lelemic,None,nato1234
+Likpe-Santrokofi,None,lele1262
+Lelemi-Akpafu,None,lele1262
+Basila-Adele,None,nato1234
+Gbe,None,kwav1236
+Western Gbe,None,gbee1241
+Eweic,None,west2802
+Kpesi-Waci,None,west2802
+Eastern Gbe,None,gbee1241
+Fongbeic,None,east2711
+Eastern Phla-Phera,None,east2711
+Western Phla-Phera,None,east2711
+North Volta-Congo,None,volt1241
+Cameroun-Ubangian,None,nort3149
+Mbumic,None,came1255
+Unclassified Mbum,None,mbum1257
+Central Mbum,None,mbum1257
+Karangic,None,cent2020
+Kare-Pana,None,kara1477
+Northern Mbum,None,mbum1257
+Tupuri-Mundang-Mambai,None,nort2773
+Mundangic,None,tupu1245
+Dama-Galke,None,nort2773
+Unclassified Cameroun-Ubangian,None,came1255
+Ubangi,None,came1255
+Zandic,None,uban1244
+Zande-Nzakara,None,zand1246
+Barambo-Pambia,None,zand1246
+Sereic,None,uban1244
+Sere-Indri,None,sere1262
+Sere-Bviri,None,sere1266
+Bai-Viri,None,sere1263
+Ndogo-Sere,None,sere1263
+Tagbu-Sere,None,ndog1247
+Indri-Togoyo,None,sere1266
+Feroge-Mangaya,None,sere1262
+Ngbandi-Mongoba-Kazibati,None,uban1244
+Ngbandic,None,ngba1290
+Nuclear Ngbandic,None,ngba1280
+Sangoic,None,nucl1737
+Bandaic,None,uban1244
+Nuclear Bandaic,None,band1341
+Ngbugu-Langbasi,None,nucl1797
+Central Bandaic,None,nucl1797
+Central Core Bandaic,None,cent2021
+Mid-Southern Central Core Bandaic,None,cent2022
+Mundu-Baka,None,uban1244
+Eastern Mundu-Baka,None,ngba1292
+Mayogo-Bangba,None,east2391
+Western Mundu-Baka,None,ngba1292
+Baka-Gundi,None,west2836
+Baka complex,None,baka1271
+River Western Mundu-Baka,None,west2836
+Bwaka,None,rive1263
+Monzomboic,None,rive1263
+Kpala-Bakpa,None,monz1253
+Mbaic,None,uban1244
+Ndunga-Mba-Dongo,None,mbai1246
+Ndunga-Mba,None,ndun1247
+Bikwin-Jen,None,came1255
+Bikwin,None,bikw1235
+Burak-Loo,None,bikw1236
+Bambuka-Gomu-Leelau,None,bikw1236
+Mak-Tal,None,bikw1236
+Jen,None,bikw1235
+Unclassified Bikwin-Jen,None,bikw1235
+Central Adamawa,None,came1255
+Unclassified Central Adamawa,None,samb1322
+Mumuye-Yandang,None,samb1322
+Mumuyic,None,mumu1249
+Yandang,None,mumu1249
+Waka-Yendang-Teme,None,yand1260
+Waka-Yandang,None,waka1284
+Bali-Kpasam,None,yand1260
+Samba Duru,None,samb1322
+Northern Samba Duru,None,samb1323
+Vere-Gimme,None,nort3259
+Koma Alantika,None,vere1249
+Vere,None,vere1249
+Southern Samba Duru,None,samb1323
+Diic,None,sout3238
+Sambaic,None,sout3238
+Samba-Leko-Perema-Mumbake,None,leko1246
+Perema-Mumbake,None,samb1324
+Unclassified Samba Duru,None,samb1323
+Bena-Mboi,None,came1255
+Bena,None,bena1258
+Yungur-Voro,None,bena1259
+Gur,None,nort3149
+Tiefoic,None,gura1261
+Tusia,tou,gura1261
+Samu,None,gura1261
+Kulango-Lorom,None,gura1261
+Teenic,None,kula1283
+Kulango,None,kula1283
+Central Gur,None,gura1261
+Southern Central Gur,None,cent2243
+Dogoso-Khe,None,sout3164
+Lobiri-Jaane,None,sout3164
+Grusi,None,sout3164
+East-West Grusi,None,grus1239
+Eastern Grusi,None,east2740
+Tem-Chala,None,east2397
+Bago-Delo-Cala,None,temc1234
+Delo-Cala,None,bago1247
+Kabiyeic,None,east2397
+Western Grusi,None,east2740
+Sisaala-Chakali,None,west2837
+Sisaala,None,sisa1247
+Northwestern Sisaala,None,sisa1248
+Chakalic,None,sisa1247
+Chakali-Tamprusi-Vagala,None,chak1272
+Chakali-Tamprusi,None,chak1273
+Northern Grusi,None,grus1239
+Nuna-Kasem,None,nort2782
+Nuni,None,nuna1234
+Kaansa-Dogose,None,sout3164
+Dogose-Khisa,None,gand1254
+Kirma-Tyurama,None,sout3164
+Northern Central Gur,None,cent2243
+Bwamu-Oti-Volta,None,nort2777
+Oti-Volta,None,bwam1248
+Nuclear Oti-Volta,None,otiv1239
+Gurma-Yom-Oti-Volta Occidental,None,nucl1743
+Gurma-Yom-Naudem,None,gurm1247
+Yom-Nawdm,None,gurm1248
+Gurma,None,gurm1248
+Gurma A,None,gurm1249
+Gurma B,None,gurm1249
+Gourmantche-Moba,None,gurm1250
+Moba-Bimoba,None,gour1248
+Konkomba-Gangam,None,gurm1250
+Oti-Volta Occidental,None,gurm1247
+Nuclear Oti-Volta Occidental,None,west2461
+Northwest Oti-Volta,None,nucl1748
+Safaliba-Dagaare,None,nort3234
+Dagaaric,None,safa1246
+Central-South Dagaric,None,daga1276
+South Dagaric,None,cent2291
+North-West Dagaric,None,daga1276
+Birifor,None,nort3237
+Mossi-Farefare,None,nort3234
+Farefareic,None,moss1237
+Mossic,None,moss1237
+Southeast Western Oti-Volta,None,nucl1748
+Mampruli-Dagbani,None,sout3205
+Kamara-Hanga,None,sout3205
+Oti-Volta Oriental,None,nucl1743
+Waama-Tayari-Ditammari,None,otiv1240
+Tayari-Ditammari,None,waam1245
+Ditammaric,None,taya1258
+Buli-Koma,None,otiv1239
+Bwamu,None,bwam1248
+Nuclear Bwamu,None,bwam1247
+Tula-Longuda,None,cent2243
+Tula-Waja,None,tula1256
+Tulaic,None,tula1250
+Tula-Ma-Yebu,None,tula1251
+Awak-Kamo,None,tula1257
+Nuclear Tulaic,None,tula1257
+Unclassified North Volta-Congo,None,nort3149
+Bua-Kim-Day,None,nort3149
+Adamawa Bua,None,buak1234
+Riverine Bua,None,adam1257
+Unclassified Riverine Bua,None,buan1246
+Bua-Lua,None,buan1246
+Ba-Korom,None,bual1236
+Inland Bua,None,adam1257
+Bolgo-Koke,None,goul1243
+Goulaic,None,goul1243
+Zan-Kulaalic,None,goul1244
+Kulaalic,None,zank1234
+Kim-Besme-Goundo,None,buak1234
+Gbaya-Manza-Ngbaka,None,nort3149
+Gbaya Oriental,None,gbay1279
+Gbanu-Manza-Ngbaka,None,gbay1280
+Manza-Ngbaka,None,gban1259
+Manzaic,None,manz1241
+Ngbaka-Manza-Ali,None,manz1242
+Mbodomo-Bofi,None,gbay1280
+Gbaya Meridional-Occidental,None,gbay1279
+Bokoto-Gbeya,None,gbay1282
+Gbeya,None,boko1260
+Gbeya-Suma,None,gbey1243
+Gbaya Meridional,None,gbay1282
+Senufo,None,nort3149
+South Senufo,None,senu1239
+Tagbana-Jimini,None,sout3153
+North Senufo,None,senu1239
+Supyiric,None,nort3254
+Karaboro,None,senu1239
+Mel,None,atla1278
+Southern Mel,None,mela1257
+Kissi,kis,bull1245
+Bullom,None,bull1245
+Northern Bullom,None,bull1246
+Northern Mel,None,mela1257
+Limba,None,atla1278
+North-Central Atlantic,None,atla1278
+Cangin,None,nort3146
+Saafi-Noon-Lehar,None,cang1245
+Noon-Lehar,None,saaf1239
+Palor-Ndut,None,cang1245
+Central Atlantic,None,nort3146
+Bak,None,cent2230
+Balanta,blz,bakk1238
+Joola-Manjaku,None,bakk1238
+Jola,None,jool1234
+FH-Jola,None,jola1264
+PF-Jola,None,fhjo1234
+Kwatay-Karon-Mlomp,None,pfjo1234
+Karon-Mlomp,None,kwat1245
+Her-Ejamat,None,pfjo1234
+Bayot,None,jola1264
+Gusilay-Bandial,None,jola1264
+Manjaku-Mankanya-Pepel,None,jool1234
+Cur-Bok-Cotier,None,manj1250
+Bijogo,None,cent2230
+Wolof-BKK,None,nort3146
+Wolofic,None,wolo1248
+Nyun,None,wolo1248
+Bainounk,None,east2703
+Buy,None,east2703
+Tenda,None,nort3146
+Bassari-Bedik-Bapen,None,tend1239
+Bedik-Bapen,None,bass1263
+Jaad,None,nort3146
+Fula-Sereer,None,nort3146
+Fula,None,peul1234
+Eastern Fula,None,fula1264
+Adamawa-Bagirmi Fulfulde,None,fula1265
+Naluic,None,nort3146
+Worrorran,None,tree
+Western Worrorran,None,worr1236
+Northern Worrorran,None,worr1236
+Forrest River,None,nort2751
+Greater Kwerba,None,tree
+Kwerba-Samarokena,None,kwer1242
+Samarokena-Airoran,None,kwer1240
+Kwerbaic,genus/kwerba,kwer1240
+Caddoan,genus/caddoan,tree
+Northern Caddoan,None,cadd1255
+Pawnee-Kitsai,None,nort2950
+Pawnee-Arikara,None,pawn1252
+Maningrida,None,tree
+Burera-Nakara,None,mani1293
+Bureran,None,bure1237
+Heibanic,None,tree
+West-Central Heibanic,None,heib1242
+Western Heibanic,None,west2502
+Central Heibanic,None,west2502
+Ebang-Logol,None,cent2049
+Ebang-Laru,None,eban1241
+Eastern Heibanic,None,heib1242
+Anim,None,tree
+Marind-Boazi-Yaqai,family/marind,anim1240
+Yaqayic,None,mari1437
+Boazi,None,mari1437
+Marindic,None,mari1437
+Tirio,None,anim1240
+Nuclear Tirio,None,tiri1259
+Inland Gulf of Papua,None,anim1240
+West Inland Gulf of Papua,None,inla1262
+Hoyaic,None,west2867
+Xincan,None,tree
+Unclassified Xincan,None,xinc1237
+Xinca Shared Grammatical Traits,None,xinc1237
+Yuat,None,tree
+Miyak-Bun-Biwat,None,yuat1252
+Bun-Mundukumo,None,miya1267
+Kaure-Kosare,None,tree
+Dogon,None,tree
+Plains Dogon,None,dogo1299
+Western Plains Dogon,None,plai1257
+West Dogon,None,dogo1299
+Nangan Dogon,None,dogo1299
+North Plateau Dogon,None,dogo1299
+Yanda-Bondum-Tebul,None,nort2824
+Yanda-Ana,None,yand1255
+Escarpment Dogon,None,dogo1299
+North Bougainville,None,tree
+Rotokas-Askopan,None,nort2933
+Sepik,None,tree
+Ram,genus/ram,sepi1257
+Pouye-Karawa,None,ramm1241
+Yellow River,genus/yellowriver,sepi1257
+Iwam-Wogamus,None,sepi1257
+Iwamic,None,iwam1259
+Wogamusin-Chenapian,None,iwam1259
+Sepik Hill,None,sepi1257
+Eastern Sepik Hill,None,sepi1258
+Central Sepik Hill,None,sepi1258
+Nuclear Central Sepik Hill,None,cent2234
+Kapriman-Watakataui,None,nucl1586
+Bahinemic,None,cent2234
+Western Sepik Hill,None,sepi1258
+Hewa-April River,None,west2576
+Sepik Tama,None,sepi1257
+Mehek-Pahi,None,sepi1256
+Mayo-Pasi,None,sepi1256
+Yimin-Bel,None,mayo1278
+Nukuma,None,sepi1257
+Kwanga-Mende,None,nuku1256
+Speech Register,None,tree
+Irish-English,None,spee1234
+Zulu-Sotho,None,spee1234
+Basque-Romani,None,spee1234
+Atlantic-Congo Speech Register,None,spee1234
+Indo-European Speech Register,None,spee1234
+Koman,genus/koman,tree
+Central Koman,None,koma1264
+Dana-Opo,None,opuu1238
+Komo-Uduk,None,opuu1238
+Nambiquaran,None,tree
+Nambikwara Complex,None,namb1299
+Northern Nambiquaran,None,namb1300
+Roosevelt,None,nort3153
+Nubian,genus/nubian,tree
+Nobiin Nubian,None,nubi1251
+West-Central Nubian,None,nubi1251
+Central Nubian,None,west2781
+Kordofan Nubian,None,cent2232
+Eastern Kordofan Nubian,None,kord1246
+Western Kordofan Nubian,None,kord1246
+Unclassified Central Nubian,None,cent2232
+Maiduan,genus/maiduan,tree
+Surmic,genus/surmic,tree
+South Surmic,None,surm1244
+Southwest Surmic,None,sout2836
+Baale-Olam,None,sout2838
+Didinga-Murle,None,sout2838
+Didinga-Longarim,None,didi1256
+Southeast Surmic,None,sout2836
+Pastoral Surmic,None,sout2837
+Tirma-Chai-Mursi,None,past1248
+Bulaka River,genus/bulakariver,tree
+Baibai-Fas,None,tree
+Songhay,genus/songhay,tree
+Eastern Songhay,None,song1307
+Zarma-Kaado-Dendi,None,east2431
+Northwest Songhay,None,song1307
+Northern Songhay,None,nort2822
+Japonic,None,tree
+Ryukyuan,None,japo1237
+Southern Ryukyu,None,ryuk1243
+Macro-Yaeyama,None,ryuk1244
+Northern Ryukyuan,None,ryuk1243
+Okinawa,None,nort3255
+Amami,None,nort3255
+Nuclear Amami,None,amam1245
+Oshima,None,nucl1644
+Okinoerabu-Tokunoshima,None,nucl1644
+Japanesic,None,japo1237
+Japan-Taiwan Japanese,None,japa1256
+Cochimi-Yuman,None,tree
+Yuman,genus/yuman,coch1271
+General Yuman,None,yuma1250
+River Yuman,None,gene1244
+Pai,None,gene1244
+Delta-Californian Yuman,None,gene1244
+Diegueno,None,delt1253
+Narrow Talodi,None,tree
+Lumun-Torona,None,narr1279
+Buram-Saraf,None,narr1279
+Buram Hill Chain,None,bura1298
+Nding-Tasomi,None,bura1298
+Acheron-Tocho,None,bura1298
+Salishan,family/salishan,tree
+Coast Salish,None,sali1255
+Tsamosan,genus/tsamosan,coas1325
+Coastal Tsamosan,None,tsam1241
+Inland Tsamosan,None,tsam1241
+Central Salish,genus/centralsalish,coas1325
+Lushootseed-Puget,None,cent2129
+Straits Salish,None,cent2129
+Interior Salish,genus/interiorsalish,sali1255
+Southern Interior Salish,None,inte1241
+Kalispel-Spokane,None,sout1559
+Northern Interior Salish,None,inte1241
+Bookkeeping,None,tree
+Keram,None,tree
+Ulmapo,None,kera1258
+Mwakai-Pondi,None,mong1343
+East Keram,None,kera1258
+Garrwan,None,tree
+Katukinan,genus/katukinan,tree
+Zaparoan,genus/zaparoan,tree
+Zaparo-Abishira,None,zapa1251
+Iquito-Arabela,None,zapa1251
+Arabela-Andoa,None,iqui1244
+Cahuarano-Iquito,None,iqui1244
+Indo-European,None,tree
+Unclassified Indo-European,None,indo1319
+Classical Indo-European,None,indo1319
+Italic,None,clas1257
+Latino-Faliscan,None,ital1284
+Latinic,None,lati1262
+Imperial Latin,None,lati1263
+Romance,None,impe1234
+Italo-Western Romance,None,roma1334
+Italo-Dalmatian,None,ital1285
+Italian Romance,None,ital1286
+Dalmatian Romance,None,ital1286
+Western Romance,None,ital1285
+Unshifted Western Romance,None,west2813
+Shifted Western Romance,None,west2813
+Southwestern Shifted Romance,None,shif1234
+Occitanic,None,sout3183
+West Ibero-Romance,None,sout3183
+Asturo-Leonese,None,west2838
+Castilic,None,west2838
+South Castilic,None,cast1243
+Ternate-Zamboanga-Cavite,None,sout3200
+Galician Romance,None,west2838
+Macro-Portuguese,None,gali1263
+Luso-Asian Creole,None,macr1272
+Lower Guinea Portuguese,None,macr1272
+Saotomense-Principense,None,lowe1440
+Upper Guinea Portuguese,None,macr1272
+Indo-Portuguesic,None,macr1272
+Northern Indo-Portuguesic,None,indo1327
+Brazil-Portugal Portuguese,None,macr1272
+Northwestern Shifted Romance,None,shif1234
+Gallo-Rhaetian,None,nort3208
+Oil,None,gall1280
+Francoprovencalic,None,oila1234
+Central Oil,None,oila1234
+Macro-French,None,cent2283
+Global French,None,macr1273
+Isle-de-France Creole,None,macr1273
+Circum-Caribbean French,None,macr1273
+Lesser Antillean French Creole,None,circ1240
+Guyanic Creole French,None,circ1240
+Gallo-Italian,None,nort3208
+Emiliano-Romagnolo,None,gall1279
+Piemontese-Lombard,None,gall1279
+Eastern Romance,None,roma1334
+Balkan Romance,None,east2714
+Northern Romanian,None,macr1262
+Eastern Romanian,None,nort3361
+Southern Romance,None,roma1334
+Sardo-Corsican,None,sout3158
+Corsic,None,sard1256
+Sardinian,None,sard1256
+Sabellic,None,ital1284
+Graeco-Phrygian,None,clas1257
+Greek,genus/greek,grae1234
+East Greek,None,gree1276
+Koineic Greek,None,east2798
+Modern Koineic Greek,None,koin1234
+Pontic-Cappadocian Greek,None,mode1266
+Nuclear Modern Greek,None,mode1266
+Germanic,None,clas1257
+East Germanic,None,germ1287
+Northwest Germanic,None,germ1287
+North Germanic,None,nort3152
+West Scandinavian,None,nort3160
+Icelandic-Faroese,None,west2805
+South Scandinavian,None,nort3160
+Nuclear Danish,None,sout3248
+North Scandinavian,None,nort3160
+Narrow North Scandinavian,None,nort3266
+East-Central Swedic,None,nort3266
+East Swedic,None,east2780
+West Germanic,None,nort3152
+High German,None,west2793
+Upper German,None,high1289
+Middle-Modern High German,None,high1286
+Modern High German,None,midd1349
+Alemannic,None,mode1258
+South Alemannic,None,alem1243
+North Alemannic,None,alem1243
+Bairisch,None,mode1258
+Global South Bavarian,None,baye1239
+Upper Franconian,None,mode1258
+Global German,None,uppe1464
+Middle German,None,high1289
+West Middle German,None,fran1268
+Middle Franconian,None,high1287
+Ripuarian,None,midd1319
+Rhenish Franconian,None,high1287
+Palatinate,None,rhin1244
+East Middle German,None,fran1268
+Schlesisch-Wilmesau,None,east2832
+Yiddish,ydd,east2832
+North Sea Germanic,None,west2793
+Altsächsisch,None,nort3175
+Middle-Modern Low German,None,alts1234
+Low German,None,midd1345
+West Low German,None,lowg1239
+North Low Saxon,None,west2357
+Greater East Low German,None,lowg1239
+Anglo-Frisian,None,nort3175
+Anglic,None,angl1264
+Later Anglic,None,angl1265
+Middle-Modern English,None,late1254
+Macro-English,None,merc1242
+Pacific Creole English,None,macr1271
+Early Melanesian Pidgin,None,paci1280
+Guinea Coast Creole English,None,macr1271
+West African Creole English,None,guin1259
+Nigeria-Cameroon Creole English,None,west2851
+Surinamese Creole English,None,guin1259
+Eastern Maroons,None,suri1275
+Ndyuka,None,sran1241
+Caribbean English Creole,None,guin1259
+Western Caribbean Creole,None,cari1284
+Miskitoic Creole English,None,west2854
+Belize-Miskito Creole English,None,misk1243
+Jamaicanic,None,west2854
+Eastern Caribbean Creole,None,cari1284
+Barbados-Eustatius,None,east2759
+Barbados-Trinidad,None,barb1266
+Vincent-Grenadian Creole,None,east2759
+Grenada-Tobago Creole,None,vinc1244
+Gullah-Nevis-Antigua,None,east2759
+Gullah,None,gull1242
+Bahamian Gullah,None,gull1243
+Frisian,None,angl1264
+Modern West Frisian,None,fris1239
+Westlauwers-Terschelling Frisian,None,mode1264
+Macro-Dutch,None,west2793
+Middle-Modern Dutch,None,macr1270
+Modern Dutch,None,midd1347
+Global Dutch,None,mode1257
+Afrikaansic,None,glob1241
+Southwestern Dutch,None,mode1257
+Zeeuwic,None,sout3292
+Celtic,None,clas1257
+Nuclear Celtic,None,celt1248
+Unclassified Nuclear Celtic,None,nucl1715
+Cisalpine Celtic,None,nucl1715
+TGB Celtic,None,nucl1715
+Insular Celtic,None,tgbc1234
+Brythonic,None,insu1254
+Southwestern Brythonic,None,bryt1239
+Old-Modern Welsh,None,bryt1239
+Goidelic,None,insu1254
+Modern Goidelic,None,goid1240
+Eastern Goidelic,None,mode1265
+Tokharian,None,clas1257
+Armenic,None,clas1257
+Eastern-Western Armenian,None,arme1241
+Balto-Slavic,None,clas1257
+Eastern Baltic,None,balt1263
+Slavic,None,balt1263
+South Slavic,None,slav1255
+Western South Slavic,None,sout3147
+Eastern South Slavic,None,sout3147
+Macedo-Bulgarian,None,east2269
+East Slavic,None,slav1255
+Ukrainian-Rusyn,None,east1426
+West Slavic,None,slav1255
+Czech-Slovak,None,west2792
+Czech-Lach,None,czec1260
+Sorbian,srb,west2792
+Lechitic,None,west2792
+Indo-Iranian,None,clas1257
+Nuristani,None,indo1320
+Southern Nuristani,None,nuri1243
+Nuristani Kalasha-Tregami,None,sout3243
+Northern Nuristani,None,nuri1243
+Indo-Aryan,None,indo1320
+Indo-Aryan Northwestern zone,None,indo1321
+Kunar,None,indo1324
+Pech Kunar,None,kuna1264
+Pashayi,None,indo1324
+Eastern Pashayi,None,pash1270
+Western Pashayi,None,pash1270
+Sindhi-Lahnda,None,indo1324
+Sindhic,None,sind1278
+Unclassified Sindhic,None,sind1279
+Lasi-Jadgali,None,sind1279
+Lahnda,None,sind1278
+Paharic,None,lahn1241
+Hindko,None,lahn1241
+Siraikic,None,lahn1241
+Eastern Panjabic,None,sind1278
+Kohistani,None,indo1324
+Indus Kohistanic,None,kohi1251
+Outer Indus Kohistani,None,indu1240
+Bateri-Mankiyali,None,oute1238
+Dir-Swat Kohistani,None,kohi1251
+Chitral,None,indo1324
+Shinaic,None,indo1324
+Western Shinaic,None,shin1270
+Dangari,None,west2860
+Kohistanic Shina,None,shin1270
+Indo-Aryan Eastern zone,None,indo1321
+Oriya-Gauda-Kamrupa,None,indo1323
+Gauda-Kamrupa,None,oriy1254
+Kamrupa,None,gaud1237
+Kamta,None,kamt1240
+Western Kamta,None,kamt1242
+Eastern Kamrupa,None,kamt1240
+Gauda-Banga,None,gaud1237
+Southeastern Bengali,None,gaud1238
+Unclassified Gauda-Banga,None,gaud1238
+Eastern Bengali,None,gaud1238
+Macro-Oriya,None,oriy1254
+Halbic,None,indo1323
+Bihari,None,indo1321
+Tharuic,None,biha1245
+Unclassified Tharu,None,thar1284
+Eastern Tharu,None,thar1284
+Dangaura-Khuna-Sonaha,None,east2316
+Maithili-Magahi,None,biha1245
+Eastern Magahi,None,mait1254
+Maithilic,None,mait1254
+Western Magadhan,None,biha1245
+Sadani,None,west2806
+Bhojpuric,None,west2806
+Unclassified Bihari,None,biha1245
+Kuswaric,None,unun9885
+Indo-Aryan Central zone,None,indo1321
+Romani,None,indo1322
+Anglo-Northwestern Romani,None,roma1329
+British Romani,None,roma1330
+Northwestern Romani,None,roma1330
+Scandinavian Romani,None,nort3197
+Subcontinental Central Indo-Aryan,None,indo1322
+Khandesic,None,subc1234
+Bhil,None,subc1234
+Garasia Bhil,None,bhil1254
+Pauri-Nahali,None,bhil1254
+Vasave-Noiri,None,bhil1254
+Rathawi-Palya,None,bhil1254
+Gujarati-Rajasthani,None,subc1234
+Gujaratic,None,guja1255
+Western Gujaratic,None,guja1256
+Rajasthani,None,guja1255
+Bagri-Jandavra,None,raja1256
+Western Rajasthani,None,raja1256
+Mewati-Gojri,None,raja1256
+Mewari-Gade Lohar,None,raja1256
+Eastern Hindi,None,subc1234
+Western Hindi,None,subc1234
+Unclassified Western Hindi,None,west2812
+Ghera-Gurgula,None,unun9883
+Hindustani,None,west2812
+Bundeli-Bharia,None,west2812
+Indo-Aryan Southern zone,None,indo1321
+Marathic,None,indo1325
+Marathi-Konkani,None,mara1416
+Old-Modern Marathi,None,mara1422
+Modern Marathi,None,oldm1248
+Western Marathi,None,mode1268
+Dhivehi-Sinhala,None,indo1321
+Sinhalaic,None,sinh1245
+Unclassified Indo-Aryan,None,indo1321
+Chinali-Lahul Lohar,None,unun9882
+Indo-Aryan Northern zone,None,indo1321
+Central Pahari,None,indo1310
+Eastern Pahari,nep,indo1310
+Himachali,None,indo1310
+Kangric-Chamealic-Bhattiyali,None,hima1250
+Chamealic,None,kang1292
+Bhadrawahi-Bhalesi-Curahi,None,cham1331
+Kangri-Dogri,dgi,kang1292
+Nuclear Himachali,None,hima1250
+Iranian,None,indo1320
+Saka,None,iran1269
+Central Iranian PBS,None,iran1269
+Central Iranian PB,None,cent2317
+Northwestern Iranian,None,cent2318
+Komisenian,None,nort3177
+Central Iran Kermanic,None,nort3177
+Nuclear Central Iran Kermanic,None,cent2264
+Kashanic,None,nucl1790
+Yazdi-Kermani-Nayini,None,nucl1790
+Caspian,None,nort3177
+Gilaki-Rudbari,None,casp1236
+Mazanderani-Shahmirzadi,None,casp1236
+Laki-Kurdish,None,nort3177
+Kurdish,None,laki1246
+Adharic,None,nort3177
+Zaza,None,tati1243
+Gorani,None,tati1243
+Shabak-Bajalani,None,gora1267
+Tatic,None,tati1243
+Central Tatic,None,tati1244
+Khalkhalic,None,cent2265
+Taromic,None,cent2265
+Northern Tatic,None,tati1244
+Southern Tatic,None,tati1244
+Ramand-Karaj,None,sout3177
+Vafsic,None,sout3177
+Balochic,None,nort3177
+Southern-Western Balochi,None,balo1260
+Sogdic-Ossetic,None,cent2317
+Ossetic,None,sogd1247
+Modern Ossetic,oss,osse1245
+Sogdic,None,sogd1247
+Sogdian-Yagnobi,None,sogd1248
+Yidgha-Munji,None,iran1269
+Southwestern Iranian,None,iran1269
+Middle-Modern Persian,None,sout3157
+Modern Southwestern Iranian,None,midd1352
+Luric-Dezfulic,None,mode1259
+Luric,None,luri1257
+Bakhtiari-Southern Lori,None,luri1252
+Farsic-Caucasian Tat,None,mode1259
+Farsic,None,fars1254
+Eastern Farsic,None,fars1255
+Tajikic,None,east2745
+Caucasian Tat,None,fars1254
+Ormuri-Parachi,None,iran1269
+Sanglechi-Ishkashimi,None,iran1269
+Pashto,None,iran1269
+Nuclear Pashto,None,pash1269
+Shughni-Yazgulami,None,iran1269
+Shughnic,None,shug1237
+Albanian,genus/albanian,clas1257
+Albanian-Tosk,None,alba1267
+Anatolian,None,indo1319
+Unclassified Anatolian,None,anat1257
+Luvic,None,anat1257
+Lycian-Milyan,None,luvi1234
+Luvian,None,luvi1234
+Unclassified Luvic,None,luvi1234
+Tamaic,None,tree
+Tama-Sungor-Miisiirii,None,tama1329
+Tama-Sungor,None,tama1330
+Dravidian,None,tree
+South Dravidian,None,drav1251
+South Dravidian II,None,sout3133
+Gondi,None,sout3139
+Northwest Gondi,None,gond1265
+Southeast Gondi,None,gond1265
+General Southeast Gondi,None,sout3234
+Muria,None,gene1245
+South Bastar Gondi-Koya,None,gene1245
+Teluguic,None,sout3139
+Konda-Kui,None,sout3139
+Manda-Kui,None,kond1294
+Manda-Pengo,None,mand1411
+Kui-Kuvi,None,mand1411
+South Dravidian I,None,sout3133
+Tamil-Kannada,None,sout3138
+Badaga-Kannada,None,tami1291
+Kannadoid,None,bada1263
+Nuclear Kannaoid,None,kann1259
+Tamil-Kota,None,tami1291
+Tamil-Toda,None,tami1292
+Tamil-Irula,None,tami1293
+Tamil-Kodagu,None,tami1294
+Tamil-Malayalam,None,tami1297
+Malayalamoid,None,tami1298
+Ravulic,None,mala1541
+Kalanadic,None,mala1541
+Tamiloid,None,tami1298
+Yerukula-Korava-Kaikadi,None,tami1299
+Tamil-Paliyan,None,tami1299
+Muthuvan-Mannan,None,tami1299
+Malasa-Eravallan,None,tami1299
+Unclassified Tamil-Malayalam,None,tami1298
+Irula-Muduga,None,tami1294
+Muduga-Palu,None,irul1245
+Tulu-Koraga,None,sout3138
+Tulu-Bellari,None,tulu1261
+Koraga,None,tulu1261
+North Dravidian,None,drav1251
+Kurux-Malto,None,nort2698
+Malto,None,kuru1300
+Kurux,None,kuru1300
+Central Dravidian,None,drav1251
+Kolami-Naiki,kol,cent2227
+Parji-Ollari-Gadaba,None,cent2227
+Ollari-Gadaba,None,parj1243
+Unclassified Dravidian,None,drav1251
+Koiarian,genus/koiarian,tree
+Baraic,None,koia1260
+Barai-Namiae,baa,bara1376
+Koiaric,None,koia1260
+Koita-Koiari,None,koia1261
+Biage-Mountain Koiali,None,koia1261
+Yokutsan,None,tree
+General Yokuts,None,yoku1255
+Nim Yokuts,None,gene1243
+Western Tasmanian,None,tree
+Furan,None,tree
+Unattested,None,tree
+Chocoan (Unattested),None,unat1236
+Arawakan (Unattested),None,unat1236
+Dravidian (Unattested),None,unat1236
+Arawan (Unattested),None,unat1236
+Atlantic-Congo (Unattested),None,unat1236
+Tor-Orya (Unattested),None,unat1236
+Afro-Asiatic (Unattested),None,unat1236
+Nambiquaran (Unattested),None,unat1236
+Iwaidjan Proper (Unattested),None,unat1236
+Austronesian (Unattested),None,unat1236
+Pano-Tacanan (Unattested),None,unat1236
+Barbacoan (Unattested),None,unat1236
+Umbugarla (Unattested),None,unat1236
+Tupian (Unattested),None,unat1236
+Worrorran (Unattested),None,unat1236
+Indo-European (Unattested),None,unat1236
+Mangarrayi-Maran (Unattested),None,unat1236
+Cariban (Unattested),None,unat1236
+Pama-Nyungan (Unattested),None,unat1236
+Afro-Asiatic,None,tree
+Chadic,None,afro1255
+West Chadic,None,chad1250
+West Chadic A,None,west2785
+West Chadic A.2-3,None,west2714
+West Chadic A.2,None,west2799
+Tangalic,None,west2715
+Nuclear Tangalic,None,tang1366
+Tangale-Kwami-Kupto,None,tang1367
+Kwami-Kupto,None,tang1378
+Boleic,None,west2715
+Nuclear Boleic,None,bole1261
+Gera-Geruma-Kubi-Deno,None,nucl1735
+Gera-Geruma,None,gera1247
+Kubi-Deno,None,gera1247
+Galambu-Bele,None,nucl1735
+Kirfi-Bele,None,gala1265
+Ngamo-Bele,None,kirf1234
+Bolanci-Bele,None,ngam1283
+Unclassified Boleic,None,bole1261
+West Chadic A.3,None,west2799
+Kofyar-Mushere-Chip,None,west2717
+Pan-Chakato,None,kofy1243
+Goemaic,None,west2717
+Talic,None,anga1311
+West Chadic A.1,None,west2714
+West Chadic A.4,None,west2714
+Fyer-Tambas,None,west2716
+Ronic,None,west2716
+Mundat-Karfa,None,roni1235
+West Chadic B,None,west2785
+West Chadic B.2,None,west2790
+Warji-Gala-Kariya,None,west2712
+West Chadic B.3,None,west2790
+South Bauchi West,None,west2800
+Southwest South Bauchi,None,sout3162
+Zakse-Saya,None,sout3170
+Northwest South Bauchi,None,sout3162
+Polcic,None,nort3190
+South Bauchi East,None,west2800
+Guruntumic,None,sout3161
+Tala-Sho-Zangwal,None,guru1272
+Boghomic,None,sout3161
+Kir-Mangas,None,bogh1240
+West Chadic B.1,None,west2790
+Ngizim-Southwestern Bade,None,west2710
+Shira-Southwestern Bade,None,ngiz1243
+Shira,None,shir1274
+Biu-Mandara,None,chad1250
+North Biu-Mandara,None,bium1280
+Lamang-Hdi,None,nort3156
+Maroua,giz,nort3156
+Musguic,None,nort3156
+Musgu-Mbara,None,bium1279
+Kotoko-Buduma,None,nort3156
+Kotoko Meridional,None,koto1267
+Kotoko Septentrional,None,koto1267
+Kotoko Septentrional 1,None,koto1265
+Kotoko Septentrional 2,None,koto1265
+Kotoko Central,None,koto1267
+Higic,None,nort3156
+Nkafa-Kirya-Bana,None,higi1241
+Nkafa-Kirya,None,nkaf1238
+Margi-Mandara-Mofu,None,nort3156
+Bura-Marghi,None,marg1267
+Buraic,None,bura1296
+Marghic,None,bura1296
+Kilba-South Margi,None,bium1270
+Mandaraic,None,marg1267
+Dghwedeic,None,mand1472
+Gudufic,None,dghw1240
+Wandala-Malgwa-Glavda,None,mand1472
+Wandala-Malgwa,None,wand1280
+Podoko,None,mand1472
+Mofuic,None,marg1267
+Mofu,None,mofu1249
+Tokombere,None,mofu1249
+Meri,None,mofu1249
+Hurza,None,bium1280
+Unclassified Biu-Mandara,None,bium1280
+South Biu-Mandara,None,bium1280
+Matakam,None,sout3145
+Teraic,None,sout3145
+Western Tera,None,bium1275
+Eastern Tera,None,bium1275
+Dabaic,None,sout3145
+Buwal-Gavar,None,bium1274
+Daba-Mazagway-Kola,None,bium1274
+Bataic,None,sout3145
+Gudeic,None,bium1271
+Gude-Jimi-Zizilivakan,None,gude1247
+Fali-Gude,None,gude1248
+Nzanyic,None,gude1247
+Sharwa-Tsuvan,None,gude1247
+East Chadic,genus/eastchadic,chad1250
+East Chadic B,None,east2632
+East Chadic B.1,None,east2633
+Dangla-Mabire-Birgit,None,east2709
+Dangla,None,dang1275
+Unclassified Dangla,None,dang1276
+Birgit-Mogum-Toram,None,dang1275
+Mubic,None,east2709
+Barainic,None,east2633
+East Chadic B.3,None,east2633
+Sokoroic,None,east2710
+Saba-Sokoro-Tamki,None,soko1265
+East Chadic A,None,east2632
+East Chadic A.2,None,east2640
+East Chadic A.2 2,None,east2645
+Gabri-Kimre,None,east2722
+East Chadic A.2 1,None,east2645
+East Chadic A.3,None,east2640
+East Chadic A.1,None,east2640
+East Chadic A.1 2,None,east2775
+East Chadic A.1 1,None,east2775
+Masa,None,chad1250
+North Masa,None,masa1323
+Marba-Musey-Ham,None,nort3157
+Masa-Gizey-Zumaya,None,nort3157
+South Masa,None,masa1323
+Berber,None,afro1255
+Unclassified Berber,None,berb1260
+Greater Zenatic,None,berb1260
+Libyan-Egyptian Oases Berber,None,grea1296
+Zenatic,None,grea1296
+Zuara-Sened,None,zena1250
+Northern Saharan Oasis Berber,None,zena1250
+Ouargli-Oued Righ,None,moza1250
+Western Berber,None,berb1260
+Tuareg,None,berb1260
+Southern Tuareg,None,tuar1240
+Kabyle-Atlas Berber,None,berb1260
+Atlas Berber,None,kaby1244
+Northwestern Moroccan Berber,None,atla1275
+Egyptian,None,afro1255
+Cushitic,None,afro1255
+Agaw,genus/centralcushitic,cush1243
+Northern-Eastern-Western Agaw,None,cent2193
+Northeastern Agaw,None,nort3158
+South Cushitic,None,cush1243
+West Rift South Cushitic,None,sout3054
+Northern West Rift South Cushitic,None,west2720
+Iraqwoid,None,nort3164
+East Cushitic,None,cush1243
+Unclassified East Cushitic,None,east2699
+Highland East Cushitic,None,east2699
+Sidaama-Hadiyya-Kambaata,None,high1285
+Sidaama-Gedeo,None,sida1247
+Hadiyya-Kambaata,None,sida1247
+Kambaataic,None,hadi1241
+Hadiyyaic,None,hadi1241
+Lowland East Cushitic,None,east2699
+Southern Lowland East Cushitic,None,lowl1267
+Mainstream Lowland East Cushitic,None,sout3055
+Oromoid,None,main1283
+Konsoid,None,nucl1701
+Gidole-Bussa,None,kons1242
+Nuclear Oromo,None,nucl1701
+Central-Eastern Oromo,None,nucl1736
+Central Oromo,None,cent2302
+South-East-North Oromo,None,cent2302
+Omo-Tana,None,main1283
+Western Omo-Tana,None,omot1245
+Eastern Omo-Tana,None,omot1245
+Karre-Boni,None,east2653
+Baiso-Jiiddu,None,east2653
+Dabarre-Tunni,None,east2653
+Transversal Lowland East Cushitic,None,sout3055
+Dullay,None,tran1283
+Saho-Afar,None,lowl1267
+Semitic,None,afro1255
+East Semitic,None,semi1276
+West Semitic,None,semi1276
+Central Semitic,None,west2786
+Northwest Semitic,None,cent2236
+Canaanite,None,nort3165
+Ugarito-Phoenician,None,cana1267
+Phoenician-Punic,None,ugar1239
+Hebrewic,None,cana1267
+Aramaic,None,nort3165
+Imperial-Middle-Modern Aramaic,None,aram1259
+Middle-Modern Aramaic,None,impe1236
+Eastern Aramaic,None,midd1367
+Macro-Mandaic,None,east2680
+Central Eastern Aramaic,None,east2680
+North-Eastern Neo-Aramaic,None,cent2217
+Northwestern Jewish Neo-Aramaic,None,nort3241
+Trans-Zab,None,nort3241
+Western Trans-Zab,None,tran1290
+South-Eastern Trans-Zab,None,tran1290
+Bohtan,None,cent2217
+Turoyo-Mlahso,None,cent2217
+Western Aramaic,None,midd1367
+Arabian,None,cent2236
+Arabic,None,arab1394
+Levantine Arabic,None,arab1395
+North African Arabic,None,arab1395
+Eqal,None,nort3191
+Moroccan-Andalusian Arabic,None,nort3191
+Arabian Peninsula Arabic,None,arab1395
+Egyptic Arabic,None,arab1395
+Egypto-Sudanic Arabic,None,egyp1251
+Sudanese-Chadian Arabic,None,egyp1254
+Eastern Arabic,None,arab1395
+Afghanistan-Uzbekistan Arabic,None,east2729
+Qeltu,None,east2729
+Sayhadic,None,cent2236
+Ethiosemitic,None,west2786
+Tigre-Tigrinya,None,ethi1244
+Tigre-Dahalik,None,tigr1276
+South Ethiopic,None,ethi1244
+Outer South Ethiopic,None,sout3078
+TT-Group,None,oute1258
+Peripheral Western Gurage,None,ttgr1237
+N-Group,None,oute1258
+Transversal South Ethiopic,None,sout3078
+Amharic-Argobba,None,tran1288
+Harari-East Gurage,None,tran1288
+Silte-Wolane,None,hara1270
+Modern South Arabian,None,west2786
+Eastern MSA,None,mode1252
+Hobyot-Western MSA,None,mode1252
+Western MSA,None,hoby1243
+Unclassified Semitic,None,semi1276
+Eastern Daly,genus/easterndaly,tree
+Taulil-Butam,None,tree
+South Bougainville,None,tree
+Buin,None,sout2948
+Nasioi,None,sout2948
+Nilotic,genus/nilotic,tree
+Southern Nilotic,None,nilo1247
+Tatoga-Omotik,None,sout2830
+Gemein Datooga,None,tato1241
+North-Central Datooga,None,geme1247
+Kalenjin,None,sout2830
+Elgon-Mau Kalenjin,None,kale1246
+Okiek-Akie,None,kale1246
+Central Kalenjin,None,kale1246
+Plateau Central Kalenjin,None,cent2293
+Northern Kalenjin,None,kale1246
+Western Nilotic,None,nilo1247
+Luo-Burun,None,west2493
+Mabaan-Jumjum,None,luob1235
+Southern Lwoo,None,luob1235
+Adhola-Alur-Luo,None,sout2831
+Adhola-Luo,None,adho1241
+Lango-Kumam,None,sout2831
+Northern Lwoo,None,luob1235
+Luwo-Thuri,None,nort2814
+Dinka-Nuer,None,west2493
+Dinka,None,dink1261
+Nuer-Reel,None,dink1261
+Eastern Nilotic,None,nilo1247
+Barian,None,east2418
+Nuclear Barian,None,bari1283
+Teso-Lotuxo-Maa,None,east2418
+Lotuxo-Maa,None,teso1247
+Lotuxo,None,lotu1248
+Ongamo-Maa,None,lotu1248
+Nuclear Maa,None,onga1238
+Teso-Turkana,None,teso1247
+Turkanic,None,teso1248
+Baining,None,tree
+Unclassified Baining,None,bain1263
+Yuki-Wappo,None,tree
+Jodi-Saliban,None,tree
+Saliban,None,jodi1234
+Maco-Piaroa,None,sali1297
+Inanwatan,None,tree
+Mande,None,tree
+Western Mande,None,mand1469
+Manding-Kpelle,None,west2780
+Southwest Mande,None,mand1431
+Kpelle,None,sout2842
+Mende-Loma,None,sout2842
+Mende-Bandi,None,mend1263
+Bandi-Zialo,None,mend1264
+Mende-Loko,None,mend1264
+Loma,None,mend1263
+Central Mande,None,mand1431
+Manding-Jogo,None,cent2047
+Manding-Vai,None,mand1432
+Manding-Mokole,None,mand1433
+Nuclear Mokole,None,mand1434
+Manding,None,mand1434
+East Manding,None,mand1435
+Manenkan,None,east2425
+Maninka-Mori,None,east2425
+Koro-Koyaga,None,mani1303
+West Manding,None,mand1435
+Xasonka,None,west2499
+Kita-Kagoro,None,west2499
+Vai-Kono,None,mand1433
+Jogo-Jeri,None,mand1432
+Jeri,None,jogo1241
+Jogo,None,jogo1241
+Susu-Yalunka,None,cent2047
+Northwestern Mande,None,west2780
+Soninke-Bozo,None,samo1308
+Soninkean,None,soni1257
+Bozo,None,soni1257
+Nuclear Bozo,None,bozo1252
+Ti-Bozo,None,nucl1444
+Duun-Bobo,None,samo1308
+Bobo,None,duun1243
+Duun-Jo,None,duun1243
+Duun-Seenku,None,duun1244
+Duun,None,samo1309
+Eastern Mande,None,mand1469
+Bisa-Busa,None,east2697
+Samo-Busa,None,bisa1265
+Mande Samo,None,samo1302
+Busan,None,samo1302
+Kyenga-Shanga,None,busa1252
+Boko-Busa,None,busa1252
+Southeastern Mande,None,east2697
+Nwa-Ben,None,sout3140
+Ben-Gban,None,nwab1239
+Bengic,None,beng1285
+Unclassified Nwa-Ben,None,nwab1239
+Wan-Mwan,None,nwab1239
+Mano-Dan,None,sout3140
+Guro-Dan,None,guro1245
+Guro-Yaoure,None,guro1246
+Dan-Toura,None,guro1246
+Toura-Goo,None,dant1235
+Huavean,genus/huavean,tree
+San Francisco-Santa María Huave,None,huav1256
+San Dionisio-San Mateo Huave,None,huav1256
+Pahoturi,None,tree
+Mayan,None,tree
+Huastecan Mayan,None,maya1287
+Core Mayan,None,maya1287
+Yucatecan,None,core1254
+Yucatec-Lacandon,None,yuca1252
+Mopan-Itza,None,yuca1252
+Western Mayan,None,core1254
+Cholan-Tzeltalan,None,west2865
+Cholan,None,chol1286
+Chol-Chontal,col,chol1287
+Chorti-Cholti,None,chol1287
+Tzeltalan,tze,chol1286
+Kanjobalan-Chujean,None,west2865
+Chujean,chj,kanj1261
+Kanjobalan,None,kanj1261
+Kanjobal-Jacaltec,None,kanj1262
+Quichean-Mamean,None,core1254
+Greater Quichean,None,quic1274
+Core Quichean,None,grea1276
+Cakchiquel-Tzutujil,tzu,core1251
+Quiche-Achi,aci,core1251
+Poqom,pkm,grea1276
+Greater Mamean,None,quic1274
+Mamean,None,grea1277
+Ixilan,ixi,grea1277
+Blue Nile Mao,None,tree
+West Mao,None,maoo1243
+Hozo-Seze,None,west2445
+Uralic,family/uralic,tree
+Mordvin,None,ural1272
+Finnic,genus/finnic,ural1272
+Coastal Finnic,None,finn1317
+Neva,None,coas1319
+Central Finnic,None,neva1234
+North Finnic,None,neva1234
+Nuclear Finnish,None,nort3282
+Ladogan,None,nort3282
+East Ladoga,None,lado1234
+Saami,None,ural1272
+Eastern Saami,None,saam1281
+Peninsular Eastern Saami,None,east2324
+Mainland Eastern Saami,None,east2324
+Western Saami,None,saam1281
+Central Western Saami,None,west2390
+Southwestern Saami,None,west2390
+Khantyic,None,ural1272
+East Khanty,None,khan1279
+Northern Khanty,None,khan1279
+Mansic,None,ural1272
+North-Central Mansi,None,mans1269
+Samoyedic,genus/samoyedic,ural1272
+Enets-Nenets,None,samo1298
+Nenets,None,enet1251
+Enets,ene,enet1251
+Kamas-Selkup,None,samo1298
+Permian,None,ural1272
+Komi,None,perm1256
+Mari,None,ural1272
+Uto-Aztecan,None,tree
+Southern Uto-Aztecan,None,utoa1244
+Corachol-Aztecan,None,sout3136
+Corachol,genus/corachol,cora1261
+Coran,None,cora1259
+Aztec,None,cora1261
+Western Nahuatl,None,azte1234
+Central Nahuatl,None,west2809
+Western Periphery-North Guerrero Nahuatl,None,west2809
+North Guerrero Nahuatl,None,west2814
+Western Periphery Nahuatl,None,west2814
+Durango Nahuatl,None,west2825
+Eastern Nahuatl,None,azte1234
+Isthmus Nahuatl,None,east2720
+Huasteca Nahuatl,nhh,east2720
+Tehuacan-Zongolica Nahuatl,None,east2720
+Tehuacanic,None,tehu1243
+Unclassified Southern Uto-Aztecan,None,sout3136
+Opata-Eudeve,None,sout3136
+Tepiman,genus/tepiman,sout3136
+Piman,None,tepi1240
+Tepehuan,None,tepi1240
+Southern Tepehuan,None,tepe1281
+Cahitan,genus/cahita,sout3136
+Tarahumara-Guarijio,None,sout3136
+Tarahumaran,genus/tarahumaran,tara1326
+Northern Uto-Aztecan,None,utoa1244
+Numic,genus/numic,nort2953
+Southern Numic,None,numi1242
+Central Numic,None,numi1242
+Western Numic,None,numi1242
+Unclassified Northern Uto-Aztecan,None,nort2953
+Californian Uto-Aztecan,None,nort2953
+Serran,None,cali1246
+Cupan,None,cali1246
+Unclassified Cupan,None,cupa1239
+Cahuilla-Cupeno,None,cupa1239
+Eastern Jebel,genus/easternjebel,tree
+Aka-Kelo-Molo,None,east2386
+Katla-Tima,None,tree
+Katla-Julud,None,katl1246
+Araucanian,genus/araucanian,tree
+Nakh-Daghestanian,family/nakhdaghestanian,tree
+Nakh,genus/nakh,nakh1245
+Chechen-Ingush,None,nakh1246
+Daghestanian,None,nakh1245
+Lezgic,None,dagh1238
+Samur,None,lezg1248
+Eastern Samur,None,nucl1321
+Udi-Aghwan,None,east2790
+Tabasaran-Aghul-Lezgi,None,east2790
+Aghul-Lezgi,None,east2367
+Southern Samur,None,nucl1321
+Western Samur,None,nucl1321
+Dargwic,None,dagh1238
+South Dargwa,None,darg1242
+Avar-Andic-Tsezic,genus/avarandictsezic,dagh1238
+Tsezic,None,avar1255
+East Tsezic,None,tsez1239
+West Tsezic,None,tsez1239
+Andic,None,avar1255
+Botlikh-Godoberi,None,andi1254
+Bagvalal-Tindi,None,andi1254
+Cariban,None,tree
+Opon-Yukpan,None,cari1283
+Yukpan,None,yukp1242
+Kuikuroan,None,cari1283
+Nuclear Kuikuroan,None,kuik1245
+Guianan,None,cari1283
+Unclassified Guianan,None,guia1242
+Taranoan,None,guia1242
+Tiriyoan,None,tara1324
+Maquiritari-Wayumara,None,guia1242
+Wayanaic,None,guia1242
+Parukotoan,None,cari1283
+Waiwaian,None,paru1239
+Venezuelan Cariban,None,cari1283
+Pemong-Panare,None,vene1261
+Pemongan,None,pemo1246
+Kapong,None,pemo1247
+Mapoyo-Tamanaku,None,vene1261
+Paravilhana-Pauxiana,None,mapo1244
+Mapoyo-Yawarana,None,mapo1244
+Cumana,None,mapo1244
+Yawaperi,None,cari1283
+Pekodian,None,cari1283
+Xinguan,None,peko1235
+Walioic,None,tree
+Pai-Sinen-Walio,None,wali1264
+Bosavi,genus/bosavi,tree
+Bosavi Watershed,None,bosa1245
+Kaluli-Sunia,None,bosa1246
+Etoro-Bedamini,None,bosa1245
+Kwomtari-Nai,None,tree
+Lakes Plain,genus/lakesplain,tree
+Tariku,None,lake1255
+East Tariku,None,tari1255
+Eritai-Obokuitai-Biritai,None,east2502
+Doutai-Kai-Waritai,None,east2502
+West Tariku,None,tari1255
+Fayu-Kirikiri,None,west2582
+Central Tariku,None,tari1255
+Far West Lakes Plain,None,lake1255
+Rasawa-Saponi,None,farw1236
+East Lakes Plain,None,lake1255
+East Strickland,genus/eaststrickland,tree
+Kubo-Samo-Bibo,None,east2433
+Kamakanan,None,tree
+Nuclear Kamakanan,None,kama1371
+Chimakuan,None,tree
+Kolopom,genus/kolopom,tree
+Kimaama-Riantana,None,kolo1268
+Mombum-Koneraw,genus/mombum,tree
+Shastan,None,tree
+Nuclear Trans New Guinea,None,tree
+Dani,genus/dani,nucl1709
+Ngalik-Nduga,None,dani1287
+Yalic,None,ngal1299
+Central Dani,None,dani1287
+Grand Valley Dani,None,cent2233
+Pyramid-Swart Valley,None,cent2233
+Paniai Lakes,None,nucl1709
+Auye-Dao,None,pani1259
+Enga-Kewa-Huli,None,nucl1709
+Engan,genus/engan,enga1254
+Outer Enga,None,enga1251
+Kewa-Huli,None,enga1254
+Sau-Angal-Kewa,None,kewa1249
+Angal-Kewa,None,anga1291
+Kewa,kew,anga1313
+Southeast Kewa,None,kewa1250
+Angal Mendi,None,anga1313
+Chimbu-Wahgi,None,nucl1709
+Simbu,None,cent2120
+Nuclear Simbu,None,simb1258
+Golinic,None,nucl1617
+Kuman-Dom-Gunaa,None,nucl1617
+Chuave-Nomane,None,simb1258
+Jimi,None,cent2120
+Kandawo-Narak,None,jimi1245
+Wahgic,wah,cent2120
+Hagen,None,cent2120
+Aua-Gawil,None,hage1248
+Melpa-Tembagla,None,hage1248
+Asmat-Awyu-Ok,None,nucl1709
+Asmat-Kamoro,genus/asmatkamoro,cent2116
+Asmat,None,asma1256
+Central-Yaosakor Asmat,None,asma1257
+Citak Asmat,None,asma1257
+Sabakor,None,asma1256
+Awyu-Ok,None,cent2116
+Ok-Oksapmin,None,awyu1265
+Ok,genus/ok,okok1235
+Mountain Ok,None,okkk1242
+Mianic,None,moun1253
+Kwer-Kopkaka-Burumakok,None,okkk1242
+Kwer-Burumakok,None,kwer1266
+Lowland Ok,None,okkk1242
+Tangko-Nakai,None,okkk1242
+Greater Awyu,None,awyu1265
+Becking-Dawi,None,grea1275
+Tsakwambo-Komyandaret,None,beck1235
+Awyu-Dumut,None,grea1275
+Ndeiram,kmb,awyu1263
+Dumut,None,awyu1263
+Ketum-Wambon,None,dumu1247
+Mandobo,None,dumu1247
+Awyu,None,awyu1263
+Mappi-Digul Awyu,None,awyu1264
+Unclassified Awyu-Dumut,None,awyu1263
+Madang,None,nucl1709
+Rai Coast,None,mada1298
+Nuru,None,raic1241
+Kabenau,None,raic1241
+Peka,None,raic1241
+Urigina-Danaru,None,peka1243
+Mindjim,None,raic1241
+Yaganon,None,raic1241
+Unclassified Rai Coast,None,raic1241
+Evapia,None,raic1241
+Kesawai-Sausi,None,evap1240
+Unclassified Madang,None,mada1298
+Kowan,None,unun9971
+Croisilles,None,mada1298
+Dimir-Malas,None,croi1234
+Kumilan,None,croi1234
+Numugenan,None,croi1234
+Yaben-Bilakura,None,numu1240
+Yarawata-Parawen-Ukuriguma,None,numu1240
+Mabuso,None,croi1234
+Gum,None,mabu1247
+Panim-Isebe-Bau,None,gumm1240
+Kokon,None,mabu1247
+Hanseman,None,mabu1247
+Rempic,None,hans1243
+Wamas-Samosa-Murupi-Mosimo,None,hans1243
+Garuh-Foran,None,hans1243
+Silopic,None,hans1243
+Silopi-Utu,None,silo1242
+Unclassified Hanseman,None,hans1243
+Mugil-Kaukombaran,None,croi1234
+Kaukombaran,None,mugi1234
+Tibor-Omosa,None,croi1234
+Omosan,None,tibo1242
+Tiboran,None,tibo1242
+Kalamic-South Adelbert,None,mada1298
+Kalam-Kobon,None,kala1403
+Etp-Ti Kalam,None,kala1404
+South Adelbert,None,kala1403
+Sogeram,None,sout3148
+East Sogeram,None,soge1235
+Aisian,None,east2767
+Apalic,None,soge1235
+Greater West Sogeram,None,apal1258
+West Sogeram,None,grea1297
+Unclassified Sogeram,None,soge1235
+North Sogeram,None,soge1235
+Osum-Wadaginam-Pomoikan,None,sout3148
+Pomoikan,None,osum1243
+Anamuxric,None,pomo1272
+Mek,genus/mek,nucl1709
+Eastern Mek,None,mekk1240
+Western Mek,None,mekk1240
+Kainantu-Goroka,None,nucl1709
+Kainantu,None,kain1273
+Tairora,None,kain1274
+Unclassified Kainantu,None,kain1274
+Gauwa,None,kain1274
+Auyana,None,gauw1235
+Gadsup-Agarabi,None,gauw1235
+Awa-Oweina,None,gauw1235
+Unclassified Kainantu-Goroka,None,kain1273
+Goroka,None,kain1273
+Unclassified Goroka,None,goro1272
+Nuclear Goroka,None,goro1272
+Siane-Yagaria,None,nucl1760
+Kamano-Yagaria,None,nucl1756
+Unclassified Kamano-Yagaria,None,kama1374
+Gahuku,None,nucl1760
+Fore-Gimi,None,nucl1760
+Finisterre-Huon,None,nucl1709
+Huon,None,fini1244
+Eastern Huon,None,huon1246
+Kalasa,None,east2705
+Trans Vitiaz,None,east2705
+Huon Tip,None,tran1296
+Sopac,None,huon1247
+Kate-Mape,None,huon1247
+Western Huon,None,huon1246
+Rawlinson,None,west2795
+Pindiu,None,rawl1234
+Kosorong-Burum-Mindik,None,pind1245
+Sankwep,None,rawl1234
+Cromwell,None,west2795
+Dallman,None,crom1234
+Kinalakna-Kumukio,None,dall1240
+Kabwum,None,crom1234
+Selepet-Komba,None,timb1264
+Finisterre-Saruwaged,None,fini1244
+Yupna,None,fini1245
+Bwana-Moam-Tapen,None,yupn1242
+Kewieng-Bonkiman-Nokopo,None,yupn1242
+Unclassified Yupna,None,yupn1242
+Wantoatic,None,fini1245
+Wantoat-Awara,None,want1251
+Gusap-Mot,None,fini1245
+Ufim-Rawa-Nahu,None,gusa1245
+Gira-Neko-Nekgini,None,gusa1245
+Unclassified Gusap-Mot,None,gusa1245
+Uruwa,None,fini1245
+Sakam-Som,None,uruw1240
+Unclassified Uruwa,None,uruw1240
+Erap,None,fini1245
+Boana,None,erap1240
+Nek-Nuk,None,boan1245
+Finungwan-Mamaa-Gusan,None,erap1240
+Sauk-Nimi,None,erap1240
+Warup,None,fini1245
+Nuclear Warup,None,waru1269
+Degenanic,None,nucl1777
+Molet-Asaroo,None,nucl1777
+Unclassified Nuclear Warup,None,nucl1777
+Greater Binanderean,genus/binanderean,nucl1709
+Binanderean,None,bina1276
+North Binanderean,None,bina1279
+Nuclear Binanderean,None,bina1279
+South Binanderean,None,nucl1603
+Orokaivic,None,sout2934
+Coastal Binanderean,None,sout2934
+Baruga-Doghoro,None,coas1297
+Gaena-Korafe,None,coas1297
+Hmong-Mien,None,tree
+Mienic,None,hmon1336
+Mien-Mun,None,mien1242
+Hmongic,None,hmon1336
+Paheng,None,hmon1337
+Nuclear Hmongic-Ho Ne,None,hmon1337
+Nuclear Hmongic,None,nucl1714
+West Hmongic,None,nucl1720
+Greater Chuanqiandian,None,west2803
+Guiyang,None,grea1295
+Mashan,None,grea1295
+Chuanqiandian,None,grea1295
+First Vernacular Hmong,None,chua1248
+Hua Miao,hmo,firs1234
+Unclassified First Vernacular Hmong,None,firs1234
+Huishui,None,grea1295
+North Hmongic,None,nucl1720
+East Hmongic,None,nucl1720
+Jiongnai-Ho Ne,None,nucl1714
+Ho Neic,None,jion1235
+Lepki-Murkim-Kembra,None,tree
+Kiwaian,genus/kiwaian,tree
+Turama-Kerewo,None,kiwa1251
+Sahaptian,genus/sahaptian,tree
+Sahaptin,None,saha1239
+Southern Sahaptin,None,saha1240
+Northern Sahaptin,shp,saha1240
+Chapacuran,None,tree
+Unclassified Chapakura,None,chap1271
+Moreic-Waric,None,chap1271
+Waric,None,more1263
+Urupa-Yaru,None,wari1269
+Wanham-Wari-Oro Win,None,wari1269
+Wari-Oro Win,None,wanh1234
+Moreic-Tora,None,more1263
+Kujubim-More,None,more1264
+Kitemoka-Tapakura,None,chap1271
+Teberan,genus/teberan,tree
+Huarpean,None,tree
+Barbacoan,None,tree
+Unclassified Barbacoan,None,barb1265
+Coconucan,None,barb1265
+Cayapa-Colorado,None,barb1265
+Tsimshian,None,tree
+Nishga-Gitxsan,None,tsim1258
+Keresan,genus/keresan,tree
+Nimboranic,genus/nimboran,tree
+Outer Nimboranic,None,nimb1257
+Mlap-Gresi-Kemtuik,None,oute1261
+Gresi-Kemtuik,None,mlap1239
+Tequistlatecan,genus/tequistlatecan,tree
+Dajuic,genus/daju,tree
+Eastern Dajuic,None,daju1249
+Western Dajuic,None,daju1249
+Nyala Dajuic,None,west2501
+Yareban,None,tree
+Yareba-Bariji-Nawaru,None,yare1250
+Doriri-Abia,None,yare1250
+Hibito-Cholon,None,tree
+Ijoid,genus/ijoid,tree
+Ijo,None,ijoi1239
+Eastern Ijo,None,ijoo1239
+KaKiBa-Nkoroo,None,east2383
+KaKiBa,None,kaki1245
+Western Ijo,None,ijoo1239
+Inland Ijo,None,west2446
+Bayono-Awbono,None,tree
+Tangkic,genus/tangkic,tree
+Southern Tangkic,None,tang1340
+Kayardild-Yangkaal,None,sout2758
+Marrku-Wurrugu,None,tree
+Giimbiyu,None,tree
+Urninganggic,None,giim1238
+Matacoan,genus/matacoan,tree
+Mataguayo I,None,mata1289
+Mataguayo II,None,mata1289
+Wichi,None,mata1291
+Chorote,crt,mata1291
+Kakua-Nukak,None,tree
+Tucanoan,None,tree
+Western Tucanoan,None,tuca1253
+Napo Tucanoan,None,west2784
+Siona-Secoya,None,napo1243
+Sionan,None,sion1248
+Koreguaje-Tama,None,west2784
+Unclassified Tucanoan,None,tuca1253
+Eastern Tucanoan,None,tuca1253
+Eastern Eastern Tucanoan,None,east2698
+Eastern Eastern Tucanoan II,None,east2702
+Pisamira-Yuruti,None,east2708
+Pisamira-Carapana,None,pisa1246
+Tuyuca-Yuruti,None,pisa1246
+Kotiria-Piratapuyo,None,east2708
+Eastern Eastern Tucanoan I,None,east2702
+Bara-Tatuyo,None,east2707
+Western Eastern Tucanoan,None,east2698
+Cubeo-Desano,None,west2789
+Yupua-Siriano-Desano,None,cube1243
+Siriano-Desano,None,yupu1234
+Barasano-Eduria-Macuna,None,west2789
+South Eastern Tucanoan,None,east2698
+Otomanguean,None,tree
+Eastern Otomanguean,None,otom1299
+Amuzgo-Mixtecan,None,east2557
+Amuzgoan,genus/amuzgoan,amuz1253
+Mixtecan,genus/mixtecan,amuz1253
+Mixtec-Cuicatec,None,mixt1422
+Cuicatec,ctc,mixt1423
+Mixtec,None,mixt1423
+Southern Baja Mixtec,None,mixt1427
+Northeastern Alta Mixtec,None,mixt1427
+Central Baja Mixtec,None,mixt1427
+Northern Alta Mixtec,None,mixt1427
+Eastern Alta Mixtec,None,mixt1427
+Teozacoalco Mixtec,None,east2735
+Guerrero Mixtec,None,mixt1427
+Northern Baja Mixtec,None,mixt1427
+Coast Mixtec,None,mixt1427
+West Coast Mixtec,None,coas1316
+East Coast Mixtec,None,coas1316
+Western Alta Mixtec,None,mixt1427
+Trique,None,mixt1422
+Popoloca-Zapotecan,None,east2557
+Zapotecan,genus/zapotecan,popo1292
+Chatino,None,zapo1436
+Core Chatino,None,chat1268
+Coastal Chatino,None,core1263
+Eastern Chatino,None,coas1314
+Zapotec,None,zapo1436
+West Zapotec,None,zapo1437
+West-Central West Zapotec,None,west2645
+Core Zapotec,None,zapo1437
+Papabuco,None,nucl1765
+Narrow Core Zapotec,None,nucl1765
+Miahuatecano,None,core1259
+Miahuateco,None,miah1236
+Central Core Zapotec,None,core1259
+Western Valley Zapotec,None,cent2146
+Extended Ocotepec Zapotec,None,west2947
+Tilquiapanic,None,exte1234
+Cisyautepequeño,None,cent2146
+Mixtepec-Quioquitani-Quieri Zapotec,None,sout3003
+Transyautepecan,None,cent2146
+Northeast Yautepec,None,tran1297
+Northeast Tehuantepec,None,tran1297
+Northern Core Zapotec,None,core1259
+Cajonosic,None,nort2987
+Sierra Juarezic,None,nort2987
+Rinconic,None,nort2987
+Macrocoatecano,None,nucl1765
+Coatecano,None,macr1276
+Coatlan-Loxicha Zapotec,None,coat1245
+Amatecano,None,macr1276
+Popolocan-Mazatecan,None,popo1292
+Mazatecan,None,popo1293
+Mazatec A,None,maza1295
+Mazatec C,None,maza1295
+Mazatec B,None,maza1295
+Central East Baja Mazatec,None,maza1308
+Ixcatec-Chocho-Popolocan,None,popo1293
+Chocho-Popolocan,None,ixca1247
+Popolocan,genus/popolocan,choc1278
+Western Ngigua,None,popo1294
+Northern Ngigua,None,popo1294
+Eastern Ngigua,None,popo1294
+Western Otomanguean,None,otom1299
+Tlapanec-Manguean,None,west2783
+Subtiaba-Tlapanec,genus/subtiabatlapanec,tlap1252
+Mephaa,None,subt1249
+North-Central Mephaa,None,meph1234
+West-Central Mephaa,None,nort3350
+Manguean,None,tlap1252
+Otopame-Chinantecan,None,west2783
+Chinantecan,genus/chinantecan,otop1241
+Chinantec Group V,None,chin1484
+Central-Eastern Chinantec,None,chin1484
+Southeastern Chinantec,None,cent2365
+Chinantec Group III,None,sout3333
+Chinantec Group IV,None,sout3333
+Northwestern Chinantec,None,cent2365
+Chinantec Group II,None,nort3349
+Chinantec Group I,None,nort3349
+Tlacoatzintepec-Chiltepec,None,chin1486
+Otopamean,None,otop1241
+Pamean,genus/pamean,otop1242
+Matlatzincan,None,otop1242
+Otomian,genus/otomian,otop1242
+Otomi,None,otom1297
+Eastern Otomi,None,otom1300
+Southern Otomi,None,otom1300
+Northwestern Otomi,None,otom1300
+Mazahua,maz,otom1297
+Southwestern Otomi,None,otom1297
+Nuclear Torricelli,None,tree
+Galu-Alu,None,nucl1708
+Au-Olo-Elkei,None,nucl1708
+Olo-Elkei,None,auol1234
+West Wapei,genus/westwapei,nucl1708
+One,None,west2580
+Central-Northern One,None,onee1245
+Nuclear Maimai,None,nucl1708
+Heyo-Yahang,None,nucl1590
+Marienberg,None,nucl1708
+Elepi-Kamasau-Marienberg,None,mari1433
+Mandi-Muniwara,None,mari1433
+Nuclear Palai,None,nucl1708
+Bragat-Aruop-Amol,None,nucl1722
+Yangum-Ambrak,None,nucl1722
+Yangum,None,yang1294
+West Palai,None,nucl1708
+Agi-Yeri,None,west2788
+Unclassified Nuclear Torricelli,None,nucl1708
+Yau-Yis,None,nucl1708
+Ningil-Yil,None,nucl1708
+Kombio-Arapesh-Urat,None,nucl1708
+Arapesh,None,komb1276
+Mufian-Bukiyip-Abu,None,arap1279
+Bukiyip-Abu,None,mufi1239
+Kombio-Yambes,None,komb1276
+Kombioic,None,komb1271
+Unclassified Kombio-Yambes,None,komb1271
+Lengua-Mascoy,None,tree
+Lengua,lng,leng1261
+Eastern Enlhet-Enenlhet,None,leng1261
+Nivkh,None,tree
