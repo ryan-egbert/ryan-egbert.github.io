@@ -5,6 +5,8 @@ import re
 LANG_RE = r'^.*\/(\w+)$'
 FAMILY_RE = r'^.*\/(\w+)\/(\w+)$'
 
+ALL_RE = r'^.*\/tree\/(.*)'
+
 class Language:
     def __init__(self, name, family, lat, lon, id, countries, macroareas, status):
         self.id = id
@@ -24,6 +26,10 @@ class Language:
             self.countries = self.countriesStr.split('\n')
         if self.macroareasStr != None:
             self.macroareas = self.macroareasStr.split('\n')
+        for e in self.countries:
+            e.replace("|", "")
+        for e in self.macroareas:
+            e.replace("|", "")
 
 class Family:
     def __init__(self, name, identifier, family):
@@ -47,14 +53,14 @@ def fetchLanguages(path):
                 id = None
                 family = None
 
-                m = re.match(FAMILY_RE, root)
+                m = re.match(ALL_RE, root)
                 if m:
-                    family = m.group(1)
+                    family = m.group(1).replace('/', '|')
                 
                 if config.has_section('core') and config.has_option('core', 'name'):
-                    name = config.get('core', 'name')
+                    name = config.get('core', 'name').replace(",", " ")
                 if config.has_section('identifier') and config.has_option('identifier', 'wals'):
-                    id = config.get('identifier', 'wals')
+                    id = config.get('identifier', 'wals').replace(",", " ")
                 allFamilies.append(Family(name, id, family))
             elif level == 'language':
                 name = None
@@ -66,25 +72,26 @@ def fetchLanguages(path):
                 macroareas = None
                 status = None
 
-                m = re.match(LANG_RE, root)
+                m = re.match(ALL_RE, root)
+                # print(root)
                 if m:
-                    family = m.group(1)
+                    family = m.group(1).replace('/', '|')
                     # print(family)
 
                 if config.has_section('core') and config.has_option('core', 'name'):
-                    name = config.get('core', 'name')
+                    name = config.get('core', 'name').replace(",", " ")
                 if config.has_section('core') and config.has_option('core', 'latitude'):
-                    lat = config.get('core', 'latitude')
+                    lat = config.get('core', 'latitude').replace(",", " ")
                 if config.has_section('core') and config.has_option('core', 'longitude'):
-                    lon = config.get('core', 'longitude')
+                    lon = config.get('core', 'longitude').replace(",", " ")
                 if config.has_section('core') and config.has_option('core', 'iso639-3'):
-                    iso = config.get('core', 'iso639-3')
+                    iso = config.get('core', 'iso639-3').replace(",", " ")
                 if config.has_section('core') and config.has_option('core', 'countries'):
-                    countries = config.get('core', 'countries')
+                    countries = config.get('core', 'countries').replace(",", " ")
                 if config.has_section('core') and config.has_option('core', 'macroareas'):
-                    macroareas = config.get('core', 'macroareas')
+                    macroareas = config.get('core', 'macroareas').replace(",", " ")
                 if config.has_section('endangerment') and config.has_option('endangerment', 'status'):
-                    status = config.get('endangerment', 'status')
+                    status = config.get('endangerment', 'status').replace(",", " ")
 
                 # print(countries.split("\n"))
                 allLanguages.append(Language(name,family,lat,lon,iso,countries,macroareas,status))
