@@ -12,7 +12,7 @@ function createMap() {
             .enter()
             .append("path")
             .attr("d", path)
-            .style("stroke", "black")
+            .style("stroke", "none")
             .style("fill", "black")
             .style("opacity", "0.3")
     });
@@ -40,9 +40,9 @@ function populateMap(csv, countries) {
             let par = countries[d.code].parent;
             return projection([countries[par].lon, countries[par].lat])[1];
         })
-        .style("stroke", d => d.color)
+        .style("stroke", "#555555")
 
-        d3.select("#map").selectAll("circle")
+    d3.select("#map").selectAll("circle")
         .data(csv)
         .enter()
         .append("circle")
