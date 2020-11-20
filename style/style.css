@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.flex-contain {
+    display: flex;
+}
+
+.flex-child {
+    float: left;
+}
+
+path {
+    pointer-events: none;
+}
+
+text {
+    pointer-events: none;
+}

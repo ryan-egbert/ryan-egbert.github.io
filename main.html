@@ -6,9 +6,39 @@
         <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="style/style.css">
+        <script src="https://d3js.org/d3.v5.min.js"></script>
     </head>
-    <body>
+    <body onload="init()">
+        <h1>History of Languages</h1>
+        <div class="flex-contain">
+            <div class="flex-child">
+                <h4>Lang 1</h4>
+                <select id="select">
+                    <option>-- Select a country --</option>
+                    <option value="1">English</option>
+                    <option value="2">French</option>
+                </select>
+            </div>
+            <div class="flex-child">
+                <h4>Lang 2</h4>
+                <select>
+                    <option>-- Select a country --</option>
+                    <option>German</option>
+                    <option>Spanish</option>
+                </select>
+            </div>
+        </div>
+        <button id="find">Find Connections</button>
+        <div class="flex-contain">
+            <svg id="map"></svg>
+            <div class="flex-child">
+                <h2>Info Panel</h2>
+                <div id="info"></div>
+            </div>
+        </div>
+
+
         <script src="js/map.js"></script>
         <script src="js/tree.js"></script>
         <script src="js/main.js"></script>
