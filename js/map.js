@@ -55,18 +55,34 @@ function populateMap(csv, countries) {
         .attr("class", d => d.code)
         .attr("r", 3)
         .style("fill", d => d.color)
-        .on("mouseover", (d,i) => {
-            d3.select(event.currentTarget)
+        .on("mouseover", function (d,i)  {
+            const top = 195 + d3.mouse(this)[1]
+            const left = 5 + d3.mouse(this)[0]
+            d3.select(this)
                 .attr("r", 7);
             console.log("in")
             let text = "";
             text += `Language: ${d.language}<br>`
             text += `Worldwide Speakers: (number of speakers)<br>`
             text += `Locations: ${d.macroareas.replace("|", " ")}<br>`
-            d3.select("#info").html(text);
+            d3.select("#infoTooltip")
+            .append("div")
+            .attr("id", "info")
+            .style("position", "absolute")
+            .style("top",  top + "px")
+            .style("left", left + "px")
+            .style("background-color", "white")
+            .style("border", "solid")
+            .style("border-width", "1px")
+            .style("border-radius", "3px")
+            .style("padding", "10px")
+            d3.select("#info").html("<p>" + text + "</p>");
+            
         })
-        .on("mouseout", (d,i) => {
-            d3.select(event.currentTarget)
+        .on("mouseout", function (d,i) {
+            d3.select(this)
                 .attr("r", 3);
+            d3.select("#info").remove()
         })
 }
+
