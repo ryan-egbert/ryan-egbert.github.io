@@ -1,12 +1,10 @@
-body {
-    text-align: center;
-  
-}
-
-
 @font-face {
     font-family: 'font1';
     src: url('assets/timeline.ttf');
+}
+
+body {
+    text-align: center; 
 }
 
 h1 {
@@ -16,7 +14,6 @@ h1 {
     text-align: center;
     font-size: 56px;
 }
-
 
 path {
     pointer-events: none;
@@ -46,12 +43,16 @@ button {
     border: 2px solid #395b85;
   }
 
+svg {
+  display: block;
+}
+
 
 
 #map{
-padding: 10px;
-float:right;
-margin-right: 400px;
+  padding: 10px;
+  float:right;
+  /* margin-right: 400px; */
 }
 
 #filter {
@@ -69,7 +70,9 @@ margin-right: 400px;
     list-style-type: none;
     padding: 0;
     margin: 0;
-    width: 150px;
+    width: 250px;
+    height: 550px;
+    overflow: scroll;
   }
   
   #myUL li {
@@ -89,4 +92,21 @@ margin-right: 400px;
     background-color: #395685;
     color: white;
   }
+
+.flex-container {
+  display: flex;
+}
+
+.right {
+  float: right;
+}
+
+.flex-child {
+  float: left;
+}
+
+.lang-list {
+  /* height: 550px; */
+  overflow: scroll;
+}
   

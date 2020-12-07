@@ -1,11 +1,50 @@
-let LANG_DATA;
+let LANG_DATA = {};
+let COUNTRIES = {};
 let NUM = 1;
+const COLORS = ["red", "blue", "green"]
 
-d3.csv("../data/dry_run.csv").then(csv => {
-    LANG_DATA = csv;
-    console.log(LANG_DATA);
-    console.log("LANG_DATA finished")
-})
+d3.csv("../data/languages.csv").then(csv => {
+    csv.sort((a,b) => {
+        let name1 = a.name.toUpperCase();
+        let name2 = b.name.toUpperCase();
+        if (name1 > name2) {
+            return 1
+        }
+        return -1;
+    })
+    for (let i = 0; i < csv.length; i++) {
+        let lang = csv[i];
+        let name = lang.name;
+        let ul = document.getElementById("myUL");
+        let li = document.createElement("li");
+        let a = document.createElement("a");
+        a.innerHTML = name;
+        li.appendChild(a);
+        li.setAttribute("id", lang.id);
+        ul.appendChild(li);
+        LANG_DATA[lang.id] = {
+            name: lang.name,
+            parents: lang.parent.split("|"),
+            lat: lang.latitude,
+            lon: lang.longitude,
+            countries: lang.countries.split("|").slice(1),
+            status: lang.status,
+        }
+    }
+    console.log("LANG_DATA finished");
+});
+
+d3.csv("../data/countries.csv").then(csv =>  {
+    for (let i = 0; i < csv.length; i++) {
+        var country = csv[i];
+        COUNTRIES[country.code] = {
+            lat: country.lat,
+            lon: country.lon,
+            name: country.name
+        }
+    }
+    console.log("COUNTRIES finished");
+});
 
 
 let height = 550;
@@ -36,84 +75,32 @@ function init() {
     createMap();
     document.getElementById("find")
         .addEventListener("click", function(e) {
-            addLangs(document.getElementById("select").value, document.getElementById("select2").value);
+            addLangs(["boa", "yec", "eng"]);
         });
-}
-
-function addLangs(val1, val2) {
-    let countries = {};
-    if (val1 == 1) {
-        countries["eng"] = {
-            parent: "ang",
-            lat: 53.0,
-            lon: -1.0
-        }
-        countries["ang"] = {
-            parent: "goh",
-            lat: 51.06,
-            lon: -1.31
-        }
-        countries["goh"] = {
-            parent: "goh",
-            lat: 52.0,
-            lon: 10.0
-        }
-    }
-    else if (val1 == 2){
-        countries["fra"] = {
-            parent: "lat",
-            lat: 48.0,
-            lon: 2.0
-        }
-        countries["lat"] = {
-            parent: "lat",
-            lat: 41.9026,
-            lon: 12.4502
-        }
     }
 
-    if (val2 == 1) {
-        countries["deu"] = {
-            parent: "goh",
-            lat: 48.649,
-            lon: 12.4676
+function addLangs(langs) {
+        let data = [];
+        let countries = {};
+        for (let i = 0; i < langs.length; i++) {
+            let lang = langs[i];
+            let langCountries = LANG_DATA[lang].countries;
+            let status = LANG_DATA[lang].status;
+            for (let j = 0; j < langCountries.length; j++) {
+                let country = langCountries[j];
+                data.push({
+                    code: lang,
+                    color: COLORS[i % COLORS.length],
+                    lat: COUNTRIES[country].lat,
+                    lon: COUNTRIES[country].lon,
+                    language: LANG_DATA[lang].name,
+                    country: COUNTRIES[country].name,
+                    status: status,
+                    numCountries: langCountries.length
+                });
+            }
         }
-        countries["goh"] = {
-            parent: "goh",
-            lat: 52.0,
-            lon: 10.0
-        }
-    }
-    else if (val2 == 2){
-        countries["spa"] = {
-            parent: "lat",
-            lat: 40.4414,
-            lon: -1.11788
-        }
-        countries["lat"] = {
-            parent: "lat",
-            lat: 41.9026,
-            lon: 12.4502
-        }
-    }
-
-    let data = [];
-    for (let i = 0; i < LANG_DATA.length; i++) {
-        if (val1 == 1 && (LANG_DATA[i].code == "eng" || LANG_DATA[i].code == "ang" || LANG_DATA[i].code == "goh")) {
-            data.push(LANG_DATA[i]);
-        }
-        else if (val1 == 2 && (LANG_DATA[i].code == "fra" || LANG_DATA[i].code == "lat")) {
-            data.push(LANG_DATA[i]);
-        }
-        if (val2 == 1 && (LANG_DATA[i].code == "deu" || LANG_DATA[i].code == "goh")) {
-            data.push(LANG_DATA[i]);
-        }
-        else if (val2 == 2 && (LANG_DATA[i].code == "spa" || LANG_DATA[i].code == "lat")) {
-            data.push(LANG_DATA[i]);
-        }
-    }
-
-    populateMap(data, countries)
+        populateMap(data, countries)
 }
 
 

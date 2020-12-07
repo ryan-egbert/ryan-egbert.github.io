@@ -14,51 +14,18 @@
 
     <body onload="init()">
         <h1>Evolution of Languages</h1>
-<div class="map">
-
-    <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages..">
-    <button id="find">Search</button>
-
-   <div>
-    <svg id="map"></svg>
-    <id id="infoTooltip"></id>  
-</div>
-
-<ul id="myUL">
-<li><a>Adele</a></li>
-<li><a >Agnes</a></li>
-<li><a>Billy</a></li>
-<li><a>Bob</a></li>
-<li><a>Calvin</a></li>
-<li><a>Christina</a></li>
-<li><a>Cindy</a></li>
-<li><a>Adele</a></li>
-<li><a >Agnes</a></li>
-<li><a>Billy</a></li>
-<li><a>Bob</a></li>
-<li><a>Calvin</a></li>
-<li><a>Christina</a></li>
-<li><a>Cindy</a></li>
-<li><a>Adele</a></li>
-<li><a >Agnes</a></li>
-<li><a>Billy</a></li>
-<li><a>Bob</a></li>
-<li><a>Calvin</a></li>
-<li><a>Christina</a></li>
-<li><a>Cindy</a></li>
-<li><a>Adele</a></li>
-<li><a >Agnes</a></li>
-<li><a>Billy</a></li>
-<li><a>Bob</a></li>
-<li><a>Calvin</a></li>
-<li><a>Christina</a></li>
-<li><a>Cindy</a></li>
-</ul>
-
-
-
-    
-</div>
+        <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages..">
+        <button id="find">Search</button>
+        <div class="flex-container">
+            <div class="map flex-child">
+                <svg id="map"></svg>
+                <id id="infoTooltip"></id>  
+            </div>
+            <div class="flex-child lang-list">
+                <ul id="myUL"></ul>
+            </div>
+            
+        </div>
 
 
                 <select id="select">

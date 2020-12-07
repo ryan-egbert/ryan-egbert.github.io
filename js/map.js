@@ -25,42 +25,44 @@ function createMap() {
 
 
 
-function populateMap(csv, countries) {
+function populateMap(data, countries) {
 
-
+    let depth_ = 3;
     d3.select("#map").selectAll("line").remove();
     d3.select("#map").selectAll("circle").remove();
 
-    d3.select("#map").selectAll("line")
-        .data(csv)
-        .enter()
-        .append("line")
-        .attr("x1", d => {
-            return projection([d.lon, d.lat])[0];
-        })
-        .attr("y1", d => {
-            return projection([d.lon, d.lat])[1];
-        })
-        .attr("x2", d => {
-            let par = countries[d.code].parent;
-            return projection([countries[par].lon, countries[par].lat])[0];
-        })
-        .attr("y2", d => {
-            let par = countries[d.code].parent;
-            return projection([countries[par].lon, countries[par].lat])[1];
-        })
-        .style("stroke", "#555555")
+    // d3.select("#map").selectAll("line")
+    //     .data(data)
+    //     .enter()
+    //     .append("line")
+    //     .attr("x1", d => {
+    //         return projection([d.lon, d.lat])[0];
+    //     })
+    //     .attr("y1", d => {
+    //         return projection([d.lon, d.lat])[1];
+    //     })
+    //     .attr("x2", d => {
+    //         let par = countries[d.code].parent;
+    //         return projection([countries[par].lon, countries[par].lat])[0];
+    //     })
+    //     .attr("y2", d => {
+    //         let par = countries[d.code].parent;
+    //         return projection([countries[par].lon, countries[par].lat])[1];
+    //     })
+    //     .style("stroke", "#555555")
 
     d3.select("#map").selectAll("circle")
-        .data(csv)
+        .data(data)
         .enter()
         .append("circle")
         
       
         .attr("cx", d => {
+            // let par = countries[d.code].parent;
             return projection([d.lon, d.lat])[0];
         })
         .attr("cy", d => {
+            // let par = countries[d.code].parent;
             return projection([d.lon, d.lat])[1];
         
         })
@@ -76,17 +78,19 @@ function populateMap(csv, countries) {
             
             console.log("in")
             let text = "";
+            text += `Country: ${d.country}<br>`
             text += `Language: ${d.language}<br>`
-            text += `Worldwide Speakers: (number of speakers)<br>`
-            text += `Locations: ${d.macroareas.replace("|", " ")}<br>`
+            text += `Language Status: ${d.status}<br>`
+            text += `# of countries where language is spoken: ${d.numCountries}`
+            // text += `Locations: ${d.macroareas.replace("|", " ")}<br>`
             d3.select("#infoTooltip")
             .append("div")
             .attr("cursor", "pointer")
             .attr("id", "info")
-            .style("position", "top")
+            .style("position", "absolute")
             .style("top",  top + "px")
             .style("left", left + "px")
-            .style("background-color", "#395b85")
+            .style("background-color", d.color)
           
             .style("text-color", "white")
             .style("border", "solid")
