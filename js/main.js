@@ -8,19 +8,29 @@ d3.csv("../data/dry_run.csv").then(csv => {
 })
 
 
-let height = 600;
+let height = 550;
 let width = 1000;
 let projection = d3.geoMercator()
-    .scale(150)
+    .scale(170)
     .translate([width/2,height/1.75]);
 
 let path = d3.geoPath().projection(projection);
 
-zoom = d3.zoom()
-      .scaleExtent([1, 8])
+var zoom = d3.zoom()
+      .scaleExtent([1, 35])
       .on('zoom', zoomed);
 
-d3.select("#map").call(zoom);
+function zoomed() {
+    d3.select("#map")
+      .selectAll('path,line,circle') // To prevent stroke width from scaling
+      .attr('transform', d3.event.transform);
+  }
+
+
+d3.select("#map")
+    .attr("cursor", "pointer")
+    .call(zoom);
+    
 
 function init() {
     createMap();
@@ -106,8 +116,20 @@ function addLangs(val1, val2) {
     populateMap(data, countries)
 }
 
-function zoomed() {
-    d3.select("#map")
-      .selectAll('path,line,circle') // To prevent stroke width from scaling
-      .attr('transform', d3.event.transform);
-  }
+
+function filterLanguages() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("filter");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}

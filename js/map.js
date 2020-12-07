@@ -1,8 +1,13 @@
+
+
+
+
 function createMap() {
     let svg = d3.select("#map")
         .attr("height", height)
         .attr("width", width)
         .append("g")
+       
         .attr("class", "g-map");
 
     d3.json("../data/world_countries.json").then(json => {
@@ -18,7 +23,11 @@ function createMap() {
     });
 }
 
+
+
 function populateMap(csv, countries) {
+
+
     d3.select("#map").selectAll("line").remove();
     d3.select("#map").selectAll("circle").remove();
 
@@ -46,20 +55,25 @@ function populateMap(csv, countries) {
         .data(csv)
         .enter()
         .append("circle")
+        
+      
         .attr("cx", d => {
             return projection([d.lon, d.lat])[0];
         })
         .attr("cy", d => {
             return projection([d.lon, d.lat])[1];
+        
         })
         .attr("class", d => d.code)
         .attr("r", 3)
         .style("fill", d => d.color)
+        
         .on("mouseover", function (d,i)  {
             const top = 195 + d3.mouse(this)[1]
             const left = 5 + d3.mouse(this)[0]
             d3.select(this)
-                .attr("r", 7);
+                .attr("r", 7)
+            
             console.log("in")
             let text = "";
             text += `Language: ${d.language}<br>`
@@ -67,15 +81,18 @@ function populateMap(csv, countries) {
             text += `Locations: ${d.macroareas.replace("|", " ")}<br>`
             d3.select("#infoTooltip")
             .append("div")
+            .attr("cursor", "pointer")
             .attr("id", "info")
-            .style("position", "absolute")
+            .style("position", "top")
             .style("top",  top + "px")
             .style("left", left + "px")
-            .style("background-color", "white")
+            .style("background-color", "#395b85")
+          
+            .style("text-color", "white")
             .style("border", "solid")
             .style("border-width", "1px")
             .style("border-radius", "3px")
-            .style("padding", "10px")
+            .style("padding", "2px")
             d3.select("#info").html("<p>" + text + "</p>");
             
         })

@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -9,37 +10,72 @@
         <link rel="stylesheet" href="style/style.css">
         <script src="https://d3js.org/d3.v5.min.js"></script>
     </head>
+
+
     <body onload="init()">
         <h1>Evolution of Languages</h1>
-        <div class="flex-contain topbar">
-            <div class="flex-child">
-                <h4>Lang 1</h4>
+<div class="map">
+
+    <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages..">
+    <button id="find">Search</button>
+
+   <div>
+    <svg id="map"></svg>
+    <id id="infoTooltip"></id>  
+</div>
+
+<ul id="myUL">
+<li><a>Adele</a></li>
+<li><a >Agnes</a></li>
+<li><a>Billy</a></li>
+<li><a>Bob</a></li>
+<li><a>Calvin</a></li>
+<li><a>Christina</a></li>
+<li><a>Cindy</a></li>
+<li><a>Adele</a></li>
+<li><a >Agnes</a></li>
+<li><a>Billy</a></li>
+<li><a>Bob</a></li>
+<li><a>Calvin</a></li>
+<li><a>Christina</a></li>
+<li><a>Cindy</a></li>
+<li><a>Adele</a></li>
+<li><a >Agnes</a></li>
+<li><a>Billy</a></li>
+<li><a>Bob</a></li>
+<li><a>Calvin</a></li>
+<li><a>Christina</a></li>
+<li><a>Cindy</a></li>
+<li><a>Adele</a></li>
+<li><a >Agnes</a></li>
+<li><a>Billy</a></li>
+<li><a>Bob</a></li>
+<li><a>Calvin</a></li>
+<li><a>Christina</a></li>
+<li><a>Cindy</a></li>
+</ul>
+
+
+
+    
+</div>
+
+
                 <select id="select">
                     <option value="0">-- Select a language --</option>
                     <option value="1">English</option>
                     <option value="2">French</option>
                 </select>
-            </div>
-            <div class="flex-child">
-                <h4>Lang 2</h4>
+                
                 <select id="select2">
                     <option value="0">-- Select a language --</option>
                     <option value="1">German</option>
                     <option value="2">Spanish</option>
                 </select>
-            </div>
-        </div>
-        <input type="text" placeholder="Search..."/>
-        <button id="find">Go</button>
-        <div class="flex-contain">
-            <svg id="map"></svg>
-            <div class="flex-child">
-               <div id="infoTooltip">
-                   
-               </div>
+            
+          
 
-            </div>
-        </div>
+        
 
 
         <script src="js/map.js"></script>

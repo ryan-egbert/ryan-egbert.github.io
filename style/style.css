@@ -1,22 +1,22 @@
 body {
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #dbfffd;
+  
 }
 
-.flex-contain {
-    display: flex;
+
+@font-face {
+    font-family: 'font1';
+    src: url('assets/timeline.ttf');
 }
 
-.flex-child {
-    float: left;
+h1 {
+    margin-top: 0;
+    font-family: 'font2';
+    color: #395685;
+    text-align: center;
+    font-size: 56px;
 }
 
-.topbar {
-    width: 20%;
-    margin-left: 40%;
-    padding-bottom: 10px;
-}
 
 path {
     pointer-events: none;
@@ -26,6 +26,67 @@ text {
     pointer-events: none;
 }
 
-svg {
-    margin-right: 10px;
+button {  
+    padding: 6px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 6px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white; 
+    border: 2px solid #395b85;
+    border-radius: 5px;
+  }
+
+  button:hover {
+    background-color: #395b85;
+    color: white;
+    border: 2px solid #395b85;
+  }
+
+
+
+#map{
+padding: 10px;
+float:right;
+margin-right: 400px;
 }
+
+#filter {
+  
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 200 px;
+    font-size: 16px;
+    padding: 12px 20px 12px 0px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+  }
+  
+  #myUL {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 150px;
+  }
+  
+  #myUL li {
+    border: 1px solid #ddd;
+    margin-left: 50px;
+    width: 150px;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block
+  }
+
+  #myUL li:hover:not(.header) {
+    background-color: #395685;
+    color: white;
+  }
+  
