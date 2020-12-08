@@ -1,7 +1,7 @@
 let LANG_DATA = {};
 let COUNTRIES = {};
 let NUM = 1;
-const COLORS = ["red", "blue", "green"]
+// const COLORS;
 
 d3.csv("../data/languages.csv").then(csv => {
     csv.sort((a,b) => {
@@ -21,6 +21,9 @@ d3.csv("../data/languages.csv").then(csv => {
         a.innerHTML = name;
         li.appendChild(a);
         li.setAttribute("id", lang.id);
+        li.addEventListener("click", function(e) {
+            document.getElementById(lang.id).classList.add("selected");
+        });
         ul.appendChild(li);
         LANG_DATA[lang.id] = {
             name: lang.name,
@@ -75,32 +78,48 @@ function init() {
     createMap();
     document.getElementById("find")
         .addEventListener("click", function(e) {
-            addLangs(["boa", "yec", "eng"]);
+            let langs = [];
+            let lis = document.getElementsByClassName("selected");
+            console.log(lis);
+            for (let i = 0; i < lis.length; i++) {
+                langs.push(lis[i].id);
+            }
+            addLangs(langs);
         });
     }
 
 function addLangs(langs) {
         let data = [];
         let countries = {};
+        let colorData = [];
         for (let i = 0; i < langs.length; i++) {
             let lang = langs[i];
             let langCountries = LANG_DATA[lang].countries;
             let status = LANG_DATA[lang].status;
             for (let j = 0; j < langCountries.length; j++) {
                 let country = langCountries[j];
+                if (country in countries) {
+                    countries[country].push(lang);
+                }
+                else {
+                    countries[country] = [lang]
+                }
+                colorData.push(lang);
                 data.push({
                     code: lang,
-                    color: COLORS[i % COLORS.length],
+                    // color: COLORS[i % COLORS.length],
                     lat: COUNTRIES[country].lat,
                     lon: COUNTRIES[country].lon,
                     language: LANG_DATA[lang].name,
-                    country: COUNTRIES[country].name,
+                    country: country,
+                    countryName: COUNTRIES[country].name,
                     status: status,
                     numCountries: langCountries.length
                 });
             }
         }
-        populateMap(data, countries)
+        let colorWheel = d3.scaleOrdinal().domain(colorData).range(d3.schemeSet3);
+        populateMap(data, countries, colorWheel)
 }
 
 

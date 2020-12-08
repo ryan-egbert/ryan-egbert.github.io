@@ -93,6 +93,11 @@ svg {
     color: white;
   }
 
+.selected {
+  background-color: #395685 !important;
+  color: white !important;
+}
+
 .flex-container {
   display: flex;
 }

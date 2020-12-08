@@ -6,6 +6,7 @@ LANG_RE = r'^.*\/(\w+)$'
 FAMILY_RE = r'^.*\/(\w+)\/(\w+)$'
 
 ALL_RE = r'^.*\/tree\/(.*)'
+COUNTRY_RE = r'.*\((\w+)\).*'
 
 class Language:
     def __init__(self, name, family, lat, lon, id, countries, macroareas, status):
@@ -26,8 +27,11 @@ class Language:
             self.countries = self.countriesStr.split('\n')
         if self.macroareasStr != None:
             self.macroareas = self.macroareasStr.split('\n')
-        for e in self.countries:
-            e.replace("|", "")
+        for e in range(len(self.countries)):
+            self.countries[e].replace("|", "")
+            m = re.match(COUNTRY_RE, self.countries[e])
+            if m:
+                self.countries[e] = m.group(1)
         for e in self.macroareas:
             e.replace("|", "")
 
@@ -92,6 +96,8 @@ def fetchLanguages(path):
                     macroareas = config.get('core', 'macroareas').replace(",", " ")
                 if config.has_section('endangerment') and config.has_option('endangerment', 'status'):
                     status = config.get('endangerment', 'status').replace(",", " ")
+                if iso == None and name != None:
+                    iso = name.lower().replace(" ", "").replace(",", "")
 
                 # print(countries.split("\n"))
                 allLanguages.append(Language(name,family,lat,lon,iso,countries,macroareas,status))
