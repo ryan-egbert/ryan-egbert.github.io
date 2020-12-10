@@ -22,7 +22,12 @@ d3.csv("../data/languages.csv").then(csv => {
         li.appendChild(a);
         li.setAttribute("id", lang.id);
         li.addEventListener("click", function(e) {
-            document.getElementById(lang.id).classList.add("selected");
+            if (document.getElementById(lang.id).classList.contains("selected")){
+                document.getElementById(lang.id).classList.remove("selected");
+            }
+            else{
+                document.getElementById(lang.id).classList.add("selected");
+            }
         });
         ul.appendChild(li);
         LANG_DATA[lang.id] = {
