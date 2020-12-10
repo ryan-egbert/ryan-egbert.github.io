@@ -90,6 +90,16 @@ function init() {
                 langs.push(lis[i].id);
             }
             addLangs(langs);
+            
+        });
+    document.getElementById("clear")
+        .addEventListener("click", function(e) {
+            let lis = document.getElementsByClassName("selected");
+            for (let i = lis.length - 1; i >= 0; --i) {
+                document.getElementById(lis[i].id).classList.remove("selected");
+            
+            }
+            addLangs([]);
         });
     }
 
