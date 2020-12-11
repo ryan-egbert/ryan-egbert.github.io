@@ -17,17 +17,21 @@
         <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages">
         <button id="find">Show on Map</button>
         <button id="clear">Clear Map</button>
-        <div class="flex-container">
-            <div class="map flex-child">
-                <svg id="map"></svg>
-                <id id="infoTooltip"></id>  
+        <div>
+            <div class="flex-container">
+                <div class="map flex-child">
+                    <svg id="map"></svg>
+                    <id id="infoTooltip"></id>  
+                </div>
+                <div class="flex-child">
+                    <button id="multi" class="selected-tab tab">Multiselect</button>
+                    <button id="relationship" class="tab">Language Relationships</button>
+                    <input id="depth-range" type="range" min="1" max="10" value="1">
+                    <ul class="lang-list" id="myUL"></ul>
+                </div>
             </div>
-            <div class="flex-child lang-list">
-                <ul id="myUL"></ul>
-            </div>
-            
         </div>
-        
+
         <script src="js/map.js"></script>
         <script src="js/tree.js"></script>
         <script src="js/main.js"></script>

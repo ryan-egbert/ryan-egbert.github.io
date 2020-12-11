@@ -30,6 +30,10 @@ text {
     pointer-events: none;
 }
 
+line {
+  pointer-events: none;
+}
+
 button {  
     padding: 6px 18px;
     text-align: center;
@@ -49,6 +53,16 @@ button {
     color: white;
     border: 2px solid #395b85;
   }
+
+  button:focus {
+    outline: none;
+  }
+
+.selected-tab { 
+  background-color: #395b85;
+  color: white;
+  border: 2px solid #395b85;
+}
 
 svg {
   display: block;
@@ -78,7 +92,7 @@ svg {
     padding: 0;
     margin: 0;
     width: 250px;
-    height: 550px;
+    height: 475px;
   }
   
   #myUL li {

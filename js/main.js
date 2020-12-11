@@ -2,6 +2,27 @@ let LANG_DATA = {};
 let COUNTRIES = {};
 let NUM = 1;
 // const COLORS;
+let mode = 0;
+
+document.getElementById("multi")
+    .addEventListener("click", function(e) {
+        mode = 0;
+        let other = document.getElementById("relationship");
+        if (other.classList.contains("selected-tab")) {
+            other.classList.remove("selected-tab");
+        }
+        document.getElementById("multi").classList.add("selected-tab");
+});
+
+document.getElementById("relationship")
+    .addEventListener("click", function(e) {
+        mode = 1;
+        let other = document.getElementById("multi");
+        if (other.classList.contains("selected-tab")) {
+            other.classList.remove("selected-tab");
+        }
+        document.getElementById("relationship").classList.add("selected-tab");
+});
 
 d3.csv("../data/languages.csv").then(csv => {
     csv.sort((a,b) => {
@@ -22,10 +43,19 @@ d3.csv("../data/languages.csv").then(csv => {
         li.appendChild(a);
         li.setAttribute("id", lang.id);
         li.addEventListener("click", function(e) {
-            if (document.getElementById(lang.id).classList.contains("selected")){
-                document.getElementById(lang.id).classList.remove("selected");
+            if (mode == 0) {
+                if (document.getElementById(lang.id).classList.contains("selected")){
+                    document.getElementById(lang.id).classList.remove("selected");
+                }
+                else {
+                    document.getElementById(lang.id).classList.add("selected");
+                }
             }
-            else{
+            else if (mode == 1) {
+                let allSelected = document.getElementsByClassName("selected");
+                for (let i = 0; i < allSelected.length; i++) {
+                    allSelected[i].classList.remove("selected");
+                }
                 document.getElementById(lang.id).classList.add("selected");
             }
         });
@@ -83,13 +113,35 @@ function init() {
     createMap();
     document.getElementById("find")
         .addEventListener("click", function(e) {
-            let langs = [];
-            let lis = document.getElementsByClassName("selected");
-            console.log(lis);
-            for (let i = 0; i < lis.length; i++) {
-                langs.push(lis[i].id);
+            if (mode == 0) {
+                let langs = [];
+                let lis = document.getElementsByClassName("selected");
+                console.log(lis);
+                for (let i = 0; i < lis.length; i++) {
+                    langs.push(lis[i].id);
+                }
+                addLangs(langs);
             }
-            addLangs(langs);
+            else if (mode == 1) {
+                let depth = document.getElementById("depth-range").value;
+                let langs = document.getElementsByClassName("selected");
+                if (langs.length != 1) {
+                    console.log("something went wrong...");
+                }
+                let lang = langs[0];
+                let parents = LANG_DATA[lang.id].parents;
+                let origin = LANG_DATA[lang.id];
+                let reversedParents = parents.reverse();
+                console.log(reversedParents.length)
+                let family;
+                if (depth > reversedParents.length) {
+                    family = reversedParents[reversedParents.length - 1];
+                }
+                else {
+                    family = reversedParents[depth - 1];
+                }
+                addLangsRelationships(findRelatedLanguages(family), origin);
+            }
             
         });
     document.getElementById("clear")
@@ -102,6 +154,30 @@ function init() {
             addLangs([]);
         });
     }
+
+function addLangsRelationships(langs, origin) {
+    let data = [];
+    let colorData = [];
+    // let origin = LANG_DATA[originId];
+    // console.log(originId)
+    for (let i = 0; i < langs.length; i++) {
+        let lang = langs[i];
+        let langCountries = LANG_DATA[lang].countries;
+        let status = LANG_DATA[lang].status;
+        colorData.push(lang);
+        data.push({
+            code: lang,
+            // color: COLORS[i % COLORS.length],
+            lat: LANG_DATA[lang].lat,
+            lon: LANG_DATA[lang].lon,
+            language: LANG_DATA[lang].name,
+            status: status,
+            numCountries: langCountries.length
+        });
+    }
+    let colorWheel = d3.scaleOrdinal().domain(colorData).range(d3.schemeSet3);
+    populateMapRelationships(data, origin, colorWheel)
+}
 
 function addLangs(langs) {
         let data = [];
@@ -153,4 +229,16 @@ function filterLanguages() {
             li[i].style.display = "none";
         }
     }
+}
+
+function findRelatedLanguages(family) {
+    let langs = [];
+    for (const lang in LANG_DATA) {
+        // console.log(LANG_DATA[lang])
+        if (LANG_DATA[lang].parents.includes(family)) {
+            langs.push(lang);
+        }
+    }
+    console.log(langs)
+    return langs;
 }
