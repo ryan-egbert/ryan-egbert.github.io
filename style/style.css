@@ -134,4 +134,8 @@ svg {
   /* height: 550px; */
   overflow: scroll;
 }
+
+.silent {
+  display: none;
+}
   
