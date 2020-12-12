@@ -114,7 +114,6 @@ function zoomed() {
       .attr('transform', d3.event.transform);
   }
 
-
 d3.select("#map")
     .attr("cursor", "pointer")
     .call(zoom);

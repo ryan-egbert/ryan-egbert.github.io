@@ -14,9 +14,19 @@
 
     <body onload="init()">
         <h1>Evolution of Languages</h1>
-        <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages">
+
+  <div class = "options">
+    <button id="multi" class="selected-tab tab">Multiselect</button>
+    <button id="relationship" class="tab">Language Relationships</button>
+    <input id="depth-range" type="range" min="1" max="10" value="1">
+    
+    <div class= "divider">
         <button id="find">Show on Map</button>
         <button id="clear">Clear Map</button>
+    </div>
+   
+  </div>
+       
         <div>
             <div class="flex-container">
                 <div class="map flex-child">
@@ -30,6 +40,7 @@
                         <div id="depth-value"></div>
                         <input id="depth-slider" type="range" min="1" max="10" value="1">
                     </div>
+                    <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages">
                     <ul class="lang-list" id="myUL"></ul>
                 </div>
             </div>

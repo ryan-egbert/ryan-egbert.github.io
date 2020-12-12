@@ -3,9 +3,7 @@
     src: url('assets/timeline.ttf');
 }
 
-body {
-    text-align: center; 
-}
+
 
 input:focus::-webkit-input-placeholder {
   color: transparent;
@@ -13,6 +11,7 @@ input:focus::-webkit-input-placeholder {
 
 html, body {
   overflow: visible;
+
 }
 h1 {
     margin-top: 0;
@@ -38,7 +37,6 @@ button {
     padding: 6px 18px;
     text-align: center;
     text-decoration: none;
-    margin-left: 800px;
     font-size: 15px;
     margin: 4px 6px;
     transition-duration: 0.4s;
@@ -69,35 +67,55 @@ svg {
 }
 
 #map{
-  padding: 10px;
+  
+  background-color: #f6f6f6;
  
 }
 
+.divider{
+    width:400px;
+    height:auto;
+    display:inline-block;
+    margin-left: 140px;
+}
+
+.options{
+  align-content: flex-start;
+  margin-bottom: 20px;
+  margin-left: 100px;
+
+}
+
+.line{
+  opacity: .15;
+  color: #395685;
+  stroke-width: 1.5;
+}
+
 #filter {
-  
     background-position: 10px 12px;
     background-repeat: no-repeat;
     width: 200 px;
     font-size: 16px;
     padding: 12px 20px 12px 0px;
     border: 1px solid #ddd;
-    margin-bottom: 12px;
-    
     text-indent: 3px;
+    border-radius: 5px;
+    margin-left: 25px;
     
   }
   
   #myUL {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
-    width: 250px;
-    height: 475px;
+    overflow-x: hidden;
+    width: 220px;
+    height: 500px;  
+    
   }
   
   #myUL li {
     border: 1px solid #ddd;
-    margin-left: 50px;
+    display: inline;
     width: 175px;
     margin-top: -1px; /* Prevent double borders */
     background-color: #f6f6f6;
@@ -105,7 +123,8 @@ svg {
     text-decoration: none;
     font-size: 18px;
     color: black;
-    display: block
+    display:inline-block;
+  
   }
 
   #myUL li:hover:not(.header) {
@@ -119,7 +138,9 @@ svg {
 }
 
 .flex-container {
-  display: flex;
+  padding-left: 50px;
+  display: inherit;
+
 }
 
 .right {
@@ -128,14 +149,59 @@ svg {
 
 .flex-child {
   float: left;
+  align-content:center;
+  
 }
 
 .lang-list {
   /* height: 550px; */
   overflow: scroll;
+  
+}
+
+
+circle{
+  
+  animation-name: pulse;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-timing-function: ease-out; 
+  animation-direction: alternate;  
+}
+
+@keyframes pulse {
+  from{
+    r: 1;
+  }
+  to {
+    r: 6;
+    opacity: .8;
+     
+  }
+
 }
 
 .silent {
   display: none;
 }
   
+#myUL::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 5px;
+	background-color: #F5F5F5;
+}
+
+#myUL::-webkit-scrollbar
+{
+	width: 16px;
+	background-color: #F5F5F5;
+}
+
+#myUL::-webkit-scrollbar-thumb
+{
+	border-radius: 5px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #395685;
+}
