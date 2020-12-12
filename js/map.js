@@ -23,6 +23,8 @@ function createMap() {
     });
 }
 
+
+
 function populateMapRelationships(data, origin, cw) {
     d3.select("#map").selectAll("line").remove();
     d3.select("#map").selectAll("circle").remove();
@@ -31,7 +33,7 @@ function populateMapRelationships(data, origin, cw) {
     d3.select("#map").selectAll("line")
         .data(data)
         .enter()
-        .append("line")
+        .append("line").classed("line", true)
         .attr("x1", d => {
             if (d.lon == "None" || d.lat == "None") {
                 projection([0,0])[0];
@@ -96,8 +98,8 @@ function populateMapRelationships(data, origin, cw) {
             }
             return cw(d.code);
         })
-        .style("stroke", "black")
-        .style("stroke-width", "0.5px")
+        .style("stroke", "gray")
+        .style("stroke-width", "0.3px")
         
         .on("mouseover", function (d,i)  {
             const top = 195 + d3.mouse(this)[1]
@@ -166,7 +168,7 @@ function populateMap(data, countries, cw) {
     d3.select("#map").selectAll("circle")
         .data(data)
         .enter()
-        .append("circle")
+        .append("circle").classed("pulse", true)
         
       
         .attr("cx", d => {
@@ -189,6 +191,7 @@ function populateMap(data, countries, cw) {
         
         })
         .attr("class", d => d.code)
+        
         .attr("r", 3)
         .style("fill", d => cw(d.code))
         .style("stroke", "black")
@@ -227,5 +230,9 @@ function populateMap(data, countries, cw) {
                 .attr("r", 3);
             d3.select("#info").remove()
         })
+
+        
 }
+
+
 

@@ -3,9 +3,7 @@
     src: url('assets/timeline.ttf');
 }
 
-body {
-    text-align: center; 
-}
+
 
 input:focus::-webkit-input-placeholder {
   color: transparent;
@@ -38,7 +36,7 @@ button {
     padding: 6px 18px;
     text-align: center;
     text-decoration: none;
-    margin-left: 800px;
+    
     font-size: 15px;
     margin: 4px 6px;
     transition-duration: 0.4s;
@@ -69,35 +67,45 @@ svg {
 }
 
 #map{
-  padding: 10px;
+  
+  background-color: #f6f6f6;
  
+}
+.options{
+  align-content: flex-start;
+
+}
+
+.line{
+  opacity: .15;
+  color: #395685;
+  stroke-width: 1.5;
 }
 
 #filter {
-  
     background-position: 10px 12px;
     background-repeat: no-repeat;
     width: 200 px;
     font-size: 16px;
     padding: 12px 20px 12px 0px;
     border: 1px solid #ddd;
-    margin-bottom: 12px;
-    
     text-indent: 3px;
+    border-radius: 5px;
+    margin-left: 25px;
     
   }
   
   #myUL {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
-    width: 250px;
-    height: 475px;
+    overflow-x: hidden;
+    width: 220px;
+    height: 500px;
+    
   }
   
   #myUL li {
     border: 1px solid #ddd;
-    margin-left: 50px;
+    display: inline;
     width: 175px;
     margin-top: -1px; /* Prevent double borders */
     background-color: #f6f6f6;
@@ -105,7 +113,7 @@ svg {
     text-decoration: none;
     font-size: 18px;
     color: black;
-    display: block
+    display:inline-block;
   }
 
   #myUL li:hover:not(.header) {
@@ -119,7 +127,9 @@ svg {
 }
 
 .flex-container {
-  display: flex;
+  padding-left: 50px;
+  display: inherit;
+
 }
 
 .right {
@@ -128,10 +138,34 @@ svg {
 
 .flex-child {
   float: left;
+  align-content:center;
+  
 }
 
 .lang-list {
   /* height: 550px; */
   overflow: scroll;
-}
   
+}
+
+.pulse {
+  fill: black;;
+  fill-opacity: 0;
+  transform-origin: 50% 50%;
+  animation-duration: 2s;
+  animation-name: pulse;
+  animation-iteration-count: infinite;
+}
+
+@keyframes pulse {
+  from {
+    stroke-width: 3px;
+    stroke-opacity: 1;
+    transform: scale(0.3);
+  }
+  to {
+    stroke-width: 0;
+    stroke-opacity: 0;
+    transform: scale(2);
+  }
+}

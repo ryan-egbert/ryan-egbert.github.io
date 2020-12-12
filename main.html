@@ -14,9 +14,15 @@
 
     <body onload="init()">
         <h1>Evolution of Languages</h1>
-        <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages">
-        <button id="find">Show on Map</button>
-        <button id="clear">Clear Map</button>
+
+  <div>
+    <button id="find">Show on Map</button>
+    <button id="clear">Clear Map</button>
+    <button id="multi" class="selected-tab tab">Multiselect</button>
+    <button id="relationship" class="tab">Language Relationships</button>
+    <input id="depth-range" type="range" min="1" max="10" value="1">
+  </div>
+       
         <div>
             <div class="flex-container">
                 <div class="map flex-child">
@@ -24,9 +30,7 @@
                     <id id="infoTooltip"></id>  
                 </div>
                 <div class="flex-child">
-                    <button id="multi" class="selected-tab tab">Multiselect</button>
-                    <button id="relationship" class="tab">Language Relationships</button>
-                    <input id="depth-range" type="range" min="1" max="10" value="1">
+                    <input type="text" id="filter" onkeyup="filterLanguages()" placeholder="  Search for languages">
                     <ul class="lang-list" id="myUL"></ul>
                 </div>
             </div>
