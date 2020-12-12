@@ -101,7 +101,7 @@ svg {
     border: 1px solid #ddd;
     text-indent: 3px;
     border-radius: 5px;
-    margin-left: 25px;
+    margin-left: 40px;
     
   }
   
@@ -160,7 +160,7 @@ svg {
 }
 
 
-circle{
+/* circle{
   
   animation-name: pulse;
   animation-duration: 6s;
@@ -180,7 +180,7 @@ circle{
      
   }
 
-}
+} */
 
 .silent {
   display: none;

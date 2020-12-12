@@ -4,10 +4,10 @@ let NUM = 1;
 // const COLORS;
 let mode = 0;
 
-document.getElementById("depth")
-    .addEventListener("change", function(e) {
-        document.getElementById("depth-value").innerHTML = "Depth: " + document.getElementById("depth-slider").value;
-    });
+// document.getElementById("depth")
+//     .addEventListener("change", function(e) {
+//         document.getElementById("depth-value").innerHTML = "Depth: " + document.getElementById("depth-slider").value;
+//     });
 
 document.getElementById("multi")
     .addEventListener("click", function(e) {
