@@ -235,6 +235,3 @@ function populateMap(data, countries, cw) {
 
         
 
-
-
-

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-    
+
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,11 +15,38 @@
 
     <body onload="init()">
         <h1>Evolution of Languages</h1>
+        
+        <div id = "bar">
+            <a href="#" id="aboutLink">ABOUT US</a>
+            <!-- The Modal -->
+            <div id="about" class="modal">   
+            <!-- Modal content -->
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <p>We created this website to show everyone how literally awesome languages are. 
+                    The map below allows you to see where language are spoken in the world. 
+                    You can select as many languages as you like using our “Multiselect Languages” button. 
+                    If you would like to see the history and evolution of a language from a family, 
+                    you can use the “Language Relationship” button. This will show you the connections 
+                    that just one language has with other family members. The slider tool allows you to 
+                    scale the lineage. The scale that we use is a 1-10 scale. The default option is set 
+                    at 1 which will show you just the language you selected. Each increment will show 
+                    you direct relationships that language has with its family. 
+                </p>
+                <p>Created by: Literally Awesome </p>
+                <p>Ryan Egbert, Jared Knutti, and Kendra Rogers</p>
+                
+                
+
+            </div>
+        </div>
+
+    <p class = "idk">Closely &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Further </p>
 
   <div class = "options">
-    <button id="multi" class="selected-tab tab">Multiselect</button>
+    <button id="multi" class="selected-tab tab">Multiselect Languages</button>
     <button id="relationship" class="tab">Language Relationships</button>
-    <input id="depth-range" type="range" min="1" max="10" value="1">
+    <input id="depth-range" class = "slider" type="range" min="1" max="10" value="1">
     
     <div class= "divider">
         <button id="find">Show on Map</button>

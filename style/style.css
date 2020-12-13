@@ -17,6 +17,7 @@ h1 {
     color: #395685;
     text-align: center;
     font-size: 56px;
+    margin-bottom: 10px;
 }
 
 path {
@@ -123,7 +124,7 @@ svg {
     list-style-type: none;
     overflow-x: hidden;
     width: 220px;
-    height: 500px;  
+    height: 490px;  
     
   }
   
@@ -173,7 +174,7 @@ svg {
 }
 
 .flex-container {
-  padding-left: 50px;
+  padding-left: 100px;
   display: inherit;
 
 }
@@ -185,6 +186,7 @@ svg {
 .flex-child {
   float: left;
   align-content:center;
+  
   
 }
 /* End Scroll-bar */
@@ -217,19 +219,95 @@ circle{
 /* End Circles */
 
 
-#depth-range{
-  color: #395685;
-  width: 150px;
+/* Beginning Modal Popup */
 
+#bar{
+  width: 100%;
+  height: 30px;
+  background-color: #395685;
 }
 
-#depth-range-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
-  width: 25px;
-  height: 25px;
-  background: #4CAF50;
+#aboutLink{
+  color: white;
+  text-decoration: none;
+  font-display: initial;
+  margin-left: 10px;
+  font-size: 20px;
+  
+}
+
+#aboutLink:hover{
+  font-size: 24px;
+}
+ 
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
   cursor: pointer;
 }
 
+/* End of Modal */
 
+
+/*Beginning of slider attempt */
+
+ 
+.slider::-moz-range-thumb {
+  color: #395685;
+  border: 0;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #395685;
+  cursor: pointer;
+}
+
+.slider{
+  color: #395685;
+  width: 150px;
+  background: #395685;
+  background-color: #395685;
+
+}
+
+.idk{
+  width: 400px;
+  font-size: 8;
+  margin-left: 515px;
+  margin-bottom: -1.5px;
+  height: 8px;
+  font-family: 'font2';
+}

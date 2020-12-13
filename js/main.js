@@ -242,3 +242,30 @@ function findRelatedLanguages(family) {
     console.log(langs)
     return langs;
 }
+
+// Beginning of modal for about us
+
+var modal = document.getElementById("about");
+
+// Opens the modal
+var btn = document.getElementById("aboutLink");
+
+// Closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// Click the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// Click on "X" to close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// Click anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
