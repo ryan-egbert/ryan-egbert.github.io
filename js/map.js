@@ -1,7 +1,3 @@
-
-
-
-
 function createMap() {
     let svg = d3.select("#map")
         .attr("height", height)
@@ -23,12 +19,11 @@ function createMap() {
     });
 }
 
-
-
 function populateMapRelationships(data, origin, cw) {
     d3.select("#map").selectAll("line").remove();
     d3.select("#map").selectAll("circle").remove();
     d3.select("#map").selectAll("rect").remove();
+    d3.select("#map").selectAll("text").remove();
 
     d3.select("#map").selectAll("line")
         .data(data)
@@ -64,24 +59,10 @@ function populateMapRelationships(data, origin, cw) {
         .data(data)
         .enter()
         .append("circle")
-        
-      
         .attr("cx", d => {
-            // let par = countries[d.code].parent;
-            // let index = 0;
-            // if (d.country in countries) {
-            //     if (countries[d.country].length > 1) {
-            //         for (let i = 0; i < countries[d.country].length; i++) {
-            //             if (countries[d.country][i] == d.code) {
-            //                 index = i * 10;
-            //             }
-            //         }
-            //     }
-            // }
             return projection([d.lon, d.lat])[0];
         })
         .attr("cy", d => {
-            // let par = countries[d.code].parent;
             return projection([d.lon, d.lat])[1];
         
         })
@@ -137,7 +118,38 @@ function populateMapRelationships(data, origin, cw) {
                     .attr("r", 3);
             }
             d3.select("#info").remove()
-        })
+        });
+
+        let size = 5;
+        d3.select("#map").selectAll("rect")
+            .data(data)
+            .enter()
+            .append("rect")
+            .attr("x", 50)
+            .attr("y", function(d,i) {
+                return 50 + i * (size + 5)
+            })
+            .attr("width", size)
+            .attr("height", size)
+            .style("fill", d => {
+                if (d.language == origin.name){
+                    return "white"
+                }
+                else {
+                    return cw(d.code)
+                }
+            })
+
+        d3.select("#map").selectAll("text")
+            .data(data)
+            .enter()
+            .append("text")
+            .attr("x", 75)
+            .attr("y", function(d,i) {
+                return 55 + i * (size + 5)
+            })
+            .text(d => d.language)
+            .style("font-size", "8px")
 }
 
 function populateMap(data, countries, cw) {
@@ -145,26 +157,7 @@ function populateMap(data, countries, cw) {
     d3.select("#map").selectAll("line").remove();
     d3.select("#map").selectAll("circle").remove();
     d3.select("#map").selectAll("rect").remove();
-
-    // d3.select("#map").selectAll("line")
-    //     .data(data)
-    //     .enter()
-    //     .append("line")
-    //     .attr("x1", d => {
-    //         return projection([d.lon, d.lat])[0];
-    //     })
-    //     .attr("y1", d => {
-    //         return projection([d.lon, d.lat])[1];
-    //     })
-    //     .attr("x2", d => {
-    //         let par = countries[d.code].parent;
-    //         return projection([countries[par].lon, countries[par].lat])[0];
-    //     })
-    //     .attr("y2", d => {
-    //         let par = countries[d.code].parent;
-    //         return projection([countries[par].lon, countries[par].lat])[1];
-    //     })
-    //     .style("stroke", "#555555")
+    d3.select("#map").selectAll("text").remove();
 
     d3.select("#map").selectAll("circle")
         .data(data)
@@ -230,8 +223,33 @@ function populateMap(data, countries, cw) {
                 .attr("r", 3);
             d3.select("#info").remove()
         })
+        d3.select("#map").selectAll("rect")
+            .data(data)
+            .enter()
+            .append("rect")
+            .attr("x", 50)
+            .attr("y", function(d,i) {
+                return 50 + i * (size + 5)
+            })
+            .attr("width", size)
+            .attr("height", size)
+            .style("fill", d => {
+                if (d.language == origin.name){
+                    return "white"
+                }
+                else {
+                    return cw(d.code)
+                }
+            })
 
+        d3.select("#map").selectAll("text")
+            .data(data)
+            .enter()
+            .append("text")
+            .attr("x", 75)
+            .attr("y", function(d,i) {
+                return 55 + i * (size + 5)
+            })
+            .text(d => d.language)
+            .style("font-size", "8px")
 }
-
-        
-

@@ -195,7 +195,7 @@ svg {
 
 /* circle{
 /* Beginning  Circles Pulse*/
-circle{
+/* circle{
   
   animation-name: pulse;
   animation-duration: 6s;
@@ -215,7 +215,7 @@ circle{
      
   }
 
-} */
+} */ */
 
 /* End Circles */
 
@@ -229,7 +229,7 @@ circle{
 }
 
 #aboutLink{
-  color: white;
+  color: #395685;
   text-decoration: none;
   font-display: initial;
   margin-left: 10px;
@@ -238,7 +238,7 @@ circle{
 }
 
 #aboutLink:hover{
-  font-size: 24px;
+  font-size: 22px;
 }
  
 /* The Modal (background) */

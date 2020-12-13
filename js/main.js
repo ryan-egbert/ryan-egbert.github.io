@@ -136,16 +136,13 @@ function init() {
                 let lang = langs[0];
                 let parents = LANG_DATA[lang.id].parents;
                 let origin = LANG_DATA[lang.id];
-                let reversedParents = parents.reverse();
-                console.log(reversedParents.length)
                 let family;
                 if (depth > parents.length) {
-                    family = parents[parents.length - 1];
+                    family = parents[0];
                 }
                 else {
-                    family = parents[depth - 1];
+                    family = parents[parents.length - depth];
                 }
-                console.log(family, findRelatedLanguages(family))
                 addLangsRelationships(findRelatedLanguages(family), origin);
             }
         });
