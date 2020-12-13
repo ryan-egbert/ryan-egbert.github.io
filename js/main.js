@@ -4,12 +4,20 @@ let NUM = 1;
 // const COLORS;
 let mode = 0;
 
+document.getElementById("depth")
+    .addEventListener("change", function(e) {
+        document.getElementById("depth-value").innerHTML = "Depth: " + document.getElementById("depth-slider").value;
+    });
+
 document.getElementById("multi")
     .addEventListener("click", function(e) {
         mode = 0;
         let other = document.getElementById("relationship");
         if (other.classList.contains("selected-tab")) {
             other.classList.remove("selected-tab");
+        }
+        if (!document.getElementById("depth").classList.contains("silent")) {
+            document.getElementById("depth").classList.add("silent");
         }
         document.getElementById("multi").classList.add("selected-tab");
 });
@@ -20,6 +28,9 @@ document.getElementById("relationship")
         let other = document.getElementById("multi");
         if (other.classList.contains("selected-tab")) {
             other.classList.remove("selected-tab");
+        }
+        if (document.getElementById("depth").classList.contains("silent")) {
+            document.getElementById("depth").classList.remove("silent");
         }
         document.getElementById("relationship").classList.add("selected-tab");
 });

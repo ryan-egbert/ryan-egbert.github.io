@@ -146,6 +146,7 @@ svg {
     color: white;
   }
 
+
 #myUL::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -215,8 +216,6 @@ circle{
 
 /* End Circles */
 
-
-/* Beginning Slider */
 
 #depth-range{
   color: #395685;
