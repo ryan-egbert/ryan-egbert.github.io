@@ -3,8 +3,6 @@
     src: url('assets/timeline.ttf');
 }
 
-
-
 input:focus::-webkit-input-placeholder {
   color: transparent;
 }
@@ -14,11 +12,12 @@ html, body {
 
 }
 h1 {
-    margin-top: 0;
+    margin-top: 20px;
     font-family: 'font2';
     color: #395685;
     text-align: center;
     font-size: 56px;
+    margin-bottom: 10px;
 }
 
 path {
@@ -33,7 +32,10 @@ line {
   pointer-events: none;
 }
 
-button {  
+
+/* Beginning style of buttons */
+button {
+      
     padding: 6px 18px;
     text-align: center;
     text-decoration: none;
@@ -62,6 +64,9 @@ button {
   border: 2px solid #395b85;
 }
 
+/* End button styling */
+
+
 svg {
   display: block;
 }
@@ -72,12 +77,16 @@ svg {
  
 }
 
+/*Divider div to sepearate the button groupls */
+
 .divider{
     width:400px;
     height:auto;
     display:inline-block;
     margin-left: 140px;
 }
+
+/* div style for Multiselct, Compare, slider */
 
 .options{
   align-content: flex-start;
@@ -86,11 +95,15 @@ svg {
 
 }
 
+/* Lines with relationshipsn */
+
 .line{
   opacity: .15;
   color: #395685;
   stroke-width: 1.5;
 }
+
+/* Search Inpput */
 
 #filter {
     background-position: 10px 12px;
@@ -104,12 +117,14 @@ svg {
     margin-left: 40px;
     
   }
+
+  /* Beginning list, Scrollbar */
   
   #myUL {
     list-style-type: none;
     overflow-x: hidden;
     width: 220px;
-    height: 500px;  
+    height: 490px;  
     
   }
   
@@ -132,13 +147,34 @@ svg {
     color: white;
   }
 
+
+#myUL::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 5px;
+	background-color: #F5F5F5;
+}
+
+#myUL::-webkit-scrollbar
+{
+	width: 16px;
+	background-color: #F5F5F5;
+}
+
+#myUL::-webkit-scrollbar-thumb
+{
+	border-radius: 5px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #395685;
+}
+
 .selected {
   background-color: #395685 !important;
   color: white !important;
 }
 
 .flex-container {
-  padding-left: 50px;
+  padding-left: 100px;
   display: inherit;
 
 }
@@ -151,16 +187,15 @@ svg {
   float: left;
   align-content:center;
   
-}
-
-.lang-list {
-  /* height: 550px; */
-  overflow: scroll;
   
 }
+/* End Scroll-bar */
+
 
 
 /* circle{
+/* Beginning  Circles Pulse*/
+circle{
   
   animation-name: pulse;
   animation-duration: 6s;
@@ -182,26 +217,98 @@ svg {
 
 } */
 
-.silent {
-  display: none;
+/* End Circles */
+
+
+/* Beginning Modal Popup */
+
+#bar{
+  width: 100%;
+  height: 30px;
+  background-color: #395685;
 }
+
+#aboutLink{
+  color: white;
+  text-decoration: none;
+  font-display: initial;
+  margin-left: 10px;
+  font-size: 20px;
   
-#myUL::-webkit-scrollbar-track
-{
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-	border-radius: 5px;
-	background-color: #F5F5F5;
 }
 
-#myUL::-webkit-scrollbar
-{
-	width: 16px;
-	background-color: #F5F5F5;
+#aboutLink:hover{
+  font-size: 24px;
+}
+ 
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
 
-#myUL::-webkit-scrollbar-thumb
-{
-	border-radius: 5px;
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-	background-color: #395685;
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* End of Modal */
+
+
+/*Beginning of slider attempt */
+
+ 
+.slider::-moz-range-thumb {
+  color: #395685;
+  border: 0;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #395685;
+  cursor: pointer;
+}
+
+.slider{
+  color: #395685;
+  width: 150px;
+  background: #395685;
+  background-color: #395685;
+
+}
+
+.idk{
+  width: 400px;
+  font-size: 8;
+  margin-left: 515px;
+  margin-bottom: -1.5px;
+  height: 8px;
+  font-family: 'font2';
 }

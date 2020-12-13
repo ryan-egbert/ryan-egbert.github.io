@@ -16,9 +16,6 @@ document.getElementById("multi")
         if (other.classList.contains("selected-tab")) {
             other.classList.remove("selected-tab");
         }
-        if (!document.getElementById("depth").classList.contains("silent")) {
-            document.getElementById("depth").classList.add("silent");
-        }
         document.getElementById("multi").classList.add("selected-tab");
 });
 
@@ -28,9 +25,6 @@ document.getElementById("relationship")
         let other = document.getElementById("multi");
         if (other.classList.contains("selected-tab")) {
             other.classList.remove("selected-tab");
-        }
-        if (document.getElementById("depth").classList.contains("silent")) {
-            document.getElementById("depth").classList.remove("silent");
         }
         document.getElementById("relationship").classList.add("selected-tab");
 });
@@ -114,9 +108,10 @@ function zoomed() {
       .attr('transform', d3.event.transform);
   }
 
+
 d3.select("#map")
     .attr("cursor", "pointer")
-    .call(zoom);
+    .call(zoom, zoomed);
     
 
 function init() {
@@ -144,15 +139,15 @@ function init() {
                 let reversedParents = parents.reverse();
                 console.log(reversedParents.length)
                 let family;
-                if (depth > reversedParents.length) {
-                    family = reversedParents[reversedParents.length - 1];
+                if (depth > parents.length) {
+                    family = parents[parents.length - 1];
                 }
                 else {
-                    family = reversedParents[depth - 1];
+                    family = parents[depth - 1];
                 }
+                console.log(family, findRelatedLanguages(family))
                 addLangsRelationships(findRelatedLanguages(family), origin);
             }
-            
         });
     document.getElementById("clear")
         .addEventListener("click", function(e) {
@@ -251,4 +246,31 @@ function findRelatedLanguages(family) {
     }
     console.log(langs)
     return langs;
+}
+
+// Beginning of modal for about us
+
+var modal = document.getElementById("about");
+
+// Opens the modal
+var btn = document.getElementById("aboutLink");
+
+// Closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// Click the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// Click on "X" to close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// Click anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
 }
