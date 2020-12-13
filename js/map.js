@@ -223,6 +223,7 @@ function populateMap(data, countries, cw) {
                 .attr("r", 3);
             d3.select("#info").remove()
         })
+        let size = 5;
         d3.select("#map").selectAll("rect")
             .data(data)
             .enter()
