@@ -102,8 +102,9 @@ function populateMapRelationships(data, origin, cw) {
         .style("stroke-width", "0.3px")
         
         .on("mouseover", function (d,i)  {
-            const top = 195 + d3.mouse(this)[1]
-            const left = 5 + d3.mouse(this)[0]
+            // Bugged code for position on tooltip
+            // const top = 250 + d3.mouse(this)[1]
+            // const left = 10 + d3.mouse(this)[0]
             if (d.language != origin.name) {
                 d3.select(this)
                     .attr("r", 5)
@@ -118,9 +119,9 @@ function populateMapRelationships(data, origin, cw) {
             .attr("cursor", "pointer")
             .attr("id", "info")
             .style("position", "absolute")
-            .style("top",  top + "px")
-            .style("left", left + "px")
             .style("background-color", cw(d.code))
+            .style("left", (d3.mouse(this)[0]+20) + "px")
+            .style("top", (d3.mouse(this)[1]) + "px")
           
             .style("text-color", "white")
             .style("border", "solid")
@@ -168,7 +169,7 @@ function populateMap(data, countries, cw) {
     d3.select("#map").selectAll("circle")
         .data(data)
         .enter()
-        .append("circle").classed("dots", true)
+        .append("circle")
     
         .attr("cx", d => {
             // let par = countries[d.code].parent;
@@ -197,8 +198,8 @@ function populateMap(data, countries, cw) {
         .style("stroke-width", "0.2px")
         
         .on("mouseover", function (d,i)  {
-            const top = 180 + d3.mouse(this)[1]
-            const left = 5 + d3.mouse(this)[0]
+            // const top = 180 + d3.mouse(this)[1]
+            // const left = 5 + d3.mouse(this)[0]
             d3.select(this)
                 .attr("r", 5)
             let text = "";
@@ -212,8 +213,10 @@ function populateMap(data, countries, cw) {
             
             .attr("id", "info")
             .style("position", "absolute")
-            .style("top",  top + "px")
-            .style("left", left + "px")
+            .style("left", (d3.mouse(this)[0]) + "px")
+            .style("top", (d3.mouse(this)[1]) + "px")
+            // .style("top",  top + "px")
+            // .style("left", left + "px")
             .style("background-color", cw(d.code))
             .style("border", "solid")
             .style("border-width", "1px")
@@ -227,9 +230,6 @@ function populateMap(data, countries, cw) {
                 .attr("r", 3);
             d3.select("#info").remove()
         })
-
-        .append("circle")
-        .attr("r", 20)
 
 }
 
