@@ -6,7 +6,7 @@ function createMap() {
        
         .attr("class", "g-map");
 
-    d3.json("../data/world_countries.json").then(json => {
+    d3.json("/vis-final-project/data/world_countries.json").then(json => {
         console.log(json);
         d3.select("#map").selectAll("path")
             .data(json.features)
