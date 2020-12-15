@@ -29,7 +29,7 @@ document.getElementById("relationship")
         document.getElementById("relationship").classList.add("selected-tab");
 });
 
-d3.csv("vis-final-project/data/languages.csv").then(csv => {
+d3.csv("/data/languages.csv").then(csv => {
     csv.sort((a,b) => {
         let name1 = a.name.toUpperCase();
         let name2 = b.name.toUpperCase();
@@ -77,7 +77,7 @@ d3.csv("vis-final-project/data/languages.csv").then(csv => {
     console.log("LANG_DATA finished");
 });
 
-d3.csv("vis-final-project/data/countries.csv").then(csv =>  {
+d3.csv("/data/countries.csv").then(csv =>  {
     for (let i = 0; i < csv.length; i++) {
         var country = csv[i];
         COUNTRIES[country.code] = {
